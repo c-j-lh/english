@@ -1,0 +1,840 @@
+@UTF8
+@PID:	11312/a-00005292-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|2;02.13|male|TYP||Child||227|
+@ID:	fra|Nadig|MOT||female|||Mother|undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*CHI:	deux cafés .
+%mor:	num|deux n|café&m-PL .
+*MOT:	deux tasses à café .
+%mor:	n|deux&m n|tasse&f-PL prep|à n|café&m .
+*CHI:	tasses à café .
+%mor:	n|tasse&f-PL prep|à n|café&m .
+*CHI:	deux cafés .
+%mor:	num|deux n|café&m-PL .
+*CHI:	ici .
+%mor:	adv:place|ici .
+*MOT:	ici ?
+%mor:	adv:place|ici ?
+*CHI:	&ou .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	un &ash .
+%mor:	det:art|un&m&sg .
+*CHI:	un assiette .
+%mor:	det:art|un&m&sg n|assiette&f .
+*MOT:	deux assiettes .
+%mor:	num|deux n|assiette&f-PL .
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	pour un café .
+%mor:	prep|pour det:art|un&m&sg n|café&m .
+*MOT:	deux assiettes pour les tasses à café .
+%mor:	num|deux n|assiette&f-PL prep|pour det:art|les&pl n|tasse&f-PL
+	prep|à n|café&m .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+*CHI:	ça ça va là .
+%mor:	pro:dem|ça pro:dem|ça v:mdl|aller&PRES&3s adv:place|là .
+*CHI:	xxx ensemble .
+%mor:	n|ensemble&m .
+*MOT:	oui deux ensemble .
+%mor:	co|oui=yes n|deux&m n|ensemble&m .
+*MOT:	moi est-ce que je peux avoir un .
+%mor:	pro|moi&sg v:int|est–ce conj|que pro:sub|je v:mdl|pouvoir&PRES&12s
+	v:aux|avoir&INF pro|un&m&sg .
+*MOT:	un chocolat chaud s'il_vous_plaît ?
+%mor:	det:art|un&m&sg n|chocolat&m adj|chaud&m co|s'il_vous_plaît ?
+*CHI:	tiens xxx biberon .
+%mor:	v|tenir-IMP&2s n|biberon&m .
+*MOT:	mais moi c'est pas un biberon que je veux .
+%mor:	adv|mais pro|moi&sg pro:dem|ce$v:aux|être&PRES&3s neg|pas
+	det:art|un&m&sg n|biberon&m prep|que pro:sub|je
+	v:mdl|vouloir&PRES&12s .
+*MOT:	je veux un chocolat chaud .
+%mor:	pro:sub|je v:mdl|vouloir&PRES&12s det:art|un&m&sg n|chocolat&m
+	adj|chaud&m .
+*CHI:	la camion pompier .
+%mor:	det:art|la&f&sg n|camion&m adj|pompier&m .
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	camion de pompier .
+%mor:	n|camion&m prep|de n|pompier&m .
+*CHI:	camion pompier .
+%mor:	n|camion&m adj|pompier&m .
+*MOT:	<&ouin> [x 4] !
+*MOT:	<c'est urgent> [x 2] !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|urgent&m !
+*MOT:	il faut emporter un chocolat chaud .
+%mor:	pro:sub|il v:mdl|falloir&PRES&3s v|emporter-INF det:art|un&m&sg
+	n|chocolat&m adj|chaud&m .
+*CHI:	&=laughs .
+*CHI:	faut porter ça .
+%mor:	v:mdl|falloir&PRES&3s v|porter-INF pro:dem|ça .
+*CHI:	xxx l'assiette .
+%mor:	det:art|le$n|assiette&f .
+*CHI:	ici .
+%mor:	adv:place|ici .
+*MOT:	apporte l'assiette .
+%mor:	v|apporter-IMP&2s det:art|le$n|assiette&f .
+*CHI:	il vole .
+%mor:	pro:sub|il v|voler-PRES&SUB&13s .
+*MOT:	il vole ?
+%mor:	pro:sub|il v|voler-PRES&SUB&13s ?
+*MOT:	wow !
+%mor:	co|wow !
+*MOT:	est-ce que je pourrais avoir un café s'il_vous_plaît ?
+%mor:	v:int|est–ce adv|que pro:sub|je v:mdl|pouvoir&COND&12s
+	v:aux|avoir&INF det:art|un&m&sg n|café&m co|s'il_vous_plaît ?
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+*CHI:	un café !
+%mor:	det:art|un&m&sg n|café&m !
+*MOT:	ah merci .
+%mor:	co|ah co|merci .
+*CHI:	moi .
+%mor:	pro|moi&sg .
+*CHI:	moi .
+%mor:	pro|moi&sg .
+*MOT:	est-ce que je peux mettre du chocolat dedans ?
+%mor:	v:int|est–ce conj|que pro:sub|je v:mdl|pouvoir&PRES&12s
+	v|mettre-INF prep|de&le n|chocolat&m adv:place|dedans ?
+*CHI:	uh .
+%mor:	co|uh .
+*CHI:	tiens !
+%mor:	v|tenir-IMP&2s !
+*CHI:	chocolat &sh .
+%mor:	n|chocolat&m .
+*MOT:	ah merci .
+%mor:	co|ah co|merci .
+*CHI:	moi .
+%mor:	pro|moi&sg .
+*CHI:	un chocolat .
+%mor:	det:art|un&m&sg n|chocolat&m .
+*MOT:	&=slurps .
+*MOT:	toi tu prends un café ou un chocolat ?
+%mor:	pro|toi&sg part|taire-PP&m v|prendre-PRES&IMP&12s det:art|un&m&sg
+	n|café&m conj|ou det:art|un&m&sg n|chocolat&m ?
+*CHI:	chocolat .
+%mor:	n|chocolat&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	&=slurps .
+*MOT:	mm est-ce que je peux en avoir encore s'il_vous_plaît .
+%mor:	co|mm v:int|est–ce pro:rel|que pro:sub|je n|peu&m-PL prep|en
+	v:aux|avoir&INF adv|encore co|s'il_vous_plaît .
+*MOT:	j'en ai plus .
+%mor:	pro:sub|je$pro:y|en v:aux|avoir&PRES&1s qn|plus .
+*CHI:	xxx plus ?
+%mor:	qn|plus ?
+*MOT:	j'en ai plus .
+%mor:	pro:sub|je$pro:y|en v:aux|avoir&PRES&1s qn|plus .
+*MOT:	il en faut beaucoup .
+%mor:	pro:sub|il pro:y|en v:mdl|falloir&PRES&3s adv|beaucoup .
+*CHI:	beaucoup .
+%mor:	adv|beaucoup .
+*MOT:	ah !
+%mor:	co|ah !
+*MOT:	merci .
+%mor:	co|merci .
+*MOT:	mm &=slurps .
+%mor:	co|mm .
+*CHI:	tout fini .
+%mor:	adv|tout part|finir-PP&m .
+*MOT:	tu as tout fini .
+%mor:	part|taire-PP&m v:aux|avoir&PRES&2s n|tout&m part|finir-PP&m .
+*MOT:	il est délicieux .
+%mor:	pro:sub|il v:aux|être&PRES&3s adj|délicieux&m .
+*MOT:	&=slurps .
+*CHI:	shou@o .
+%mor:	on|shou .
+*CHI:	voilà .
+%mor:	adv:place|voilà .
+*CHI:	l'assiette .
+%mor:	det:art|le$n|assiette&f .
+%com:	mom and child are stirring their coffee .
+*MOT:	veux tu goûter ?
+%mor:	v:mdl|vouloir&IMP&2s part|taire-PP&m n|goûter&m ?
+*MOT:	goûte mon chocolat .
+%mor:	v|goûter-IMP&2s det:poss|mon&m&sg n|chocolat&m .
+*MOT:	est-ce que je peux goûter à ton chocolat chaud ?
+%mor:	v:int|est–ce prep|que pro:sub|je v:mdl|pouvoir&PRES&12s
+	v|goûter-INF prep|à det:poss|ton&m&sg n|chocolat&m adj|chaud&m ?
+*CHI:	&kup .
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	merci .
+%mor:	co|merci .
+*MOT:	&=slurps .
+*CHI:	&pou&pou .
+*MOT:	mm .
+%mor:	co|mm .
+*CHI:	&pou&pou aussi .
+%mor:	adv|aussi .
+*MOT:	oh mais le mien il est meilleur .
+%mor:	co|oh adv|mais det:art|le&m&sg n|mien&m pro:sub|il
+	v:aux|être&PRES&3s n|meilleur&m .
+*MOT:	il est meilleur .
+%mor:	pro:sub|il v:aux|être&PRES&3s n|meilleur&m .
+*MOT:	veux tu goûter au mien ?
+%mor:	v:mdl|vouloir&IMP&2s part|taire-PP&m n|goûter&m prep|à&le n|mien&m
+	?
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	&=laughs .
+*CHI:	xxx .
+*CHI:	peigner ça .
+%mor:	v|peigner-INF pro:dem|ça .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	dans le camion pompier .
+%mor:	prep|dans det:art|le&m&sg n|camion&m adj|pompier&m .
+*MOT:	dans le camion de pompier .
+%mor:	prep|dans det:art|le&m&sg n|camion&m prep|de n|pompier&m .
+*CHI:	la tasse .
+%mor:	det:art|la&f&sg n|tasse&f .
+*CHI:	dans le pompier .
+%mor:	prep|dans det:art|le&m&sg n|pompier&m .
+*MOT:	une tasse dans le camion .
+%mor:	det:art|une&f&sg n|tasse&f prep|dans det:art|le&m&sg n|camion&m .
+*MOT:	est-ce qu'on peut mettre les blocs dedans aussi ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:mdl|pouvoir&PRES&3s
+	v|mettre-INF det:art|les&pl n|bloc&m-PL adv:place|dedans adv|aussi ?
+*MOT:	ah ça rentre dedans .
+%mor:	co|ah pro:dem|ça v|rentrer-PRES&SUB&13s adv:place|dedans .
+*CHI:	ça rentre ça ?
+%mor:	pro:dem|ça v|rentrer-PRES&SUB&13s pro:dem|ça ?
+*MOT:	mais ça rentre .
+%mor:	adv|mais pro:dem|ça v|rentrer-PRES&SUB&13s .
+*CHI:	non ça .
+%mor:	co|non=no pro:dem|ça .
+*CHI:	xxx .
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	oh oui .
+%mor:	co|oh co|oui=yes .
+*CHI:	ça va là .
+%mor:	pro:dem|ça v:mdl|aller&PRES&3s adv:place|là .
+*MOT:	mais oui je te l'avais dit .
+%mor:	adv|mais n|oui&m pro:sub|je pro:obj|te
+	pro:sub|il$v:aux|avoir&IMPF&12s part|dire-PP&m .
+*MOT:	ça va là .
+%mor:	pro:dem|ça v:mdl|aller&PRES&3s adv:place|là .
+*MOT:	&ou !
+*CHI:	&ou !
+*MOT:	ah &on .
+%mor:	co|ah .
+*CHI:	oh &on .
+%mor:	co|oh .
+*CHI:	xxx tombé .
+%mor:	part|tomber-PP&m .
+*MOT:	on recommence .
+%mor:	pro:sub|on re#v|commencer-PRES&SUB&13s .
+*CHI:	on recommence .
+%mor:	pro:sub|on re#v|commencer-PRES&SUB&13s .
+*CHI:	xxx .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	xxx &i&i .
+*MOT:	&=laughs .
+*CHI:	&i .
+*MOT:	&on .
+*CHI:	xxx tombé .
+%mor:	part|tomber-PP&m .
+*MOT:	c'est tout tombé .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|tout part|tomber-PP&m .
+*CHI:	tombé !
+%mor:	part|tomber-PP&m !
+*MOT:	ohlàlà !
+%mor:	co|ohlàlà !
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	ça .
+%mor:	pro:dem|ça .
+*MOT:	<attention> [x 2] .
+%mor:	co|attention .
+*MOT:	attention !
+%mor:	co|attention !
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	attention .
+%mor:	co|attention .
+*MOT:	ah !
+%mor:	co|ah !
+*CHI:	ah !
+%mor:	co|ah !
+*MOT:	tout tombé !
+%mor:	adv|tout part|tomber-PP&m !
+*CHI:	tout tombé !
+%mor:	adv|tout part|tomber-PP&m !
+*CHI:	&e ici la tasse .
+%mor:	adv:place|ici det:art|la&f&sg n|tasse&f .
+*MOT:	ici la tasse ?
+%mor:	adv:place|ici det:art|la&f&sg n|tasse&f ?
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	non !
+%mor:	co|non=no !
+*CHI:	ça .
+%mor:	pro:dem|ça .
+*CHI:	va là .
+%mor:	v:mdl|aller&PRES&3s adv:place|là .
+*MOT:	ça ça va là hem ?
+%mor:	pro:dem|ça pro:dem|ça v:mdl|aller&PRES&3s adv:place|là co|hem ?
+*CHI:	xxx .
+*MOT:	on va essayer de tout les mettre .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|essayer-INF prep|de adv|tout
+	det:art|les&pl v|mettre-INF .
+*MOT:	attends .
+%mor:	v|attendre-IMP&2s .
+*MOT:	tiens je vais mettre lui .
+%mor:	v|tenir-IMP&2s pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF
+	pro:ind|lui .
+*MOT:	oh !
+%mor:	co|oh !
+*MOT:	ça tiens .
+%mor:	pro:dem|ça v|tenir-IMP&2s .
+*CHI:	xxx .
+*MOT:	&on !
+*CHI:	oh !
+%mor:	co|oh !
+*MOT:	tout tombé !
+%mor:	adv|tout part|tomber-PP&m !
+*CHI:	tout tombé .
+%mor:	adv|tout part|tomber-PP&m .
+*CHI:	tasse .
+%mor:	n|tasse&f .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	ici .
+%mor:	adv:place|ici .
+*MOT:	on va mettre ça comme ça .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|mettre-INF pro:dem|ça adv|comme
+	pro:dem|ça .
+*CHI:	xxx assiettes .
+%mor:	n|assiette&f-PL .
+*CHI:	xxx assiettes .
+%mor:	n|assiette&f-PL .
+*MOT:	les assiettes ?
+%mor:	det:art|les&pl n|assiette&f-PL ?
+*CHI:	attends !
+%mor:	v|attendre-IMP&2s !
+*CHI:	voilà !
+%mor:	adv:place|voilà !
+*CHI:	&tit assiettes .
+%mor:	n|assiette&f-PL .
+*CHI:	ici .
+%mor:	adv:place|ici .
+*MOT:	on met les cubes de fromage .
+%mor:	pro:sub|on v|mettre-PRES&3s det:art|les&pl n|cube&m-PL prep|de
+	n|fromage&m .
+*CHI:	okay .
+%mor:	co|okay=okay .
+*CHI:	voilà !
+%mor:	adv:place|voilà !
+*MOT:	oh !
+%mor:	co|oh !
+*MOT:	il manque un cube de fromage là !
+%mor:	pro:sub|il n|manque&m det:art|un&m&sg n|cube&m prep|de n|fromage&m
+	adv:place|là !
+*MOT:	&on !
+*CHI:	&on !
+*MOT:	tombé !
+%mor:	part|tomber-PP&m !
+*CHI:	tombé !
+%mor:	part|tomber-PP&m !
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	ici !
+%mor:	adv:place|ici !
+*MOT:	ici .
+%mor:	adv:place|ici .
+*CHI:	on roule !
+%mor:	pro:sub|on v|rouler-PRES&SUB&13s !
+*CHI:	&=engine .
+*CHI:	recule .
+%mor:	v|reculer-IMP&2s .
+*MOT:	il recule .
+%mor:	pro:sub|il v|reculer-PRES&SUB&13s .
+*CHI:	&=engine .
+*CHI:	&sh .
+*MOT:	ah non !
+%mor:	co|ah co|non=no !
+*CHI:	&ta&ti&ta .
+*MOT:	&sh <beep@o> [x 6] .
+%mor:	on|beep .
+*CHI:	&on .
+*CHI:	&sh .
+*CHI:	voilà !
+%mor:	adv:place|voilà !
+*CHI:	un ici .
+%mor:	det:art|un&m&sg adv:place|ici .
+*CHI:	&sh .
+*CHI:	xxx ici .
+%mor:	adv:place|ici .
+*CHI:	là côté .
+%mor:	adv:place|là n|côté&m .
+*CHI:	ici !
+%mor:	adv:place|ici !
+*MOT:	et voilà !
+%mor:	conj|et adv:place|voilà !
+*CHI:	une assiette ici .
+%mor:	det:art|une&f&sg n|assiette&f adv:place|ici .
+*MOT:	uhhum .
+%mor:	co|uhhum .
+*CHI:	(wh)oops !
+%mor:	co|whoops !
+*CHI:	et voilà .
+%mor:	conj|et adv:place|voilà .
+*MOT:	et voilà .
+%mor:	conj|et adv:place|voilà .
+*CHI:	<beep@o> [x 2] .
+%mor:	on|beep .
+*MOT:	on met la théière dedans ?
+%mor:	pro:sub|on v|mettre-PRES&3s det:art|la&f&sg n|théier&f
+	adv:place|dedans ?
+*CHI:	oui !
+%mor:	co|oui=yes !
+*CHI:	dedans .
+%mor:	adv:place|dedans .
+*CHI:	<beep@o> [x 2] .
+%mor:	on|beep .
+*CHI:	beep@o .
+%mor:	on|beep .
+*CHI:	&sh .
+*MOT:	ah non !
+%mor:	co|ah co|non=no !
+*CHI:	ah non .
+%mor:	co|ah co|non=no .
+*CHI:	tombé .
+%mor:	part|tomber-PP&m .
+*MOT:	tout tombé .
+%mor:	adv|tout part|tomber-PP&m .
+*CHI:	tout tombé .
+%mor:	adv|tout part|tomber-PP&m .
+*CHI:	tout &ton .
+%mor:	adv|tout .
+*MOT:	&=engine .
+*CHI:	&=engine .
+*CHI:	&tr .
+*CHI:	xxx .
+*CHI:	&i !
+*CHI:	uh .
+%mor:	co|uh .
+*CHI:	xxx .
+*MOT:	shou@o .
+%mor:	on|shou .
+*CHI:	oh !
+%mor:	co|oh !
+*MOT:	du jus d' orange .
+%mor:	prep|de&le n|jus&m adv|de adj|orange .
+%com:	mom stirs drink .
+*CHI:	&=laughs .
+*CHI:	du jus .
+%mor:	prep|de&le n|jus&m .
+*MOT:	du jus xxx .
+%mor:	prep|de&le n|jus&m .
+%com:	child stirs drink and drops bloc on the floor .
+*CHI:	a fini .
+%mor:	v:aux|avoir&PRES&3s part|finir-PP&m .
+*MOT:	&=laughs tout fini .
+%mor:	adv|tout part|finir-PP&m .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	un autre .
+%mor:	det:art|un&m&sg pro|autre&sg .
+*CHI:	shou@o .
+%mor:	on|shou .
+*CHI:	shou@o .
+%mor:	on|shou .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	du rouge .
+%mor:	prep|de&le adj|rouge .
+*CHI:	du jus d' orange .
+%mor:	prep|de&le n|jus&m adv|de adj|orange .
+*CHI:	&s .
+*MOT:	une fille le bébé ?
+%mor:	det:art|une&f&sg n|fille&f det:art|le&m&sg n|bébé&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	xxx bébé .
+%mor:	n|bébé&m .
+*MOT:	un petit bébé .
+%mor:	det:art|un&m&sg adj|petit&m n|bébé&m .
+*MOT:	puis ça c'est quoi ?
+%mor:	adv|puis pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s pro:int|quoi ?
+*CHI:	ça .
+%mor:	pro:dem|ça .
+*CHI:	c'est une fille .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg n|fille&f .
+*MOT:	une fille !
+%mor:	det:art|une&f&sg n|fille&f !
+*MOT:	qu'est-ce qu'il fait le petit bébé ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|il part|faire-PP&m
+	det:art|le&m&sg adj|petit&m n|bébé&m ?
+*CHI:	le petit bébé .
+%mor:	det:art|le&m&sg adj|petit&m n|bébé&m .
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	on prend un petit bébé .
+%mor:	pro:sub|on v|prendre-PRES&3s det:art|un&m&sg adj|petit&m n|bébé&m .
+*MOT:	un petit bébé ?
+%mor:	det:art|un&m&sg adj|petit&m n|bébé&m ?
+*MOT:	&=laughs .
+*CHI:	&ka .
+*MOT:	qu'est-ce qu'il y a ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|il pro:y|y
+	v:aux|avoir&PRES&3s ?
+*CHI:	ça .
+%mor:	pro:dem|ça .
+*MOT:	un petit chapeau .
+%mor:	det:art|un&m&sg adj|petit&m n|chapeau&m .
+*MOT:	le petit bébé .
+%mor:	det:art|le&m&sg adj|petit&m n|bébé&m .
+*CHI:	chapeau .
+%mor:	n|chapeau&m .
+*CHI:	un bébé xxx .
+%mor:	det:art|un&m&sg n|bébé&m .
+*MOT:	oui .
+%mor:	co|oui=yes .
+*CHI:	xxx .
+*CHI:	sourcils .
+%mor:	n|sourcil&m-PL .
+*CHI:	bébé et &ti sourcils .
+%mor:	n|bébé&m conj|et n|sourcil&m-PL .
+*MOT:	ah il a des petits sourcils bien oui .
+%mor:	co|ah pro:sub|il v:aux|avoir&PRES&3s prep|de&les adj|petit&m-PL
+	n|sourcil&m-PL adj|bien n|oui&m .
+*MOT:	les deux ils ont des petits sourcils .
+%mor:	det:art|les&pl num|deux pro:sub|ils v:aux|avoir&PRES&3p prep|de&les
+	adj|petit&m-PL n|sourcil&m-PL .
+*CHI:	des gros sourcils .
+%mor:	prep|de&les n|gros&m n|sourcil&m-PL .
+*MOT:	xxx a des grands sourcils .
+%mor:	v:aux|avoir&PRES&3s prep|de&les adj|grand&m-PL n|sourcil&m-PL .
+*CHI:	petits sourcils .
+%mor:	adj|petit&m-PL n|sourcil&m-PL .
+%com:	child points to smaller doll .
+*CHI:	gros sourcils .
+%mor:	n|gros&m n|sourcil&m-PL .
+%com:	child points to bigger doll .
+*MOT:	xxx elle a des grands sourcils ?
+%mor:	pro:sub|elle v:aux|avoir&PRES&3s prep|de&les adj|grand&m-PL
+	n|sourcil&m-PL ?
+*CHI:	petits sourcils .
+%mor:	adj|petit&m-PL n|sourcil&m-PL .
+*MOT:	petits .
+%mor:	adj|petit&m-PL .
+*CHI:	grands sourcils .
+%mor:	adj|grand&m-PL n|sourcil&m-PL .
+*CHI:	camion de pompier .
+%mor:	n|camion&m prep|de n|pompier&m .
+*CHI:	pas de sourcils .
+%mor:	neg|pas prep|de n|sourcil&m-PL .
+*MOT:	le camion de sourcils &=laughs .
+%mor:	det:art|le&m&sg n|camion&m prep|de n|sourcil&m-PL .
+*MOT:	le pompier a pas de sourcils hem ?
+%mor:	det:art|le&m&sg n|pompier&m v:aux|avoir&PRES&3s neg|pas prep|de
+	n|sourcil&m-PL co|hem ?
+*MOT:	toi est-ce que tu as des sourcils ?
+%mor:	pro|toi&sg v:int|est–ce adv|que part|taire-PP&m v:aux|avoir&PRES&2s
+	prep|de&les n|sourcil&m-PL ?
+*CHI:	euh oui .
+%mor:	co|euh co|oui=yes .
+*MOT:	moi est-ce que j'en ai ?
+%mor:	pro|moi&sg v:int|est–ce adv|que pro:sub|je$pro:y|en
+	v:aux|avoir&PRES&1s ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	ils sont où mes sourcils ?
+%mor:	pro:sub|ils v:aux|être&PRES&3p pro:int|où det:poss|mes&pl
+	n|sourcil&m-PL ?
+*CHI:	xxx ici .
+%mor:	adv:place|ici .
+%com:	child points to his mother's eyebrows .
+*MOT:	oui &=laughs .
+%mor:	co|oui=yes .
+*CHI:	xxx .
+*CHI:	oh un téléphone !
+%mor:	co|oh det:art|un&m&sg n|téléphone&m=telephone !
+*CHI:	ah !
+%mor:	co|ah !
+*CHI:	il marche plus .
+%mor:	pro:sub|il n|marche&f qn|plus .
+*CHI:	ah !
+%mor:	co|ah !
+*CHI:	ça marche .
+%mor:	pro:dem|ça n|marche&f .
+*CHI:	ça &m .
+%mor:	pro:dem|ça .
+*MOT:	oh ça marche ?
+%mor:	co|oh pro:dem|ça n|marche&f ?
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	&s xxx .
+*CHI:	marche plus .
+%mor:	n|marche&f qn|plus .
+*MOT:	il fait pas de bruit hem ?
+%mor:	pro:sub|il part|faire-PP&m neg|pas prep|de n|bruit&m co|hem ?
+@Eg
+*CHI:	non parce_que .
+%mor:	co|non=no conj|parce_que .
+*MOT:	qui on appelle ?
+%mor:	pro:int|qui pro:sub|on v|appeler-PRES&SUB&13s ?
+*MOT:	qui on appelle ?
+%mor:	pro:int|qui pro:sub|on v|appeler-PRES&SUB&13s ?
+*CHI:	des blocs .
+%mor:	prep|de&les n|bloc&m-PL .
+*MOT:	à qui tu veux téléphoner Ray ?
+%mor:	prep|à pro:rel|qui part|taire-PP&m v:mdl|vouloir&PRES&12s
+	v|téléphoner-INF n:prop|Ray ?
+*CHI:	il marche plus .
+%mor:	pro:sub|il n|marche&f qn|plus .
+*MOT:	il marche plus ?
+%mor:	pro:sub|il n|marche&f qn|plus ?
+*CHI:	xxx manque un morceau .
+%mor:	n|manque&m det:art|un&m&sg n|morceau&m .
+*MOT:	il est où le morceau qu'il manque ?
+%mor:	pro:sub|il v:aux|être&PRES&3s pro:int|où det:art|le&m&sg
+	n|morceau&m pro:rel|que$pro:sub|il n|manque&m ?
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	un autre ici morceau .
+%mor:	det:art|un&m&sg pro|autre&sg adv:place|ici n|morceau&m .
+*MOT:	oh !
+%mor:	co|oh !
+*CHI:	ça vole !
+%mor:	pro:dem|ça v|voler-PRES&SUB&13s !
+*CHI:	&tr .
+*CHI:	&sh .
+*CHI:	xxx .
+*CHI:	tombé .
+%mor:	part|tomber-PP&m .
+*CHI:	bloc .
+%mor:	n|bloc&m .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	&bji .
+%com:	child goes around with the car as if he was driving .
+*CHI:	&psh !
+*CHI:	tombé !
+%mor:	part|tomber-PP&m !
+*MOT:	oh non !
+%mor:	co|oh co|non=no !
+*CHI:	xxx .
+*MOT:	un accident .
+%mor:	det:art|un&m&sg n|accident&m .
+*CHI:	&sh .
+*CHI:	beep@o .
+%mor:	on|beep .
+*CHI:	beep@o .
+%mor:	on|beep .
+*CHI:	beep@o .
+%mor:	on|beep .
+*CHI:	beep@o .
+%mor:	on|beep .
+*CHI:	beep@o .
+%mor:	on|beep .
+*CHI:	&psh .
+*MOT:	il recule .
+%mor:	pro:sub|il v|reculer-PRES&SUB&13s .
+*MOT:	<beep@o> [x 4] .
+%mor:	on|beep .
+*CHI:	il avance xxx .
+%mor:	pro:sub|il n|avance&f .
+*MOT:	il avance puis il recule .
+%mor:	pro:sub|il n|avance&f adv|puis pro:sub|il v|reculer-PRES&SUB&13s .
+*MOT:	les deux .
+%mor:	det:art|les&pl num|deux .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	eux ici .
+%mor:	pro|eux&m&pl adv:place|ici .
+*CHI:	les deux .
+%mor:	det:art|les&pl num|deux .
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+*CHI:	des quatre .
+%mor:	prep|de&les n|quatre&m .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	un deux trois .
+%mor:	det:art|un&m&sg n|deux&m n|trois&m .
+*CHI:	il manque un ici .
+%mor:	pro:sub|il n|manque&m det:art|un&m&sg adv:place|ici .
+*MOT:	oh non !
+%mor:	co|oh co|non=no !
+*MOT:	mais on peut mettre lui .
+%mor:	adv|mais pro:sub|on v:mdl|pouvoir&PRES&3s v|mettre-INF pro:ind|lui
+	.
+*CHI:	les deux .
+%mor:	det:art|les&pl num|deux .
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	bleu ici .
+%mor:	adj|bleu&m adv:place|ici .
+*MOT:	euh on peut mettre .
+%mor:	co|euh pro:sub|on v:mdl|pouvoir&PRES&3s v|mettre-INF .
+*MOT:	lui .
+%mor:	pro:ind|lui .
+*CHI:	oui !
+%mor:	co|oui=yes !
+*CHI:	xxx lui .
+%mor:	pro:ind|lui .
+*CHI:	lui .
+%mor:	pro:ind|lui .
+*MOT:	un deux trois .
+%mor:	det:art|un&m&sg n|deux&m n|trois&m .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	xxx .
+*CHI:	camion pompier ?
+%mor:	n|camion&m adj|pompier&m ?
+*CHI:	un d' ici .
+%mor:	det:art|un&m&sg adv|de adv:place|ici .
+*MOT:	et euh les camions de pompier ils ont pas une bin@s:eng comme ça .
+%mor:	conj|et co|euh det:art|les&pl n|camion&m-PL prep|de n|pompier&m
+	pro:sub|ils v:aux|avoir&PRES&3p neg|pas det:art|une&f&sg L2|bin
+	adv|comme pro:dem|ça .
+*MOT:	elle est où l'échelle du camion de pompier ?
+%mor:	pro:sub|elle v:aux|être&PRES&3s pro:int|où det:art|le$n|échelle&f
+	prep|de&le n|camion&m prep|de n|pompier&m ?
+*CHI:	elle est ici l'échelle de pompier .
+%mor:	pro:sub|elle v:aux|être&PRES&3s adv:place|ici
+	det:art|le$n|échelle&f prep|de n|pompier&m .
+*MOT:	ah elle est là .
+%mor:	co|ah pro:sub|elle v:aux|être&PRES&3s adv:place|là .
+*CHI:	voilà !
+%mor:	adv:place|voilà !
+*CHI:	camion pompier !
+%mor:	n|camion&m adj|pompier&m !
+*CHI:	&ou !
+*CHI:	dans le camion pompier .
+%mor:	prep|dans det:art|le&m&sg n|camion&m adj|pompier&m .
+*CHI:	&ou !
+*CHI:	dans le camion .
+%mor:	prep|dans det:art|le&m&sg n|camion&m .
+*CHI:	pompier .
+%mor:	n|pompier&m .
+*MOT:	Ray ?
+%mor:	n:prop|Ray ?
+*CHI:	quoi .
+%mor:	pro:int|quoi .
+*MOT:	on va remettre les jouets dedans le bac ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s re#v|mettre-INF det:art|les&pl
+	n|jouet&m-PL adv:place|dedans det:art|le&m&sg n|bac&m ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	encore ?
+%mor:	adv|encore ?
+*MOT:	on va les ramasser ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:obj|les v|ramasser-INF ?
+*MOT:	est-ce qu'on met les blocs dedans ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v|mettre-PRES&3s det:art|les&pl
+	n|bloc&m-PL adv:place|dedans ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*CHI:	xxx .
+*MOT:	moi je mets les jaunes .
+%mor:	pro|moi&sg pro:sub|je n|mets&m det:art|les&pl adj|jaune-PL .
+*CHI:	jaunes ?
+%mor:	adj|jaune-PL ?
+*MOT:	moi je mets les jaunes .
+%mor:	pro|moi&sg pro:sub|je n|mets&m det:art|les&pl adj|jaune-PL .
+*CHI:	dedans ?
+%mor:	adv:place|dedans ?
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	est-ce qu'on met la théière dedans ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v|mettre-PRES&3s
+	det:art|la&f&sg n|théier&f adv:place|dedans ?
+*MOT:	shou@o .
+%mor:	on|shou .
+%com:	mother pretends to pour something as she is putting away the kettle
+	.
+*MOT:	avec les cuillères .
+%mor:	prep|avec det:art|les&pl n|cuillère&f-PL=spoon .
+*CHI:	des blocs xxx .
+%mor:	prep|de&les n|bloc&m-PL .
+*MOT:	des blocs .
+%mor:	prep|de&les n|bloc&m-PL .
+*CHI:	camion de pompier .
+%mor:	n|camion&m prep|de n|pompier&m .
+*MOT:	<(wh)oop> [x 2] .
+%mor:	co|whoop .
+*MOT:	des tasses à café .
+%mor:	prep|de&les n|tasse&f-PL prep|à n|café&m .
+*MOT:	attention .
+%mor:	co|attention .
+*MOT:	viens t'en .
+%mor:	v|venir-IMP&2s pro:obj|te$pro:y|en .
+*MOT:	vas y .
+%mor:	v:mdl|aller&PRES&2s pro:y|y .
+*MOT:	mets dedans .
+%mor:	v|mettre-IMP&2s adv:place|dedans .
+*CHI:	&=laughs .
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	un autre ici .
+%mor:	det:art|un&m&sg pro|autre&sg adv:place|ici .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	on va donner du lait au bébé .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|donner-INF prep|de&le
+	n|lait&m=milk prep|à&le n|bébé&m .
+*MOT:	à la petite fille .
+%mor:	prep|à det:art|la&f&sg adj|petit&f n|fille&f .
+*MOT:	&shou .
+*MOT:	les assiettes .
+%mor:	det:art|les&pl n|assiette&f-PL .
+*CHI:	des assiettes .
+%mor:	prep|de&les n|assiette&f-PL .
+*CHI:	ici .
+%mor:	adv:place|ici .
+*MOT:	okay .
+%mor:	co|okay=okay .
+%com:	mom brings bin closer to child so that he can put away the last
+	toys .
+*MOT:	mets les dedans .
+%mor:	v|mettre-IMP&2s det:art|les&pl adv:place|dedans .
+*CHI:	non !
+%mor:	co|non=no !
+*MOT:	mais là on va avoir d' autres jouets .
+%mor:	adv|mais adv:place|là pro:sub|on v:mdl|aller&PRES&3s
+	v:aux|avoir&INF adv|de pro|autres&pl n|jouet&m-PL .
+*CHI:	quoi ?
+%mor:	pro:int|quoi ?
+*MOT:	on va voir d' autres jouets .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|voir&INF adv|de pro|autres&pl
+	n|jouet&m-PL .
+*MOT:	viens !
+%mor:	v|venir-IMP&2s !
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	on les met dedans .
+%mor:	pro:sub|on pro:obj|les v|mettre-PRES&3s adv:place|dedans .
+*MOT:	bravo !
+%mor:	co|bravo !
+*MOT:	un .
+%mor:	det:art|un&m&sg .
+*MOT:	deux .
+%mor:	num|deux .
+*MOT:	trois .
+%mor:	n|trois&m .
+*MOT:	et le camion de pompier !
+%mor:	conj|et det:art|le&m&sg n|camion&m prep|de n|pompier&m !
+*MOT:	ouch !
+%mor:	co|ouch !
+*MOT:	pauvre camion !
+%mor:	adj|pauvre&m n|camion&m !
+*MOT:	ayoye !
+%mor:	co|ayoye !
+@End

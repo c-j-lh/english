@@ -1,0 +1,577 @@
+@UTF8
+@PID:	11312/a-00005281-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|5;02.10|male|ASD||Child||216|
+@ID:	fra|Nadig|MOT||female|||Mother|undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	appelle papa .
+%mor:	v|appeler-IMP&2s n|papa&m .
+*MOT:	ça sonne tututu@o .
+%mor:	pro:dem|ça v|sonner-PRES&SUB&13s on|tututu .
+*MOT:	faut que tu lui parles .
+%mor:	v:mdl|falloir&PRES&3s pro:rel|que part|taire-PP&m part|luire&PP&m
+	v|parler-PRES&SUB&2s .
+*CHI:	salut papa .
+%mor:	co|salut n|papa&m .
+*MOT:	&=laughs oh !
+%mor:	co|oh !
+*MOT:	elle a soif je penses .
+%mor:	pro:sub|elle v:aux|avoir&PRES&3s n|soif&f pro:sub|je
+	v|penser-PRES&SUB&2s .
+*CHI:	où est le croc ?
+%mor:	pro:int|où v:aux|être&PRES&3s det:art|le&m&sg n|croc&m ?
+*CHI:	ah et voilà le croc !
+%mor:	co|ah conj|et adv:place|voilà det:art|le&m&sg n|croc&m !
+*MOT:	&i ça rentre serré dans bouche hem !
+%mor:	pro:dem|ça v|rentrer-PRES&SUB&13s adv|serré prep|dans n|bouche&f
+	co|hem !
+*MOT:	celui-là xxx est peut-être plus facile !
+%mor:	pro:dem|celui–là v:aux|être&PRES&3s adv|peut–être adv|plus
+	adj|facile !
+*MOT:	coudonc ils ont des trop petites bouches ces bébés !
+%mor:	co|coudonc=geez pro:sub|ils v:aux|avoir&PRES&3p prep|de&les
+	adv|trop adj|petit&f-PL n|bouche&f-PL det:dem|ces&m&pl n|bébé&m-PL !
+*MOT:	ah tu as réussi !
+%mor:	co|ah part|taire-PP&m v:aux|avoir&PRES&2s part|réussir-PP&m !
+*MOT:	fais boire !
+%mor:	v:mdl|faire-PRES&12s n|boire&m !
+*CHI:	mm !
+%mor:	co|mm !
+*MOT:	il est dans tes bras allez boit mon petit bébé xxx !
+%mor:	pro:sub|il v:aux|être&PRES&3s prep|dans det:poss|tes&pl n|bras&m
+	co|allez v|boire&PRES&3s det:poss|mon&m&sg adj|petit&m n|bébé&m !
+*CHI:	allez !
+%mor:	co|allez !
+*CHI:	plein le &bouaa !
+%mor:	prep|plein det:art|le&m&sg !
+*MOT:	héh pas par le nombril &=laughs !
+%mor:	co|héh neg|pas adv|par det:art|le&m&sg n|nombril&m !
+*CHI:	&=yells .
+*MOT:	il peut pas boire par le nombril le bébé !
+%mor:	pro:sub|il v:mdl|pouvoir&PRES&3s neg|pas n|boire&m adv|par
+	det:art|le&m&sg n|nombril&m det:art|le&m&sg n|bébé&m !
+*MOT:	ah il y a même pas de trou !
+%mor:	co|ah pro:sub|il pro:y|y v:aux|avoir&PRES&3s adj|même&m=same
+	neg|pas prep|de n|trou&m !
+*CHI:	&zzz .
+*MOT:	&=laughs non pas par la tête non plus .
+%mor:	co|non=no neg|pas prep|par det:art|la&f&sg n|tête&f co|non=no
+	qn|plus .
+*MOT:	je suis sûre que ça rentre dans lui &ailleyayaya .
+%mor:	pro:sub|je v:aux|être&PRES&1s adj|sûr&f adv|que pro:dem|ça
+	v|rentrer-PRES&SUB&13s prep|dans pro:ind|lui .
+*CHI:	&ezou !
+*MOT:	(re)ga(rde) .
+%mor:	v|regarder-IMP&2s .
+*MOT:	ah ça c'est pas +/.
+%mor:	co|ah pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s neg|pas +/.
+*CHI:	Maman Maman !
+%mor:	n:prop|Maman n:prop|Maman !
+*MOT:	+, ah ça c'est un bonhomme biberon !
+%mor:	co|ah pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:art|un&m&sg
+	n|bonhomme&m n|biberon&m !
+*CHI:	&=laughs .
+*MOT:	le bonhomme biberon il met un chapeau ?
+%mor:	det:art|le&m&sg n|bonhomme&m n|biberon&m pro:sub|il
+	v|mettre-PRES&3s det:art|un&m&sg n|chapeau&m ?
+*MOT:	est-ce qu'il a froid le +/.
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il v:aux|avoir&PRES&3s n|froid&m
+	det:art|le&m&sg +/.
+*CHI:	Maman !
+%mor:	n:prop|Maman !
+*MOT:	&=laughs salut bonhomme biberon .
+%mor:	co|salut n|bonhomme&m n|biberon&m .
+*CHI:	Maman !
+%mor:	n:prop|Maman !
+*MOT:	hey bonhomme biberon !
+%mor:	co|hey n|bonhomme&m n|biberon&m !
+*CHI:	Maman !
+%mor:	n:prop|Maman !
+*MOT:	tiens, as tu faim bonhomme biberon je vais te faire manger .
+%mor:	v|tenir-IMP&2s cm|cm v:aux|avoir&PRES&2s part|taire-PP&m n|faim&f
+	n|bonhomme&m n|biberon&m pro:sub|je v:mdl|aller&PRES&1s pro:obj|te
+	v:mdllex|faire-INF n|manger&m=food .
+*MOT:	&=laughs a tout mangé hem mon gourmand !
+%mor:	v:aux|avoir&PRES&3s adv|tout part|manger-PP&m co|hem
+	det:poss|mon&m&sg n|gourmand&m !
+*MOT:	héh attends un peu +/.
+%mor:	co|héh v|attendre-IMP&2s det:art|un&m&sg n|peu&m +/.
+*CHI:	hey mon chapeau !
+%mor:	co|hey det:poss|mon&m&sg n|chapeau&m !
+*CHI:	xxx !
+*MOT:	+, on va lui servir un peu de xxx .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s part|luire&PP&m v|servir-INF
+	det:art|un&m&sg n|peu&m prep|de .
+*CHI:	Maman !
+%mor:	n:prop|Maman !
+*MOT:	ah (re)ga(rde) !
+%mor:	co|ah v|regarder-IMP&2s !
+*MOT:	est-ce qu'on fait manger les bébés ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m n|manger&m=food
+	det:art|les&pl n|bébé&m-PL ?
+*MOT:	on va leur faire un petit thé .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s det:poss|leur&sg v:mdl|faire-INF
+	det:art|un&m&sg adj|petit&m n|thé&m .
+*MOT:	tiens, on le met là .
+%mor:	v|tenir-IMP&2s cm|cm pro:sub|on pro:obj|le v|mettre-PRES&3s
+	adv:place|là .
+*CHI:	hein un beau chapeau !
+%mor:	co|hein det:art|un&m&sg adj|beau&m&sg=pretty n|chapeau&m !
+*MOT:	hm .
+%mor:	co|hm .
+*MOT:	bébé il dit je veux un thé s'il_vous_plaît .
+%mor:	n|bébé&m pro:sub|il part|dire-PP&m pro:sub|je
+	v:mdl|vouloir&PRES&12s det:art|un&m&sg n|thé&m co|s'il_vous_plaît .
+*CHI:	d'accord &=laughs !
+%mor:	adv|d'accord !
+*MOT:	pouvez vous me servir un thé monsieur ?
+%mor:	v:mdl|pouvoir&PRES&2p pro:obj|vous pro:obj|me v|servir-INF
+	det:art|un&m&sg n|thé&m n|monsieur&m ?
+*CHI:	oui voilà .
+%mor:	co|oui=yes co|voilà .
+*MOT:	allez merci monsieur !
+%mor:	co|allez co|merci n|monsieur&m !
+*MOT:	&=laughs hm délicieux votre thé !
+%mor:	co|hm adj|délicieux&m det:poss|votre&sg n|thé&m !
+*CHI:	héh c'est mon chapeau !
+%mor:	co|héh pro:dem|ce$v:aux|être&PRES&3s det:poss|mon&m&sg n|chapeau&m
+	!
+*MOT:	&ouin &ouin moi aussi je veux un thé !
+%mor:	pro|moi&sg adv|aussi pro:sub|je v:mdl|vouloir&PRES&12s
+	det:art|un&m&sg n|thé&m !
+*MOT:	je veux un thé !
+%mor:	pro:sub|je v:mdl|vouloir&PRES&12s det:art|un&m&sg n|thé&m !
+*CHI:	euh &=laughs non !
+%mor:	co|euh co|non=no !
+*MOT:	oui !
+%mor:	co|oui=yes !
+*CHI:	non !
+%mor:	co|non=no !
+*MOT:	&ouin !
+*CHI:	<&ya> [x 6] !
+*MOT:	ouch !
+%mor:	co|ouch !
+*MOT:	héh là fais moi pas mal !
+%mor:	co|héh adv:place|là v:mdl|faire-PRES&12s pro|moi&sg neg|pas adv|mal
+	!
+*MOT:	elle est très trop mignonne .
+%mor:	pro:sub|elle v:aux|être&PRES&3s adv|très adv|trop adj|mignon&f .
+*MOT:	moi je vais lui en faire un thé okay ?
+%mor:	pro|moi&sg pro:sub|je v:mdl|aller&PRES&1s part|luire&PP&m pro:y|en
+	v:mdl|faire-INF det:art|un&m&sg n|thé&m co|okay=okay ?
+*CHI:	ah non !
+%mor:	co|ah co|non=no !
+*MOT:	&=laughs on va lui en faire un .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s part|luire&PP&m pro:y|en
+	v:mdl|faire-INF pro|un&m&sg .
+*MOT:	je suis sûre que xxx &=sips .
+%mor:	pro:sub|je v:aux|être&PRES&1s adj|sûr&f adv|que .
+*CHI:	&ebo &=laughs &gum .
+*MOT:	bon !
+%mor:	co|bon !
+*CHI:	&=sips elle est &bubusse le biberon !
+%mor:	pro:sub|elle v:aux|être&PRES&3s det:art|le&m&sg n|biberon&m !
+*MOT:	tu lui as volé son breuvage .
+%mor:	part|taire-PP&m part|luire&PP&m v:aux|avoir&PRES&2s part|voler-PP&m
+	det:poss|son&m&sg n|breuvage&m .
+*MOT:	oh non !
+%mor:	co|oh co|non=no !
+*MOT:	attention d'abord on va faire un transport de cubes !
+%mor:	co|attention adv|d'abord pro:sub|on v:mdl|aller&PRES&3s
+	v:mdl|faire-INF det:art|un&m&sg n|transport&m prep|de n|cube&m-PL !
+*MOT:	&=laughs non un transport de biberons toi que tu veux faire !
+%mor:	co|non=no det:art|un&m&sg n|transport&m prep|de n|biberon&m-PL
+	pro|toi&sg adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	v:mdllex|faire-INF !
+*CHI:	et voilà !
+%mor:	conj|et adv:place|voilà !
+*CHI:	&shhh le gagnant pas dehors là-dedans go@s:eng !
+%mor:	det:art|le&m&sg n|gagnant&m neg|pas adv:place|dehors
+	adv:place|là–dedans L2|go !
+*MOT:	xxx que tu transportes les cubes oranges !
+%mor:	adv|que part|taire-PP&m v|transporter-PRES&SUB&2s det:art|les&pl
+	n|cube&m-PL n|orange-PL !
+*CHI:	d'accord !
+%mor:	adv|d'accord !
+*MOT:	tu les met dans le camion ?
+%mor:	part|taire-PP&m pro:obj|les v|mettre-PRES&3s prep|dans
+	det:art|le&m&sg n|camion&m ?
+*CHI:	&donko !
+%com:	there was overlap .
+*MOT:	est-ce que c'est un cube orange ?
+%mor:	v:int|est–ce conj|que pro:dem|ce$v:aux|être&PRES&3s det:art|un&m&sg
+	n|cube&m n|orange ?
+*CHI:	&donko &donko &gacrograda .
+*MOT:	haha tu vas xxx te voir !
+%mor:	co|haha part|taire-PP&m v:mdl|aller&PRES&2s pro:obj|te v|voir&INF !
+*CHI:	ah !
+%mor:	co|ah !
+*CHI:	c'est même pas xxx ça !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|même neg|pas pro:dem|ça !
+*MOT:	tiens voilà &=engine .
+%mor:	v|tenir-IMP&2s adv:place|voilà .
+*CHI:	&shhh !
+*MOT:	&coincoin !
+*MOT:	&coincoin .
+*CHI:	&=laughs .
+*MOT:	ah non il a eu un accident !
+%mor:	co|ah co|non=no pro:sub|il v:aux|avoir&PRES&3s v:aux|avoir&PP&m&sg
+	det:art|un&m&sg n|accident&m !
+*MOT:	tululululu@si et le camion prend son temps !
+%mor:	sing|tululululu conj|et det:art|le&m&sg n|camion&m
+	v|prendre-PRES&3s det:poss|son&m&sg n|temps&m !
+*CHI:	ah &=laughs !
+%mor:	co|ah !
+*MOT:	&=laughs attention loulou@t tiens d'abord .
+%mor:	co|attention test|loulou n|tien&m-PL adv|d'abord .
+*MOT:	transporter ça xxx .
+%mor:	v|transporter-INF pro:dem|ça .
+*CHI:	le bébé il est très fâché .
+%mor:	det:art|le&m&sg n|bébé&m pro:sub|il v:aux|être&PRES&3s adv|très
+	adj|fâché&m .
+*MOT:	est-ce que tu penses que tu es capable de faire rouler le camion
+	sans qu'il tombe ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v|penser-PRES&SUB&2s prep|que
+	pro:sub|tu v:aux|être&PRES&2s adj|capable prep|de v:mdl|faire-INF
+	v|rouler-INF det:art|le&m&sg n|camion&m prep|sans
+	pro:rel|que$pro:sub|il n|tombe&f ?
+*MOT:	&=laughs mais non !
+%mor:	adv|mais co|non=no !
+*MOT:	c'est pas j'ai dit !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas
+	pro:sub|je$v:aux|avoir&PRES&1s part|dire-PP&m !
+*CHI:	&oua &oua !
+*MOT:	d'abord ça ça et ça un autre tour !
+%mor:	adv|d'abord pro:dem|ça pro:dem|ça conj|et pro:dem|ça
+	det:art|un&m&sg pro|autre&sg n|tour !
+*CHI:	&=yells !
+*MOT:	&=laughs il y a toujours des accidents ici !
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s adv|toujours prep|de&les
+	n|accident&m-PL adv:place|ici !
+*MOT:	monsieur biberon est vraiment trop violent !
+%mor:	n|monsieur&m n|biberon&m v:aux|être&PRES&3s adv|vraiment adv|trop
+	n|violent&m !
+*MOT:	monsieur biberon soyez doux s'il_vous_plaît je dois transporter des
+	trucs .
+%mor:	n|monsieur&m n|biberon&m v:aux|être&PRES&SUB&2p adj|doux&m
+	co|s'il_vous_plaît pro:sub|je v:mdl|devoir&PRES&12s
+	v|transporter-INF prep|de&les n|truc&m-PL .
+*CHI:	&=laughs .
+*MOT:	&=engine .
+*CHI:	&=yells .
+*MOT:	ah monsieur biberon on se calme monsieur !
+%mor:	co|ah n|monsieur&m n|biberon&m pro:sub|on pro:refl|se adj|calme
+	n|monsieur&m !
+*CHI:	&=laughs .
+*MOT:	monsieur biberon vous êtes excité !
+%mor:	n|monsieur&m n|biberon&m pro:obj|vous v:aux|être&PRES&2p n|excité&m
+	!
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	&pout &pout &pout ah non coco !
+%mor:	co|ah co|non=no n|coco !
+*MOT:	cassé .
+%mor:	part|casser-PP&m .
+*MOT:	ça aussi ça va devoir aller à la réparation avec le livre !
+%mor:	pro:dem|ça adv|aussi pro:dem|ça v:mdl|aller&PRES&3s
+	v:mdl|devoir&INF v:mdl|aller&INF prep|à det:art|la&f&sg
+	n|réparation&f prep|avec det:art|le&m&sg n|livre !
+*CHI:	&=hisses .
+*MOT:	oh le bébé &ouin &ouin .
+%mor:	co|oh det:art|le&m&sg n|bébé&m .
+*CHI:	héh !
+%mor:	co|héh !
+*MOT:	&=laughs ah peigne biberon !
+%mor:	co|ah n|peigne&m n|biberon&m !
+*MOT:	monsieur biberon a même pas de cheveux !
+%mor:	n|monsieur&m n|biberon&m v:aux|avoir&PRES&3s adj|même&m=same
+	neg|pas prep|de n|cheveu&m-PL !
+*CHI:	oh !
+%mor:	co|oh !
+*MOT:	il a des cheveux ?
+%mor:	pro:sub|il v:aux|avoir&PRES&3s prep|de&les n|cheveu&m-PL ?
+*CHI:	oui !
+%mor:	co|oui=yes !
+*CHI:	là-dedans il a des cheveux .
+%mor:	adv:place|là–dedans pro:sub|il v:aux|avoir&PRES&3s prep|de&les
+	n|cheveu&m-PL .
+*MOT:	ah oui il a des petits poils blancs !
+%mor:	co|ah co|oui=yes pro:sub|il v:aux|avoir&PRES&3s prep|de&les
+	adj|petit&m-PL n|poil&m-PL adj|blanc-PL !
+*CHI:	&=grunts .
+*CHI:	&ba assez xxx &=grunts .
+%mor:	adv|assez .
+*MOT:	doux doux c'est doux !
+%mor:	adj|doux&m adj|doux&m pro:dem|ce$v:exist|être&PRES&3s adj|doux&m !
+*CHI:	et voilà !
+%mor:	conj|et adv:place|voilà !
+*MOT:	ça fait mal .
+%mor:	pro:dem|ça part|faire-PP&m adv|mal .
+*MOT:	pauvre petite !
+%mor:	n|pauvre adj|petit&f !
+*MOT:	c'est une toute petite mini mini chose .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adv|toute
+	adj|petit&f n|mini&f=mini_skirt adj|mini&m=mini_or_miniature
+	n|chose=thing .
+*MOT:	on tape pas .
+%mor:	pro:sub|on n|tape&f neg|pas .
+*MOT:	faut pas que tu +/.
+%mor:	v:mdl|falloir&PRES&3s neg|pas adv|que part|taire-PP&m +/.
+*CHI:	&=grunts &yah !
+*MOT:	bon &pout &pout &pout &pout &pout &pout &pout &pout .
+%mor:	co|bon .
+*CHI:	le bébé est très fâché .
+%mor:	det:art|le&m&sg n|bébé&m v:aux|être&PRES&3s adv|très adj|fâché&m .
+*MOT:	le bébé est très fâché .
+%mor:	det:art|le&m&sg n|bébé&m v:aux|être&PRES&3s adv|très adj|fâché&m .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	c'est veux manger !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s v:mdl|vouloir&PRES&12s v|manger-INF !
+*MOT:	faut y aller doucement .
+%mor:	v:mdl|falloir&PRES&3s pro:y|y v:mdl|aller&INF adv|doucement .
+*MOT:	xxx une petite tasse .
+%mor:	det:art|une&f&sg adj|petit&f n|tasse&f .
+*MOT:	doucement avec les jouets pour pas briser les jouets .
+%mor:	adv|doucement prep|avec det:art|les&pl n|jouet&m-PL prep|pour
+	neg|pas v|briser-INF det:art|les&pl n|jouet&m-PL .
+*CHI:	xxx manger !
+%mor:	v|manger-INF !
+*MOT:	&=laughs monsieur biberon est affamé !
+%mor:	n|monsieur&m n|biberon&m v:aux|être&PRES&3s n|affamé&m !
+*CHI:	merci c'était très bon madame !
+%mor:	co|merci pro:dem|ce$v:exist|être&IMPF&3s adv|très adj|bon&m
+	n|madame&f=madam !
+*MOT:	xxx .
+*CHI:	mais je veux manger plus cette grosse baleine !
+%mor:	adv|mais pro:sub|je v:mdl|vouloir&PRES&12s v|manger-INF prep|plus
+	det:dem|cette&f&sg adj|gros&f n|baleine&f !
+*MOT:	ah non pas moi ah !
+%mor:	co|ah co|non=no neg|pas pro|moi&sg co|ah !
+*CHI:	ouais hey bonhomme cheval !
+%mor:	co|ouais=yes co|hey n|bonhomme&m n|cheval&m&sg !
+*CHI:	<allez> [x 4] !
+%mor:	co|allez !
+*MOT:	hey monsieur biberon je ne suis pas un cheval !
+%mor:	co|hey n|monsieur&m n|biberon&m pro:sub|je neg|ne
+	v:aux|être&PRES&1s neg|pas det:art|un&m&sg n|cheval&m&sg !
+*CHI:	là-bas xxx hey voilà mon cheval !
+%mor:	adv:place|là–bas co|hey adv:place|voilà det:poss|mon&m&sg
+	n|cheval&m&sg !
+*CHI:	<allez> [x 3] &=yells !
+%mor:	co|allez !
+*MOT:	ça c'est un cheval !
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:art|un&m&sg
+	n|cheval&m&sg !
+*CHI:	&ouahh !
+*MOT:	Joseph .
+%mor:	n:prop|Joseph .
+*MOT:	Joseph .
+%mor:	n:prop|Joseph .
+*MOT:	ça c'est le cheval .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg
+	n|cheval&m&sg .
+*CHI:	&=yells .
+*MOT:	<tigalope@t> [x 8] .
+%mor:	test|tigalope .
+*CHI:	&=yells méchante camion !
+%mor:	adj|méchant&f=evil n|camion&m !
+*MOT:	c'est pas un camion c'est un cheval !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas det:art|un&m&sg n|camion&m
+	pro:dem|ce$v:exist|être&PRES&3s det:art|un&m&sg n|cheval&m&sg !
+*CHI:	&=yells .
+*MOT:	un drôle de cheval xxx .
+%mor:	det:art|un&m&sg adj|drôle prep|de n|cheval&m&sg .
+*CHI:	xxx créature !
+%mor:	n|créature&f !
+*MOT:	oups !
+%mor:	co|oups !
+*MOT:	il a rencontré une fille .
+%mor:	pro:sub|il v:aux|avoir&PRES&3s part|rencontrer-PP&m
+	det:art|une&f&sg n|fille&f .
+*CHI:	ah une fille ?
+%mor:	co|ah det:art|une&f&sg n|fille&f ?
+*CHI:	&eeeh .
+*MOT:	&=laughs une présentation de de camions .
+%mor:	det:art|une&f&sg n|présentation&f prep|de prep|de n|camion&m-PL .
+*MOT:	ça va bien hem ?
+%mor:	pro:dem|ça v:mdl|aller&PRES&3s n|bien&m co|hem ?
+*CHI:	c'est l'heure de la décantation@t &shhh !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le$n|heure&f prep|de
+	det:art|la&f&sg test|décantation !
+*MOT:	c'est l'heure de la quoi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le$n|heure&f prep|de
+	det:art|la&f&sg pro:int|quoi ?
+*MOT:	c'est l'heure de la quoi tu as dit ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le$n|heure&f prep|de
+	det:art|la&f&sg pro:rel|quoi part|taire-PP&m v:aux|avoir&PRES&2s
+	part|dire-PP&m ?
+*MOT:	ah nous sommes arrivés à la &monse !
+%mor:	co|ah pro:obj|nous v:aux|être&PRES&1p part|arriver-PP&m&pl prep|à
+	co|la !
+*MOT:	Joseph c'est l'heure de quoi ?
+%mor:	n:prop|Joseph pro:dem|ce$v:exist|être&PRES&3s det:art|le$n|heure&f
+	prep|de pro:rel|quoi ?
+*CHI:	c'est l'heure de la décantation@t .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le$n|heure&f prep|de
+	det:art|la&f&sg test|décantation .
+*MOT:	ah .
+%mor:	co|ah .
+*CHI:	&=yells .
+*MOT:	wow il est bon le camion !
+%mor:	co|wow pro:sub|il v:aux|être&PRES&3s adj|bon&m det:art|le&m&sg
+	n|camion&m !
+*CHI:	&woa !
+*MOT:	il est capable de grimper sur des pentes super raides !
+%mor:	pro:sub|il v:aux|être&PRES&3s adj|capable prep|de v|grimper-INF
+	prep|sur prep|de&les n|pente&f-PL adj|super adj|raide&m-PL !
+*MOT:	monsieur biberon est-ce que c'est l'heure du repas pour lui ?
+%mor:	n|monsieur&m n|biberon&m v:int|est–ce adv|que
+	pro:dem|ce$v:exist|être&PRES&3s det:art|le$n|heure&f prep|de&le
+	n|repas&m prep|pour pro:ind|lui ?
+*CHI:	&hii .
+*MOT:	on va se reposer un_petit_peu ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:refl|se re#v|poser-INF
+	adv|un_petit_peu ?
+*MOT:	parcequ'il a été très actif ce matin là monsieur biberon ?
+%mor:	adv|parceque$pro:sub|il v:aux|avoir&PRES&3s n|été&m adv|très
+	adj|actif&m pro:dem|ce n|matin&m adv:place|là n|monsieur&m
+	n|biberon&m ?
+*MOT:	grosse journée .
+%mor:	adj|gros&f n|journée&f .
+*CHI:	il va faire dodo dans le camion .
+%mor:	pro:sub|il v:mdl|aller&PRES&3s v:mdl|faire-INF co|dodo prep|dans
+	det:art|le&m&sg n|camion&m .
+*MOT:	ah oui ?
+%mor:	co|ah co|oui=yes ?
+*MOT:	chut .
+%mor:	co|chut .
+*CHI:	il va aller xxx .
+%mor:	pro:sub|il v:mdl|aller&PRES&3s v:mdl|aller&INF .
+*MOT:	xxx .
+*CHI:	c'est beaucoup trop haut il faut monter plus en_haut .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|beaucoup adv|trop adj|haut&m
+	pro:sub|il v:mdl|falloir&PRES&3s v|monter-INF prep|plus
+	adv:place|en_haut .
+*MOT:	ah non !
+%mor:	co|ah co|non=no !
+*MOT:	tu penses que, tu penses pas que tu vas le réveiller en le montant
+	là ?
+%mor:	part|taire-PP&m v|penser-PRES&SUB&2s adv|que cm|cm part|taire-PP&m
+	v|penser-PRES&SUB&2s neg|pas adv|que part|taire-PP&m
+	v:mdl|aller&PRES&2s pro:obj|le re#v|veiller-INF prep|en
+	det:art|le&m&sg adj|montant&m=climbing adv:place|là ?
+*CHI:	&=laughs .
+*MOT:	pauvre monsieur biberon .
+%mor:	adj|pauvre&m n|monsieur&m n|biberon&m .
+*MOT:	ah il tombe pas !
+%mor:	co|ah pro:sub|il n|tombe&f neg|pas !
+*CHI:	&=yells .
+*MOT:	est-ce qu'il est réveillé ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il v:aux|être&PRES&3s
+	re#part|veiller-PP&m ?
+*CHI:	hein quoi quoi ?
+%mor:	co|hein pro:int|quoi pro:int|quoi ?
+*CHI:	monsieur camion faites attention sinon nous va tomber !
+%mor:	n|monsieur&m n|camion&m part|faire-PP&f&pl n|attention&f prep|sinon
+	pro:obj|nous v:mdl|aller&PRES&3s v|tomber-INF !
+*MOT:	ah non !
+%mor:	co|ah co|non=no !
+*MOT:	monsieur camion vous m'avez réveillé !
+%mor:	n|monsieur&m n|camion&m pro:obj|vous
+	pro:obj|me$v:poss|avoir&PRES&2p re#part|veiller-PP&m !
+*CHI:	héh !
+%mor:	co|héh !
+*CHI:	désolé !
+%mor:	adj|désolé&m !
+*MOT:	monsieur camion soyez prudent !
+%mor:	n|monsieur&m n|camion&m v:aux|être&PRES&SUB&2p adj|prudent&m !
+*CHI:	&woua !
+*MOT:	ah !
+%mor:	co|ah !
+*CHI:	monsieur camion &ya !
+%mor:	n|monsieur&m n|camion&m !
+*CHI:	vous êtes gros méchant !
+%mor:	pro:obj|vous v:aux|être&PRES&2p n|gros&m adj|méchant&m=evil !
+*CHI:	tu vas embarquer dans notre .
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s v|embarquer-INF prep|dans
+	det:poss|notre&sg .
+*CHI:	héh voilà xxx mais mais c'est une fusée !
+%mor:	co|héh co|voilà n|mai&m-PL adv|mais pro:dem|ce$v:aux|être&PRES&3s
+	det:art|une&f&sg n|fusée&f !
+*MOT:	c'est une fusée &wouhou !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg n|fusée&f !
+*MOT:	il s'en va vers la lune !
+%mor:	pro:sub|il pro:refl|se$pro:y|en v:mdl|aller&PRES&3s prep|vers
+	det:art|la&f&sg n|lune&f !
+*CHI:	oh oh ya !
+%mor:	co|oh co|oh co|ya !
+*MOT:	est-ce qu'il va rencontrer des extraterrestres sur la lune ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il v:mdl|aller&PRES&3s
+	v|rencontrer-INF prep|de&les n|+n|extra+n|terrestre&m-PL prep|sur
+	det:art|la&f&sg n|lune&f ?
+@Eg
+*CHI:	ouch ça fait mal !
+%mor:	co|ouch pro:dem|ça part|faire-PP&m adv|mal !
+*MOT:	la fusée elle a atterri sur le camion ?
+%mor:	det:art|la&f&sg n|fusée&f pro:sub|elle v:aux|avoir&PRES&3s
+	part|atterrir-PP&m prep|sur det:art|le&m&sg n|camion&m ?
+*CHI:	xxx &=yells .
+*MOT:	c'est la planète tête .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|la&f&sg n|planète&f n|tête&f
+	.
+*CHI:	&beow .
+*MOT:	&beow .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*MOT:	on va ranger les jouets mon amour ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|ranger-INF det:art|les&pl
+	n|jouet&m-PL det:poss|mon&m&sg n|amour&m ?
+*MOT:	Maman va en regarder d' autres, des nouveaux .
+%mor:	n:prop|Maman v:mdl|aller&PRES&3s prep|en v|regarder-INF adv|de
+	pro|autres&pl cm|cm prep|de&les n|nouveau&m-PL .
+*CHI:	bin les hawaïens !
+%mor:	co|bin det:art|les&pl n|hawaïen&m-PL !
+*MOT:	okay ?
+%mor:	co|okay=okay ?
+*MOT:	est-ce qu'on range les jouets avec Maman ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v|ranger-PRES&SUB&13s
+	det:art|les&pl n|jouet&m-PL prep|avec n:prop|Maman ?
+*CHI:	bah c'est pas juste je veux aller &bah &bah &bah !
+%mor:	co|bah pro:dem|ce$v:exist|être&PRES&3s neg|pas adj|juste pro:sub|je
+	v:mdl|vouloir&PRES&12s v:mdl|aller&INF !
+*CHI:	c'est une grosse fusée ça !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|gros&f n|fusée&f
+	pro:dem|ça !
+*MOT:	Joseph as tu hâte de voir les autres jouets ?
+%mor:	n:prop|Joseph v:aux|avoir&PRES&2s part|taire-PP&m n|hâte&f prep|de
+	v|voir&INF det:art|les&pl pro|autres&pl n|jouet&m-PL ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	ils sont tous pour moi .
+%mor:	pro:sub|ils v:aux|être&PRES&3p pro|tous&m&pl conj|pour pro|moi&sg .
+*MOT:	&=laughs d'accord .
+%mor:	adv|d'accord .
+*MOT:	allez .
+%mor:	co|allez .
+*CHI:	ah mais c'est une fusée !
+%mor:	co|ah adv|mais pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg
+	n|fusée&f !
+*MOT:	ramasse .
+%mor:	v|ramasser-IMP&2s .
+*MOT:	il en manque un xxx !
+%mor:	pro:sub|il prep|en n|manque&m pro|un&m&sg !
+*MOT:	ah !
+%mor:	co|ah !
+*CHI:	&woa !
+*MOT:	tiens ta fusée !
+%mor:	v|tenir-IMP&2s det:poss|ta&f&sg n|fusée&f !
+*CHI:	<&woa> [x 7] !
+@End

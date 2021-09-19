@@ -1,0 +1,765 @@
+@UTF8
+@PID:	11312/a-00005274-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|2;08.28|female|TYP||Child||203|
+@ID:	fra|Nadig|MOT||female|||Mother|undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*CHI:	tiens !
+%mor:	v|tenir-IMP&2s !
+*MOT:	mm .
+%mor:	co|mm .
+*CHI:	tiens !
+%mor:	v|tenir-IMP&2s !
+*MOT:	www .
+%com:	mother talks to the experimenter
+*CHI:	ça aussi !
+%mor:	pro:dem|ça adv|aussi !
+*MOT:	mm !
+%mor:	co|mm !
+*MOT:	toi t'en veux tu d' autre ?
+%mor:	pro|toi&sg pro:obj|te$pro:y|en v:mdl|vouloir&PRES&12s
+	part|taire-PP&m adv|de pro|autre&sg ?
+*CHI:	euh non c'est toi .
+%mor:	co|euh co|non=no pro:dem|ce$v:aux|être&PRES&3s pro|toi&sg .
+*MOT:	moi encore ?
+%mor:	pro|moi&sg adv|encore ?
+*MOT:	miam [x 5] .
+%mor:	co|miam .
+*CHI:	arrose .
+%mor:	v|arroser-IMP&2s .
+*MOT:	arrose, d' accord .
+%mor:	v|arroser-IMP&2s cm|cm adv|de n|accord&m .
+*MOT:	on va ouvrir la &t&r .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|ouvrir-INF co|la .
+*MOT:	une petite cuillerée .
+%mor:	det:art|une&f&sg adj|petit&f n|cuillerée&f=spoonful .
+*MOT:	mm d' autre ?
+%mor:	co|mm adv|de pro|autre&sg ?
+*CHI:	xxx .
+*MOT:	encore ?
+%mor:	adv|encore ?
+*CHI:	&r&s .
+*MOT:	c'est très bon ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|très co|bon ?
+*MOT:	est-ce qu'on prend un_petit_peu de, moi je vais prendre
+	un_petit_peu de thé aussi .
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v|prendre-PRES&3s
+	adv|un_petit_peu prep|de cm|cm pro|moi&sg pro:sub|je
+	v:mdl|aller&PRES&1s v|prendre-INF adv|un_petit_peu prep|de n|thé&m
+	adv|aussi .
+*CHI:	&=coughs .
+*MOT:	t'en veux tu toi ?
+%mor:	pro:obj|te$pro:y|en v:mdl|vouloir&PRES&12s part|taire-PP&m
+	pro|toi&sg ?
+*CHI:	non pas thé .
+%mor:	co|non=no neg|pas n|thé&m .
+*MOT:	pas du thé ?
+%mor:	neg|pas prep|de&le n|thé&m ?
+*MOT:	oh qu'est-ce qu'on pourrait mettre qui serait bon ?
+%mor:	co|oh pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|on
+	v:mdl|pouvoir&COND&3s v|mettre-INF pro:int|qui v:aux|être&COND&3s
+	co|bon ?
+*MOT:	de la limonade ?
+%mor:	prep|de det:art|la&f&sg n|limonade&f ?
+*CHI:	oh non là <si c'est> [x 2] du jus ça .
+%mor:	co|oh co|non=no adv:place|là co|si pro:dem|ce$v:aux|être&PRES&3s
+	prep|de&le n|jus&m pro:dem|ça .
+*MOT:	du jus ?
+%mor:	prep|de&le n|jus&m ?
+*MOT:	ah oui bonne idée .
+%mor:	co|ah co|oui=yes adj|bon&f n|idée&f .
+*CHI:	&s .
+%com:	child acts as if pouring juice in the cup .
+*MOT:	je vais y goûter .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s pro:y|y n|goûter&m .
+*CHI:	xxx &k&a .
+*MOT:	&=sips mm !
+%mor:	co|mm !
+*CHI:	encore ?
+%mor:	adv|encore ?
+*MOT:	du jus de pomme ?
+%mor:	prep|de&le n|jus&m prep|de n|pomme&f ?
+*CHI:	euh non y en reste xxx .
+%mor:	co|euh co|non=no pro:y|y pro:y|en n|reste&m .
+*MOT:	ouais orange .
+%mor:	co|ouais=yes n|orange .
+*MOT:	bonne idée .
+%mor:	adj|bon&f n|idée&f .
+*CHI:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	s@o .
+%mor:	on|s .
+%com:	child acts as if pouring juice in the cup .
+*MOT:	&=sips .
+*CHI:	encore ?
+%mor:	adv|encore ?
+*MOT:	toi t'en veux d' autre ?
+%mor:	pro|toi&sg pro:obj|te$pro:y|en v:mdl|vouloir&PRES&12s adv|de
+	pro|autre&sg ?
+*CHI:	oui attends .
+%mor:	co|oui=yes v|attendre-IMP&2s .
+*CHI:	c'est <ça c'est mon> [x 2] jus ça .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça
+	pro:dem|ce$v:aux|être&PRES&3s det:poss|mon&m&sg n|jus&m pro:dem|ça .
+*MOT:	ça c'est ton jus ?
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:poss|ton&m&sg n|jus&m
+	?
+*MOT:	d'accord , je vais t'en remettre un peu ?
+%mor:	adv|d'accord cm|cm pro:sub|je v:mdl|aller&PRES&1s
+	pro:obj|te$pro:y|en re#v|mettre-INF det:art|un&m&sg n|peu&m ?
+*CHI:	non c'est .
+%mor:	co|non=no pro:dem|ce$v:aux|être&PRES&3s .
+*MOT:	xxx ici .
+%mor:	adv:place|ici .
+%com:	there was overlap between the speakers .
+*CHI:	ça c'est s@o .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s on|s .
+%com:	child hands the cup to her mother's mouth .
+*MOT:	&=sips .
+*CHI:	ça c'est à &a .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s prep|à .
+*MOT:	toi .
+%mor:	pro|toi&sg .
+*CHI:	&s &=sips .
+*MOT:	mm c'est bon ça !
+%mor:	co|mm pro:dem|ce$v:exist|être&PRES&3s adj|bon&m pro:dem|ça !
+*MOT:	regarde on pourrait faire un petit tas .
+%mor:	v|regarder-IMP&2s pro:sub|on v:mdl|pouvoir&COND&3s v:mdl|faire-INF
+	det:art|un&m&sg adj|petit&m n|tas&m .
+*MOT:	une petite table peut-être .
+%mor:	det:art|une&f&sg adj|petit&f n|table&f adv|peut–être .
+*CHI:	&o&s oui ça c'est ma table .
+%mor:	co|oui=yes pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:poss|ma&sg
+	n|table&f .
+*MOT:	on fait une petite table ?
+%mor:	pro:sub|on part|faire-PP&m det:art|une&f&sg adj|petit&f n|table&f ?
+*CHI:	&s .
+*MOT:	fait comme ça .
+%mor:	part|faire-PP&m adv|comme pro:dem|ça .
+*CHI:	non pas xxx table .
+%mor:	co|non=no neg|pas n|table&f .
+*MOT:	pas de xxx table ?
+%mor:	neg|pas prep|de n|table&f ?
+*CHI:	0 .
+%com:	child starts putting all the toys back in the box .
+*MOT:	&=laughs .
+*CHI:	oh non pas l'assiette !
+%mor:	co|oh co|non=no neg|pas det:art|le$n|assiette&f !
+*MOT:	pas l'assiette .
+%mor:	neg|pas det:art|le$n|assiette&f .
+*CHI:	xxx rang xxx .
+%mor:	n|rang&m .
+*CHI:	ça c'est un café ça .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:art|un&m&sg n|café&m
+	pro:dem|ça .
+*MOT:	ouais moi j'aimerai ça un bon café .
+%mor:	co|ouais=yes pro|moi&sg pro:sub|je$v|aimer-FUT&1s pro:dem|ça
+	det:art|un&m&sg adj|bon&m n|café&m .
+*MOT:	peux tu m'en faire un ?
+%mor:	n|peu&m-PL pro:sub|tu pro:obj|me$pro:y|en v:mdl|faire-INF
+	pro|un&m&sg ?
+*MOT:	tu mets tu du sucre dedans ?
+%mor:	part|taire-PP&m n|mets&m part|taire-PP&m prep|de&le n|sucre&m
+	adv:place|dedans ?
+*CHI:	euh non, oui .
+%mor:	co|euh co|non=no cm|cm n|oui&m .
+*MOT:	parfait .
+%mor:	part|parfaire-PP&m .
+*MOT:	euh un_petit_peu encore .
+%mor:	co|euh adv|un_petit_peu adv|encore .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	fini .
+%mor:	part|finir-PP&m .
+*MOT:	tu brasses ?
+%mor:	part|taire-PP&m n|brasse&f-PL ?
+*CHI:	0 .
+%com:	child starts mixing the coffee .
+*MOT:	mm le bon café, j'en ai besoin du bon café pour ce matin .
+%mor:	co|mm det:art|le&m&sg adj|bon&m n|café&m cm|cm pro:sub|je$pro:y|en
+	v:aux|avoir&PRES&1s n|besoin&m prep|de&le adj|bon&m n|café&m
+	prep|pour pro:dem|ce n|matin&m .
+*MOT:	tu m'en donnes ?
+%mor:	part|taire-PP&m pro:obj|me$pro:y|en v|donner-PRES&SUB&2s ?
+*CHI:	xxx cuillère .
+%mor:	n|cuillère&f=spoon .
+*MOT:	toi tu veux tu du café ?
+%mor:	pro|toi&sg part|taire-PP&m v:mdl|vouloir&PRES&12s part|taire-PP&m
+	prep|de&le n|café&m ?
+*CHI:	moi non c'est chaud mon café .
+%mor:	pro|moi&sg co|non=no pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m
+	det:poss|mon&m&sg n|café&m .
+*MOT:	xxx toi .
+%mor:	pro|toi&sg .
+*MOT:	&=sips mm parfait !
+%mor:	co|mm part|parfaire-PP&m !
+*CHI:	encore ?
+%mor:	adv|encore ?
+*MOT:	encore un_petit_peu .
+%mor:	adv|encore adv|un_petit_peu .
+*MOT:	tu m'en fait un autre ?
+%mor:	part|taire-PP&m pro:obj|me$pro:y|en part|faire-PP&m det:art|un&m&sg
+	pro|autre&sg ?
+*CHI:	okay .
+%mor:	co|okay=okay .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	vas_y .
+%mor:	co|vas_y .
+*CHI:	ça &v&a&s xxx maman !
+%mor:	pro:dem|ça n|maman&f !
+*MOT:	&=laughs .
+*CHI:	&=gasps .
+*MOT:	c'est bon avec un peu de sucre .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adj|bon&m prep|avec det:art|un&m&sg
+	n|peu&m prep|de n|sucre&m .
+*CHI:	du sucre ?
+%mor:	prep|de&le n|sucre&m ?
+*CHI:	oh oui tiens ma cuillère .
+%mor:	co|oh co|oui=yes n|tien&m-PL det:poss|ma&sg n|cuillère&f=spoon .
+*CHI:	la petite cuillère ?
+%mor:	det:art|la&f&sg adj|petit&f n|cuillère&f=spoon ?
+*MOT:	la petite cuillère, ouais c'est correct .
+%mor:	det:art|la&f&sg adj|petit&f n|cuillère&f=spoon cm|cm co|ouais=yes
+	pro:dem|ce$v:exist|être&PRES&3s adj|correct&m .
+*CHI:	xxx &p du sucre ?
+%mor:	prep|de&le n|sucre&m ?
+*MOT:	puis est-ce que tu veux me mettre aussi du lait un peu, dans mon
+	café ?
+%mor:	adv|puis v:int|est–ce adv|que part|taire-PP&m
+	v:mdl|vouloir&PRES&12s pro:obj|me v|mettre-INF adv|aussi prep|de&le
+	n|lait&m=milk det:art|un&m&sg n|peu&m cm|cm prep|dans
+	det:poss|mon&m&sg n|café&m ?
+*CHI:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	mais après tu jettes d'accord ?
+%mor:	adv|mais adv|après part|taire-PP&m v|jeter-PRES&SUB&2s adv|d'accord
+	?
+*CHI:	on a chauffé mais c'est <chaud> [x 3] .
+%mor:	pro:sub|on v:aux|avoir&PRES&3s part|chauffer-PP&m n|mai&m-PL
+	pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m .
+*MOT:	c'est faut très, faut faire très attention quand on brasse .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s v:mdl|falloir&PRES&3s adv|très cm|cm
+	v:mdl|falloir&PRES&3s v:mdl|faire-INF adv|très n|attention&f
+	adv|quand pro:sub|on n|brasse&f .
+*CHI:	c'est fini .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|finir-PP&m .
+*CHI:	c'est fini .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|finir-PP&m .
+*MOT:	c'est fini, y est prêt ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|finir-PP&m cm|cm pro:y|y
+	v:aux|être&PRES&3s n|prêt&m ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	qu'est-ce qu'il manque ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|il n|manque&m ?
+*CHI:	xxx .
+%com:	there was overlap between the speakers .
+*MOT:	oh regarde Sophie on peut mettre du lait, de la bouteille sh@o .
+%mor:	co|oh v|regarder-IMP&2s n:prop|Sophie pro:sub|on
+	v:mdl|pouvoir&PRES&3s v|mettre-INF prep|de&le n|lait&m=milk cm|cm
+	prep|de det:art|la&f&sg n|bouteille&f on|sh .
+*CHI:	&=hisses .
+*CHI:	ça ça va aller à &sh .
+%mor:	pro:dem|ça pro:dem|ça v:mdl|aller&PRES&3s v:mdl|aller&INF prep|à .
+%com:	we hear a big sound .
+*MOT:	attention !
+%mor:	co|attention !
+*MOT:	&sh .
+*CHI:	0 .
+%com:	child throws a toy in the box .
+*MOT:	&=laughs .
+*CHI:	&=sighs .
+*MOT:	est-ce qu'il est prêt mon café ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il v:aux|être&PRES&3s n|prêt&m
+	det:poss|mon&m&sg n|café&m ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	pas encore .
+%mor:	neg|pas adv|encore .
+*MOT:	qu'est-ce qu'il manque ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|il n|manque&m ?
+*CHI:	&=whispers .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	0 .
+%com:	child hands the cup to her mother's mouth .
+*MOT:	&=sips .
+*MOT:	oh c'était chaud !
+%mor:	co|oh pro:dem|ce$v:exist|être&IMPF&3s adj|chaud&m !
+*CHI:	xxx .
+*MOT:	je me suis brûlée .
+%mor:	pro:sub|je pro:obj|me v:aux|être&PRES&1s part|brûler-PP&f .
+*CHI:	&=gasps .
+*MOT:	j'ai bu trop vite .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s part|boire&PP&m adv|trop adv|vite .
+*MOT:	il fallait souffler avant .
+%mor:	pro:sub|il v:mdl|falloir&IMPF&3s v|souffler-INF n|avant&m .
+*MOT:	hm il fallait souffler .
+%mor:	co|hm pro:sub|il v:mdl|falloir&IMPF&3s v|souffler-INF .
+*CHI:	encore xxx !
+%mor:	adv|encore !
+*MOT:	ah non c'est correct .
+%mor:	co|ah co|non=no pro:dem|ce$v:exist|être&PRES&3s adj|correct&m .
+*MOT:	moi je veux faire quelque chose d' autre maintenant .
+%mor:	pro|moi&sg pro:sub|je v:mdl|vouloir&PRES&12s v:mdl|faire-INF
+	det:gen|quelque n|chose=thing adv|de pro|autre&sg adv|maintenant .
+%com:	mother takes out some blocs from the box .
+*CHI:	non pas les jouets &p ça !
+%mor:	co|non=no neg|pas det:art|les&pl n|jouet&m-PL pro:dem|ça !
+*MOT:	non mais je veux juste faire une table pour le café .
+%mor:	co|non=no adv|mais pro:sub|je v:mdl|vouloir&PRES&12s adv|juste
+	v:mdl|faire-INF det:art|une&f&sg n|table&f prep|pour det:art|le&m&sg
+	n|café&m .
+*CHI:	uh .
+%mor:	co|uh .
+*MOT:	comme ça non ?
+%mor:	adv|comme pro:dem|ça co|non=no ?
+*CHI:	&s .
+*CHI:	&s mais ça, et ça, aussi ça, ça ça brosse .
+%mor:	adv|mais pro:dem|ça cm|cm conj|et pro:dem|ça cm|cm adv|aussi
+	pro:dem|ça cm|cm pro:dem|ça pro:dem|ça n|brosse&f .
+*MOT:	ça c'est pour qui ?
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s prep|pour pro:rel|qui ?
+%com:	child is combing her mom's hair .
+*MOT:	ah merci beaucoup .
+%mor:	co|ah co|merci adv|beaucoup .
+*CHI:	&=moans .
+*CHI:	va manger ?
+%mor:	v:mdl|aller&PRES&3s v|manger-INF ?
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	&t .
+*MOT:	vas_y continue .
+%mor:	co|vas_y v|continuer-IMP&2s .
+*CHI:	&b .
+*MOT:	attends une minute mettre ça comme ça &=whispers .
+%mor:	v|attendre-IMP&2s det:art|une&f&sg n|minute&f v|mettre-INF
+	pro:dem|ça adv|comme pro:dem|ça .
+*CHI:	ça &=hisses .
+%mor:	pro:dem|ça .
+*CHI:	ça c'est pas à table ça .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s neg|pas prep|à n|table&f
+	pro:dem|ça .
+%com:	child takes the tea pot and pours some tea .
+*MOT:	c'est prêt ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|prêt&m ?
+*CHI:	&=hisses .
+*CHI:	ah non xxx .
+%mor:	co|ah co|non=no .
+*CHI:	xxx gros cuillère ?
+%mor:	n|gros&m n|cuillère&f=spoon ?
+*MOT:	oui j'aimerai ça une petite cuillère pour brasser .
+%mor:	co|oui=yes pro:sub|je$v|aimer-FUT&1s pro:dem|ça det:art|une&f&sg
+	adj|petit&f n|cuillère&f=spoon prep|pour v|brasser-INF .
+*CHI:	ah <non> [x 3] .
+%mor:	co|ah co|non=no .
+*CHI:	xxx &t&i ta gros cuillère xxx .
+%mor:	det:poss|ta&f&sg n|gros&m n|cuillère&f=spoon .
+*CHI:	oh <ça> [x 2] .
+%mor:	co|oh pro:dem|ça .
+*CHI:	ça c'est la grosse cuillère .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:art|la&f&sg adj|gros&f
+	n|cuillère&f=spoon .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	ici .
+%mor:	adv:place|ici .
+*MOT:	là il faut que je souffle cette fois-ci .
+%mor:	adv:place|là pro:sub|il v:mdl|falloir&PRES&3s pro:rel|que
+	pro:sub|je n|souffle&m det:dem|cette&f&sg n|fois&f-DEIC .
+%com:	mom blows on the cup her daughter gave her .
+*CHI:	moi aussi je veux faire un café, je veux +...
+%mor:	pro|moi&sg adv|aussi pro:sub|je v:mdl|vouloir&PRES&12s
+	v:mdl|faire-INF det:art|un&m&sg n|café&m cm|cm pro:sub|je
+	v:mdl|vouloir&PRES&12s +...
+*CHI:	met tes mains .
+%mor:	v|mettre-PRES&3s det:poss|tes&pl n|main&f-PL .
+*MOT:	&=sips mm <très> [x 4] bon !
+%mor:	co|mm adv|très co|bon !
+*MOT:	tu fais des très bons cafés Sophie .
+%mor:	part|taire-PP&m v:mdl|faire-PRES&12s prep|de&les adv|très
+	adj|bon&m-PL n|café&m-PL n:prop|Sophie .
+*MOT:	toi tu vas faire un café pour toi aussi ?
+%mor:	pro|toi&sg part|taire-PP&m v:mdl|aller&PRES&2s v:mdl|faire-INF
+	det:art|un&m&sg n|café&m prep|pour pro|toi&sg adv|aussi ?
+*CHI:	ça marche !
+%mor:	pro:dem|ça n|marche&f !
+*MOT:	xxx, on fait tu un chocolat chaud pour toi ?
+%mor:	cm|cm pro:sub|on v:mdl|faire-PRES&3s part|taire-PP&m
+	det:art|un&m&sg n|chocolat&m n|chaud&m prep|pour pro|toi&sg ?
+*CHI:	&=moans .
+*MOT:	regarde je vais mettre du cacao .
+%mor:	v|regarder-IMP&2s pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF
+	prep|de&le n|cacao&m .
+*CHI:	non pas cacao +/.
+%mor:	co|non=no neg|pas n|cacao&m +/.
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	+, pas cacao .
+%mor:	neg|pas n|cacao&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	je vais manger tout ça .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s v|manger-INF n|tout&m pro:dem|ça .
+*MOT:	il faut que tu souffles .
+%mor:	pro:sub|il v:mdl|falloir&PRES&3s pro:rel|que part|taire-PP&m
+	n|souffle&m-PL .
+*MOT:	c'est chaud .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m .
+*CHI:	&=blows .
+*MOT:	bien dit donc .
+%mor:	adv|bien part|dire-PP&m adv|donc .
+*CHI:	ah me suis brûlée .
+%mor:	co|ah pro:obj|me v:aux|être&PRES&1s part|brûler-PP&f .
+*MOT:	tu t'es brûlée ?
+%mor:	part|taire-PP&m pro:sub|tu$v:aux|être&PRES&2s part|brûler-PP&f ?
+*MOT:	ah non !
+%mor:	co|ah co|non=no !
+*MOT:	on va souffler encore &=blows .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|souffler-INF adv|encore .
+*CHI:	non c'est pas prêt .
+%mor:	co|non=no pro:dem|ce$v:exist|être&PRES&3s neg|pas n|prêt&m .
+*CHI:	moi je veux mettre lait un peu xxx .
+%mor:	pro|moi&sg pro:sub|je v:mdl|vouloir&PRES&12s v|mettre-INF
+	n|lait&m=milk det:art|un&m&sg n|peu&m .
+*MOT:	moi je vais me faire, qu'est-ce que je voudrais me faire ?
+%mor:	pro|moi&sg pro:sub|je v:mdl|aller&PRES&1s pro:obj|me
+	v:mdllex|faire-INF cm|cm pro:rel|que$v:int|est–ce adv|que pro:sub|je
+	v:mdl|vouloir&COND&12s pro:obj|me v:mdllex|faire-INF ?
+*MOT:	hm .
+%mor:	co|hm .
+*CHI:	&=gasps .
+*MOT:	ah une soupe, on pourrait manger une soupe ?
+%mor:	co|ah det:art|une&f&sg n|soupe&f cm|cm pro:sub|on
+	v:mdllex|pouvoir&COND&3s v|manger-INF det:art|une&f&sg n|soupe&f ?
+*CHI:	oh attends .
+%mor:	co|oh v|attendre-IMP&2s .
+*MOT:	moi je vais préparer une soupe, d'accord ?
+%mor:	pro|moi&sg pro:sub|je v:mdl|aller&PRES&1s v|préparer-INF
+	det:art|une&f&sg n|soupe&f cm|cm adv|d'accord ?
+*MOT:	pendant que toi tu fais ça ?
+%mor:	n|pendant&m prep|que pro|toi&sg part|taire-PP&m
+	v:mdl|faire-PRES&12s pro:dem|ça ?
+*MOT:	je vais mettre dans mon chaudron .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF prep|dans
+	det:poss|mon&m&sg n|chaudron&m .
+*MOT:	sh@o .
+%mor:	on|sh .
+*MOT:	je vais couper des légumes .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s v|couper-INF prep|de&les n|légume-PL
+	.
+*MOT:	les mettre dans la soupe .
+%mor:	det:art|les&pl v|mettre-INF prep|dans det:art|la&f&sg n|soupe&f .
+*MOT:	on va mettre du bouillon .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|mettre-INF prep|de&le n|bouillon&m
+	.
+*MOT:	sh@o .
+%mor:	on|sh .
+*MOT:	on va la faire cuire .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:obj|la v:mdl|faire-INF
+	v|cuire-INF .
+*MOT:	est-ce que tu vas en prendre de ma soupe ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|aller&PRES&2s prep|en
+	v|prendre-INF prep|de det:poss|ma&sg n|soupe&f ?
+*MOT:	c'est de la soupe au poulet et nouilles .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|de det:art|la&f&sg n|soupe&f
+	prep|à&le n|poulet&m conj|et n|nouille&f-PL .
+%com:	child is drinking her coffee .
+*CHI:	ah c'est pas suis brûlée .
+%mor:	co|ah pro:dem|ce$v:exist|être&PRES&3s neg|pas v:aux|être&PRES&1s
+	part|brûler-PP&f .
+*MOT:	tu t'es brûlée ?
+%mor:	part|taire-PP&m pro:sub|tu$v:aux|être&PRES&2s part|brûler-PP&f ?
+*CHI:	&=moans .
+*MOT:	ah non il faut souffler encore .
+%mor:	co|ah co|non=no pro:sub|il v:mdl|falloir&PRES&3s v|souffler-INF
+	adv|encore .
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	c'est pas .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas .
+*MOT:	&=laughs .
+*CHI:	&p&a c'est pas brûlé .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas part|brûler-PP&m .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	&=sips .
+*MOT:	Sophie ma soupe est prête .
+%mor:	n:prop|Sophie det:poss|ma&sg n|soupe&f v:aux|être&PRES&3s
+	adj|prêt&f .
+*MOT:	tu veux y goûter ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s pro:y|y n|goûter&m ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	j'ai fait chauffer, c'est une bonne soupe .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s part|faire-PP&m v|chauffer-INF cm|cm
+	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|bon&f n|soupe&f .
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	avec des nouilles .
+%mor:	prep|avec prep|de&les n|nouille&f-PL .
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	bon moi je vais en prendre alors .
+%mor:	co|bon pro|moi&sg pro:sub|je v:mdl|aller&PRES&1s prep|en
+	v|prendre-INF adv|alors .
+%com:	mother pours soup in the bowl .
+*CHI:	xxx sucre ah non &y&a bien .
+%mor:	n|sucre&m co|ah co|non=no adv|bien .
+*CHI:	<pas mettre du sucre> [x 2] .
+%mor:	neg|pas v|mettre-INF prep|de&le n|sucre&m .
+*CHI:	va donner ça .
+%mor:	v:mdl|aller&PRES&3s v|donner-INF pro:dem|ça .
+*MOT:	tu mets du sucre dans ton chocolat chaud ?
+%mor:	part|taire-PP&m n|mets&m prep|de&le n|sucre&m prep|dans
+	det:poss|ton&m&sg n|chocolat&m adj|chaud&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+%com:	child is stirring her hot chocolate .
+*MOT:	voilà !
+%mor:	adv:place|voilà !
+*CHI:	&s .
+*MOT:	c'est bien sucré ça .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|bien&m n|sucré&m pro:dem|ça .
+*MOT:	okay moi je goûte à ma soupe .
+%mor:	co|okay=okay pro|moi&sg pro:sub|je v|goûter-PRES&SUB&13s prep|à
+	det:poss|ma&sg n|soupe&f .
+*MOT:	&=sips c'est bon !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s co|bon !
+*MOT:	tu veux goûter ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s v|goûter-INF ?
+*CHI:	non &s .
+%mor:	co|non=no .
+*MOT:	<c'est pas> [x 2] trop chaud .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas adv|trop adj|chaud&m .
+*CHI:	non c'est +...
+%mor:	co|non=no pro:dem|ce$v:aux|être&PRES&3s +...
+*MOT:	&=sips .
+*CHI:	c'est, tu vas brûler ta langue !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s cm|cm part|taire-PP&m
+	v:mdl|aller&PRES&2s v|brûler-INF det:poss|ta&f&sg n|langue&f !
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	non c'est pas trop chaud je te dis .
+%mor:	co|non=no pro:dem|ce$v:exist|être&PRES&3s neg|pas adv|trop
+	adj|chaud&m pro:sub|je pro:obj|te v|dire-PRES&PASS&12s .
+*MOT:	je l'ai soufflé <bien> [x 3] .
+%mor:	pro:sub|je pro:obj|le$v:poss|avoir&PRES&1s n|soufflé&m adv|bien .
+*MOT:	tu veux goûter ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s v|goûter-INF ?
+*MOT:	un_tout_petit_peu .
+%mor:	adv|un_tout_petit_peu .
+*CHI:	non c'est pas bon .
+%mor:	co|non=no pro:dem|ce$v:exist|être&PRES&3s neg|pas co|bon .
+*MOT:	&=grunts ma soupe est pas bonne !
+%mor:	det:poss|ma&sg n|soupe&f v:aux|être&PRES&3s neg|pas adj|bon&f !
+*MOT:	pourquoi ?
+%mor:	adv:int|pourquoi ?
+*MOT:	je vais en faire une autre alors .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s prep|en v:mdl|faire-INF
+	det:art|une&f&sg pro|autre&sg adv|alors .
+*MOT:	ah on va appeler .
+%mor:	co|ah pro:sub|on v:mdl|aller&PRES&3s v|appeler-INF .
+*MOT:	on va appeler quelqu'un pour qu'il nous envoie une soupe .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|appeler-INF
+	det:gen|quelque$det:art|un&m&sg conj|pour pro:rel|que$pro:sub|il
+	pro:obj|nous v|envoyer-PRES&SUB&13s det:art|une&f&sg n|soupe&f .
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	quatre un six trois huit huit trois quatre neuf cinq .
+%mor:	n|quatre&m det:art|un&m&sg n|six&m n|trois&m n|huit&m n|huit&m
+	n|trois&m n|quatre&m adj|neuf&m n|cinq&m .
+*MOT:	dring@o .
+%mor:	on|dring .
+*CHI:	ah .
+%mor:	co|ah .
+*MOT:	vas_y on va parler .
+%mor:	co|vas_y pro:sub|on v:mdl|aller&PRES&3s v|parler-INF .
+*CHI:	c'est &a &s un café .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|un&m&sg n|café&m .
+*CHI:	xxx café .
+%mor:	n|café&m .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	&=coughs .
+*CHI:	moi j'ai .
+%mor:	pro|moi&sg pro:sub|je$v:aux|avoir&PRES&1s .
+*CHI:	xxx photo &a&f&o &a&f xxx fait une photo !
+%mor:	n|photo&f part|faire-PP&m det:art|une&f&sg n|photo&f !
+@Eg
+*MOT:	ah tu veux faire une photo ?
+%mor:	co|ah part|taire-PP&m v:mdl|vouloir&PRES&12s v:mdl|faire-INF
+	det:art|une&f&sg n|photo&f ?
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	rit .
+%mor:	v|rire&PASS&3s .
+*MOT:	&=laughs cheese@s:eng .
+%mor:	L2|cheese .
+*MOT:	tu me prends en photo ?
+%mor:	part|taire-PP&m pro:obj|me v|prendre-PRES&IMP&12s prep|en n|photo&f
+	?
+*CHI:	<fait> [x 2] pas rit .
+%mor:	part|faire-PP&m neg|pas v|rire&PASS&3s .
+*CHI:	fait sourire .
+%mor:	part|faire-PP&m n|sourire&m .
+%com:	child acts as if taking a picture of her mom .
+*MOT:	click@o .
+%mor:	on|click .
+*CHI:	fait un sourire .
+%mor:	part|faire-PP&m det:art|un&m&sg n|sourire&m .
+*MOT:	&=laughs .
+*MOT:	click@o .
+%mor:	on|click .
+*CHI:	&=laughs .
+*MOT:	&=laughs moi aussi je veux prendre une photo de toi .
+%mor:	pro|moi&sg adv|aussi pro:sub|je v:mdl|vouloir&PRES&12s
+	v|prendre-INF det:art|une&f&sg n|photo&f prep|de pro|toi&sg .
+*CHI:	d'accord .
+%mor:	adv|d'accord .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	&a Sophie .
+%mor:	n:prop|Sophie .
+*MOT:	fait un sourire .
+%mor:	part|faire-PP&m det:art|un&m&sg n|sourire&m .
+*CHI:	0 .
+%com:	child smiles .
+*MOT:	click@o .
+%mor:	on|click .
+*CHI:	&=laughs .
+*MOT:	oh quelle belle photo !
+%mor:	co|oh det:gen|quelle&f&sg adj|beau&f&sg=pretty n|photo&f !
+*CHI:	c'est encore ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|encore ?
+*MOT:	ouais encore .
+%mor:	co|ouais=yes adv|encore .
+*CHI:	fait un sourire .
+%mor:	part|faire-PP&m det:art|un&m&sg n|sourire&m .
+*CHI:	tu, tu peux &s .
+%mor:	part|taire-PP&m cm|cm part|taire-PP&m n|peu&m-PL .
+*MOT:	&=laughs .
+*CHI:	cheese@s:eng .
+%mor:	L2|cheese .
+*MOT:	&=laughs .
+*MOT:	est-ce qu'elle est belle la photo ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|elle v:aux|être&PRES&3s
+	adj|beau&f&sg=pretty det:art|la&f&sg n|photo&f ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	ouais, on voit juste un cheval .
+%mor:	co|ouais=yes cm|cm pro:sub|on v|voir&PRES&3s adv|juste
+	det:art|un&m&sg n|cheval&m&sg .
+*CHI:	oh .
+%mor:	co|oh .
+*MOT:	comment ça ?
+%mor:	n|comment&m pro:dem|ça ?
+*CHI:	parce_que il marche plus .
+%mor:	conj|parce_que pro:sub|il n|marche&f qn|plus .
+*MOT:	non c'est ça hem ?
+%mor:	co|non=no pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça co|hem ?
+*MOT:	xxx il marche pas pour vrai je pense .
+%mor:	pro:sub|il v|marcher-PRES&SUB&13s neg|pas prep|pour n|vrai&m
+	pro:sub|je v|penser-PRES&SUB&13s .
+*MOT:	parce_que c'est un jouet .
+%mor:	conj|parce_que pro:dem|ce$v:exist|être&PRES&3s det:art|un&m&sg
+	n|jouet&m .
+*CHI:	oui, &=hisses rit .
+%mor:	co|oui=yes cm|cm v|rire&PASS&3s .
+*MOT:	0 .
+%com:	mother smiles .
+*CHI:	non pas rit .
+%mor:	co|non=no neg|pas v|rire&PASS&3s .
+*MOT:	0 .
+%com:	mother changes to a blank face .
+*CHI:	hm fais sourire .
+%mor:	co|hm v:mdl|faire-PRES&12s n|sourire&m .
+*CHI:	&ti&ti cheese@s:eng .
+%mor:	L2|cheese .
+*MOT:	cheese@s:eng click@o !
+%mor:	L2|cheese on|click !
+*MOT:	&=laughs .
+%com:	there was overlap between the speakers .
+*CHI:	pas rit .
+%mor:	neg|pas v|rire&PASS&3s .
+*MOT:	www .
+%com:	mother talks to the experimenter .
+*CHI:	rit .
+%mor:	v|rire&PASS&3s .
+*CHI:	euh rit pas .
+%mor:	co|euh v|rire&PASS&3s neg|pas .
+*CHI:	fais sourire .
+%mor:	v:mdl|faire-PRES&12s n|sourire&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	dernière photo .
+%mor:	adj|dernier&f n|photo&f .
+*MOT:	click@o !
+%mor:	on|click !
+*MOT:	okay vas_y on va faire autre chose maintenant, on va serrer les
+	jouets .
+%mor:	co|okay=okay co|vas_y pro:sub|on v:mdl|aller&PRES&3s
+	v:mdl|faire-INF pro|autre&sg n|chose=thing adv|maintenant cm|cm
+	pro:sub|on v:mdl|aller&PRES&3s v|serrer-INF det:art|les&pl
+	n|jouet&m-PL .
+*MOT:	okay on les serre ensemble ?
+%mor:	co|okay=okay pro:sub|on det:art|les&pl n|serre&f n|ensemble&m ?
+*MOT:	on les met dans la boîte .
+%mor:	pro:sub|on pro:obj|les v|mettre-PRES&3s prep|dans det:art|la&f&sg
+	n|boîte&f .
+*MOT:	on a un autre jeu qu'on va faire après .
+%mor:	pro:sub|on v:aux|avoir&PRES&3s det:art|un&m&sg pro|autre&sg n|jeu&m
+	pro:rel|que$pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF adv|après
+	.
+%com:	mother and child start putting toys back in the box .
+*CHI:	oh ça c'est &a !
+%mor:	co|oh pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s !
+*MOT:	tu termines ton thé ?
+%mor:	part|taire-PP&m v|terminer-PRES&SUB&2s det:poss|ton&m&sg n|thé&m ?
+*MOT:	parfait .
+%mor:	part|parfaire-PP&m .
+*MOT:	plus tard !
+%mor:	prep|plus n|tard&m !
+*MOT:	génial !
+%mor:	adj|génial&m&sg !
+*MOT:	bravo ma belle .
+%mor:	co|bravo det:poss|ma&sg adj|beau&f&sg=pretty .
+*CHI:	&=sighs .
+*MOT:	on le met ensemble le couvercle ?
+%mor:	pro:sub|on pro:obj|le v|mettre-PRES&3s n|ensemble&m det:art|le&m&sg
+	n|couvercle&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*CHI:	xxx .
+*MOT:	ouais super .
+%mor:	co|ouais=yes n|super&m .
+*MOT:	tu vas le mettre là-bas ?
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s pro:obj|le v|mettre-INF
+	adv:place|là–bas ?
+*MOT:	&=grunts tu peux le mettre juste ici .
+%mor:	part|taire-PP&m v:mdllex|pouvoir&IMP&2s pro:obj|le v|mettre-INF
+	adv|juste adv:place|ici .
+%com:	mother points to a part in the room .
+*MOT:	c'est parfait .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|parfaire-PP&m .
+*CHI:	où ?
+%mor:	pro:int|où ?
+*MOT:	juste là .
+%mor:	adv|juste adv:place|là .
+*MOT:	bravo !
+%mor:	co|bravo !
+*MOT:	très bonne .
+%mor:	adv|très adj|bon&f .
+@End

@@ -1,0 +1,308 @@
+@UTF8
+@PID:	11312/a-00005283-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|3;11.|female|ASD||Child||218|
+@ID:	fra|Nadig|MOT||female|||Mother|higher_than_undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*MOT:	qu'est-ce qu'on fait au bébé ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m
+	prep|à&le n|bébé&m ?
+*MOT:	est-ce qu'on lui donne à manger ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|luire&PP&m
+	v|donner-PRES&SUB&13s prep|à v|manger-INF ?
+*CHI:	xxx de l'eau .
+%mor:	prep|de det:art|le$n|eau&f .
+*CHI:	<de l'eau> [x 2] .
+%mor:	prep|de det:art|le$n|eau&f .
+*MOT:	et qu'est-ce qu'on fait avec l'eau ?
+%mor:	conj|et pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|on
+	part|faire-PP&m prep|avec det:art|le$n|eau&f ?
+*MOT:	est-ce qu'on fait le café ou on fait le thé ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m det:art|le&m&sg
+	n|café&m conj|ou pro:sub|on part|faire-PP&m det:art|le&m&sg n|thé&m
+	?
+*CHI:	on va faire un thé .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF det:art|un&m&sg
+	n|thé&m .
+*MOT:	le thé okay .
+%mor:	det:art|le&m&sg n|thé&m co|okay=okay .
+*MOT:	alors on fait chauffer ?
+%mor:	adv|alors pro:sub|on part|faire-PP&m v|chauffer-INF ?
+*MOT:	sh@o .
+%mor:	on|sh .
+*CHI:	xxx .
+*MOT:	ah c'est chaud attention c'est chaud .
+%mor:	co|ah pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m co|attention
+	pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m .
+*MOT:	c'est chaud .
+%mor:	pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m .
+*MOT:	il faut tenir ici il faut tenir ici c'est chaud .
+%mor:	pro:sub|il v:mdl|falloir&PRES&3s v|tenir-INF adv:place|ici
+	pro:sub|il v:mdl|falloir&PRES&3s v|tenir-INF adv:place|ici
+	pro:dem|ce$v:exist|être&PRES&3s adj|chaud&m .
+*CHI:	sh@o .
+%mor:	on|sh .
+*MOT:	c'est pour moi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|pour pro|moi&sg ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	mm je vais mettre un sucre .
+%mor:	co|mm pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF det:art|un&m&sg
+	n|sucre&m .
+*MOT:	est-ce qu'il est bon ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il v:aux|être&PRES&3s co|bon ?
+*MOT:	faut souffler .
+%mor:	v:mdl|falloir&PRES&3s v|souffler-INF .
+*MOT:	je crois c'est chaud &=sips .
+%mor:	pro:sub|je v|croire&PRES&12s pro:dem|ce$v:exist|être&PRES&3s
+	adj|chaud&m .
+*CHI:	&=sips .
+*MOT:	mm c'est bon ce thé .
+%mor:	co|mm pro:dem|ce$v:exist|être&PRES&3s adj|bon&m pro:dem|ce n|thé&m
+	.
+*MOT:	il est bon .
+%mor:	pro:sub|il v:aux|être&PRES&3s co|bon .
+*CHI:	tient la chaussure .
+%mor:	v|tenir-PRES&3s det:art|la&f&sg n|chaussure&f .
+*MOT:	hem ?
+%mor:	co|hem ?
+*CHI:	xxx chaussure .
+%mor:	n|chaussure&f .
+*MOT:	qu'est-ce qu'on fait ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m ?
+*MOT:	non regarde plutôt .
+%mor:	co|non=no v|regarder-PRES&SUB&13s adv|plutôt .
+*CHI:	&=gasps .
+*MOT:	est-ce qu'on va brosser le bébé ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:mdl|aller&PRES&3s
+	v|brosser-INF det:art|le&m&sg n|bébé&m ?
+*CHI:	oui !
+%mor:	co|oui=yes !
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	&=gasps .
+*MOT:	il a des beaux cheveux .
+%mor:	pro:sub|il v:aux|avoir&PRES&3s prep|de&les adj|beau&m&pl=pretty
+	n|cheveu&m-PL .
+*MOT:	qu'est-ce que tu fais ?
+%mor:	pro:int|que$v:int|est–ce adv|que part|taire-PP&m
+	v:mdl|faire-PRES&12s ?
+*MOT:	attention !
+%mor:	co|attention !
+*MOT:	Elmo .
+%mor:	n:prop|Elmo .
+*CHI:	quoi ?
+%mor:	pro:int|quoi ?
+*MOT:	on joue juste avec les jouets ici chérie .
+%mor:	pro:sub|on n|joue&f adj|juste prep|avec det:art|les&pl n|jouet&m-PL
+	adv:place|ici n|chéri&f .
+*MOT:	okay ?
+%mor:	co|okay=okay ?
+*CHI:	okay .
+%mor:	co|okay=okay .
+*CHI:	xxx .
+*MOT:	non non Elmo .
+%mor:	co|non=no co|non=no n:prop|Elmo .
+*MOT:	viens .
+%mor:	v|venir-IMP&2s .
+*MOT:	on va jouer avec bébé .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|jouer-INF prep|avec n|bébé&m .
+*CHI:	xxx .
+*MOT:	après on joue avec monsieur &p&a okay ?
+%mor:	adv|après pro:sub|on n|joue&f prep|avec n|monsieur&m co|okay=okay ?
+*MOT:	okay ?
+%mor:	co|okay=okay ?
+*CHI:	xxx .
+*MOT:	après .
+%mor:	adv|après .
+*MOT:	après okay ?
+%mor:	adv:place|après co|okay=okay ?
+*MOT:	parce_que maintenant ça c'est des nouveaux jouets .
+%mor:	conj|parce_que adv|maintenant pro:dem|ça
+	pro:dem|ce$v:aux|être&PRES&3s prep|de&les n|nouveau&m-PL
+	n|jouet&m-PL .
+*MOT:	on fait une montagne ?
+%mor:	pro:sub|on part|faire-PP&m det:art|une&f&sg n|montagne&f ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	viens on fait une montagne .
+%mor:	v|venir-IMP&2s pro:sub|on part|faire-PP&m det:art|une&f&sg
+	n|montagne&f .
+*MOT:	&ou c'est moi qui va gagner ça va être haut .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro|moi&sg pro:rel|qui
+	v:mdl|aller&PRES&3s v|gagner-INF pro:dem|ça v:mdl|aller&PRES&3s
+	v:aux|être&INF adj|haut&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	tour à Elmo .
+%mor:	n|tour prep|à n:prop|Elmo .
+*MOT:	woah .
+%mor:	co|woah .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	ah !
+%mor:	co|ah !
+%com:	tower falls apart .
+*MOT:	okay au tour à Elmo .
+%mor:	co|okay=okay prep|à&le n|tour prep|à n:prop|Elmo .
+*MOT:	ah !
+%mor:	co|ah !
+*MOT:	tombé !
+%mor:	part|tomber-PP&m !
+*CHI:	&s tombé oui .
+%mor:	part|tomber-PP&m n|oui&m .
+*MOT:	c'est tombé .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|tomber-PP&m .
+*CHI:	xxx &t vu ça .
+%mor:	part|voir&PP&m pro:dem|ça .
+*MOT:	&ou .
+*MOT:	attends on va l'arranger un peu comme ça xxx .
+%mor:	v|attendre-IMP&2s pro:sub|on v:mdl|aller&PRES&3s
+	pro:obj|le$v|arranger-INF det:art|un&m&sg n|peu&m adv|comme
+	pro:dem|ça .
+*MOT:	whoop .
+%mor:	co|whoop .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	est-ce qu'on est capable d' aller <haut> [x 4] ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:aux|être&PRES&3s adj|capable
+	adv|de v:mdl|aller&INF adj|haut&m ?
+*MOT:	ah !
+%mor:	co|ah !
+*MOT:	tombé .
+%mor:	part|tomber-PP&m .
+*CHI:	&=laughs on continue .
+%mor:	pro:sub|on adj|continu&f .
+*MOT:	qu'est-ce qu'on fait ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m ?
+*MOT:	est-ce qu'on fait une maison ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m
+	det:art|une&f&sg n|maison&f ?
+*CHI:	xxx maison .
+%mor:	n|maison&f .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	la porte .
+%mor:	det:art|la&f&sg n|porte&f=door .
+*MOT:	oui .
+%mor:	co|oui=yes .
+*CHI:	un enfant .
+%mor:	det:art|un&m&sg n|enfant .
+*CHI:	xxx .
+*CHI:	voilà !
+%mor:	adv:place|voilà !
+*MOT:	c'est beau .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adj|beau&m&sg=pretty .
+*MOT:	on peut mettre aussi ici .
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s v|mettre-INF adv|aussi
+	adv:place|ici .
+*CHI:	xxx aussi .
+%mor:	adv|aussi .
+*CHI:	xxx aussi .
+%mor:	adv|aussi .
+*CHI:	faire xxx .
+%mor:	v:mdl|faire-INF .
+*CHI:	ça d' haut .
+%mor:	pro:dem|ça adv|de adj|haut&m .
+*CHI:	et ça d' haut .
+%mor:	conj|et pro:dem|ça adv|de adj|haut&m .
+*CHI:	xxx la montagne .
+%mor:	det:art|la&f&sg n|montagne&f .
+*MOT:	la montagne .
+%mor:	det:art|la&f&sg n|montagne&f .
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	bravo .
+%mor:	co|bravo .
+*MOT:	wow !
+%mor:	co|wow !
+*MOT:	une belle .
+%mor:	det:art|une&f&sg adj|beau&f&sg=pretty .
+*MOT:	wow .
+%mor:	co|wow .
+*MOT:	est-ce qu'on fait quelque chose de difficile ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m det:gen|quelque
+	n|chose=thing prep|de adj|difficile ?
+*CHI:	&=gasps .
+*CHI:	xxx .
+*MOT:	voilà avec les mains c'est ça on arrange ça bien .
+%mor:	co|voilà prep|avec det:art|les&pl n|main&f-PL
+	pro:dem|ce$v:exist|être&PRES&3s pro:dem|ça pro:sub|on
+	v|arranger-PRES&SUB&13s pro:dem|ça adv|bien .
+*MOT:	faut que ça aille au milieu .
+%mor:	v:mdl|falloir&PRES&3s pro:rel|que pro:dem|ça v|ailler-PRES&SUB&13s
+	prep|à&le n|milieu&m .
+*MOT:	voilà .
+%mor:	adv:place|voilà .
+*MOT:	au milieu .
+%mor:	prep|à&le n|milieu&m .
+*CHI:	xxx ramasse okay ?
+%mor:	v|ramasser-IMP&2s co|okay=okay ?
+*MOT:	laisse tomber ?
+%mor:	n|laisse&f v|tomber-INF ?
+*MOT:	xxx .
+*CHI:	xxx .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	whoa Maman est pas capable .
+%mor:	co|whoa n:prop|Maman v:aux|être&PRES&3s neg|pas adj|capable .
+*MOT:	c'est tombé !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|tomber-PP&m !
+*MOT:	est-ce qu'on fait difficile ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m adj|difficile ?
+*CHI:	xxx mettre de xxx .
+%mor:	v|mettre-INF prep|de .
+*MOT:	on peut pas mettre de l'eau .
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s neg|pas v|mettre-INF prep|de
+	det:art|le$n|eau&f .
+*CHI:	xxx .
+*MOT:	c'est juste pour faire semblant Elmo .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|juste conj|pour v:mdl|faire-INF
+	n|semblant&m n:prop|Elmo .
+*CHI:	de l'eau xxx de l'eau .
+%mor:	prep|de det:art|le$n|eau&f prep|de det:art|le$n|eau&f .
+*MOT:	non .
+%mor:	co|non=no .
+*MOT:	regarde Maman qu'est-ce qu'elle fait .
+%mor:	v|regarder-IMP&2s n:prop|Maman pro:rel|que$v:int|est–ce
+	pro:rel|que$pro:sub|elle part|faire-PP&m .
+*MOT:	on va faire très difficile la montagne okay ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF adv|très
+	adj|difficile det:art|la&f&sg n|montagne&f co|okay=okay ?
+*CHI:	&=sighs .
+*MOT:	Elmo regarde tu as pas vu le camion .
+%mor:	n:prop|Elmo v|regarder-IMP&2s part|taire-PP&m v:aux|avoir&PRES&2s
+	neg|pas part|voir&PP&m det:art|le&m&sg n|camion&m .
+*CHI:	xxx .
+*CHI:	on va xxx .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s .
+*MOT:	c'est bien chérie .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|bien&m n|chéri&f .
+*MOT:	tu ranges toute seule .
+%mor:	part|taire-PP&m v|ranger-PRES&SUB&2s adv|toute adj|seul&f .
+*MOT:	regarde .
+%mor:	v|regarder-IMP&2s .
+*MOT:	est-ce qu'on va faire un xxx avant ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:mdl|aller&PRES&3s
+	v:mdl|faire-INF det:art|un&m&sg n|avant&m ?
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	&=laughs bon .
+%mor:	co|bon .
+*MOT:	www .
+%com:	mother talks to the experimenter .
+*CHI:	xxx &m&a .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+%com:	ended here at 6:10.
+@Eg
+@End

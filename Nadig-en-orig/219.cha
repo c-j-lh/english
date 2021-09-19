@@ -1,0 +1,763 @@
+@UTF8
+@PID:	11312/a-00005284-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|5;03.01|male|TYP||Child||219|
+@ID:	fra|Nadig|MOT||female|||Mother|higher_than_undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*CHI:	Maman !
+%mor:	n:prop|Maman !
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	ça c'était le couteau .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&IMPF&3s det:art|le&m&sg
+	n|couteau&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	on le met on le &m on le met ici .
+%mor:	pro:sub|on pro:obj|le v|mettre-PRES&3s pro:sub|on det:art|le&m&sg
+	pro:sub|on pro:obj|le v|mettre-PRES&3s adv:place|ici .
+*CHI:	ça c'était notre cuillère .
+%mor:	pro:dem|ça pro:dem|ce$v:exist|être&IMPF&3s det:poss|notre&sg
+	n|cuillère&f=spoon .
+*CHI:	je mets un litre .
+%mor:	pro:sub|je v|mettre-IMP&2s det:art|un&m&sg n|litre&m .
+*CHI:	on met un litre d' eau &sh &sh .
+%mor:	pro:sub|on v|mettre-PRES&3s det:art|un&m&sg n|litre&m adv|de
+	n|eau&f .
+*CHI:	voilà un litre d' eau .
+%mor:	adv:place|voilà det:art|un&m&sg n|litre&m adv|de n|eau&f .
+*CHI:	de l'eau bouillante !
+%mor:	prep|de det:art|le$n|eau&f adj|bouillant&f !
+*MOT:	&whoa doucement !
+%mor:	adv|doucement !
+*MOT:	faudrait pas t'ébouillanter .
+%mor:	v:mdl|falloir&COND&3s neg|pas pro:obj|te$v|ébouillanter-INF .
+*MOT:	héh tu as tout fait un gros dégât avec ton eau bouillante !
+%mor:	co|héh part|taire-PP&m v:aux|avoir&PRES&2s n|tout&m part|faire-PP&m
+	det:art|un&m&sg n|gros&m n|dégât&m prep|avec det:poss|ton&m&sg
+	n|eau&f adj|bouillant&f !
+*CHI:	non &cét, c'était déjà dans ce plat là !
+%mor:	co|non=no cm|cm pro:dem|ce$v:exist|être&IMPF&3s adv|déjà prep|dans
+	pro:dem|ce n|plat&m adv:place|là !
+*MOT:	&=sighs tu aurais pu ébouillanter tes bébés là, ça serait pas une
+	bonne idée !
+%mor:	part|taire-PP&m v:aux|avoir&COND&12s part|pouvoir&PP&m&sg
+	v|ébouillanter-INF det:poss|tes&pl n|bébé&m-PL adv:place|là cm|cm
+	pro:dem|ça v:aux|être&COND&3s neg|pas det:art|une&f&sg adj|bon&f
+	n|idée&f !
+*CHI:	&f voilà .
+%mor:	adv:place|voilà .
+*MOT:	ça c'est le chaudron ?
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg
+	n|chaudron&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	de l'eau froide &sh .
+%mor:	prep|de det:art|le$n|eau&f adj|froid&f .
+*CHI:	de l'eau bouillante &sh .
+%mor:	prep|de det:art|le$n|eau&f adj|bouillant&f .
+*CHI:	et un gros verre d' eau bouillante &sh .
+%mor:	conj|et det:art|un&m&sg n|gros&m n|verre&m adv|de n|eau&f
+	adj|bouillant&f .
+*MOT:	un gros verre d' eau bouillante xxx .
+%mor:	det:art|un&m&sg n|gros&m n|verre&m adv|de n|eau&f adj|bouillant&f .
+*CHI:	un autre &sh .
+%mor:	det:art|un&m&sg pro|autre&sg .
+*CHI:	de l'eau froide &sh .
+%mor:	prep|de det:art|le$n|eau&f adj|froid&f .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	et de l'eau chaude .
+%mor:	conj|et prep|de det:art|le$n|eau&f adj|chaud&f .
+*MOT:	faque là ça va faire quoi de l'eau tiède ?
+%mor:	co|faque adv:place|là pro:dem|ça v:mdl|aller&PRES&3s
+	v:mdl|faire-INF pro:int|quoi prep|de det:art|le$n|eau&f n|tiède ?
+*MOT:	de l'eau bouillante avec de l'eau froide ça fait de l'eau tiède ?
+%mor:	prep|de det:art|le$n|eau&f adj|bouillant&f prep|avec prep|de
+	det:art|le$n|eau&f adj|froid&f pro:dem|ça part|faire-PP&m prep|de
+	det:art|le$n|eau&f n|tiède ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	pourquoi tu as pas juste mis de l'eau tiède ?
+%mor:	adv:int|pourquoi part|taire-PP&m v:aux|avoir&PRES&2s neg|pas
+	adv|juste adj|mi&m-PL=half prep|de det:art|le$n|eau&f n|tiède ?
+*CHI:	tantôt .
+%mor:	adv|tantôt .
+*CHI:	que je voulais faire ça .
+%mor:	adv|que pro:sub|je v:mdl|vouloir&IMPF&12s v:mdl|faire-INF
+	pro:dem|ça .
+*MOT:	okay c'est correct c'est une bonne raison .
+%mor:	co|okay=okay pro:dem|ce$v:exist|être&PRES&3s adj|correct&m
+	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|bon&f n|raison&f
+	.
+*CHI:	et ça je vais mettre du sucre et de la farine .
+%mor:	conj|et pro:dem|ça pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF
+	prep|de&le n|sucre&m conj|et prep|de det:art|la&f&sg n|farine&f .
+*MOT:	une cuillère seulement ?
+%mor:	det:art|une&f&sg n|cuillère&f=spoon adv|seulement ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	et encore de l'eau &sh .
+%mor:	conj|et adv|encore prep|de det:art|le$n|eau&f .
+*MOT:	&=laughs okay ça va être liquide .
+%mor:	co|okay=okay pro:dem|ça v:mdl|aller&PRES&3s v:aux|être&INF
+	n|liquide&m .
+*MOT:	est-ce que c'est une soupe que tu es entrain de faire ?
+%mor:	v:int|est–ce adv|que pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg
+	n|soupe&f prep|que pro:sub|tu v:exist|être&PRES&2s
+	n|entrain&m=liveliness prep|de v:mdllex|faire-INF ?
+*MOT:	hm ?
+%mor:	co|hm ?
+*CHI:	&m oui et du lait !
+%mor:	co|oui=yes conj|et prep|de&le n|lait&m=milk !
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	et on brasse !
+%mor:	conj|et pro:sub|on n|brasse&f !
+*MOT:	c'est une soupe à quoi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg n|soupe&f prep|à
+	pro:rel|quoi ?
+*CHI:	euh aux légumes !
+%mor:	co|euh prep|à&les n|légume-PL !
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	ça c'était une carotte &frt &frt !
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&IMPF&3s det:art|une&f&sg
+	n|carotte&f !
+*MOT:	mais &pf &pf ça veut dire quoi ça &v ?
+%mor:	adv|mais pro:dem|ça v:mdl|vouloir&PRES&3s v|dire-INF pro:rel|quoi
+	pro:dem|ça ?
+*CHI:	que que je râpais .
+%mor:	prep|que adv|que pro:sub|je v|râper-IMPF&12s .
+*MOT:	ah okay .
+%mor:	co|ah co|okay=okay .
+*CHI:	et &sh et où est le couteau ?
+%mor:	conj|et conj|et pro:int|où v:aux|être&PRES&3s det:art|le&m&sg
+	n|couteau&m ?
+*CHI:	ah !
+%mor:	co|ah !
+*CHI:	voilà coupant en trente mis dedans !
+%mor:	co|voilà part|couper&m-PPRE prep|en n|trente&m part|mettre-PP&m
+	adv:place|dedans !
+*MOT:	tu as émincé quoi ?
+%mor:	part|taire-PP&m v:aux|avoir&PRES&2s part|émincer-PP&m pro:int|quoi
+	?
+*CHI:	bin des bananes !
+%mor:	co|bin prep|de&les n|banane&f-PL !
+*MOT:	tu mets des bananes dans ta soupe ?
+%mor:	part|taire-PP&m n|mets&m prep|de&les n|banane&f-PL prep|dans
+	det:poss|ta&f&sg n|soupe&f ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	&=laughs on enlève hem ?
+%mor:	pro:sub|on v|enlever-IMP&2s co|hem ?
+*CHI:	euh encore de l'eau .
+%mor:	co|euh adv|encore prep|de det:art|le$n|eau&f .
+*MOT:	tu pourrais, tu pourrais mettre, des courges ?
+%mor:	part|taire-PP&m v:mdl|pouvoir&COND&12s cm|cm part|taire-PP&m
+	v:mdl|pouvoir&COND&12s v|mettre-INF cm|cm prep|de&les n|courge&f-PL
+	?
+*MOT:	il y en a des courges jaunes !
+%mor:	pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s prep|de&les
+	n|courge&f-PL adj|jaune-PL !
+*CHI:	oui, des courges jaunes &woup &woup .
+%mor:	co|oui=yes cm|cm prep|de&les n|courge&f-PL adj|jaune-PL .
+*MOT:	tu les éminces &buluplup .
+%mor:	part|taire-PP&m det:art|les&pl v|émincer-PRES&SUB&2s .
+*MOT:	tout émincées .
+%mor:	adv|tout part|émincer-PP&f&pl .
+*CHI:	&shr voilà !
+%mor:	adv:place|voilà !
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	&fut &fut voilà !
+%mor:	adv:place|voilà !
+*MOT:	ah pis il y a des piments aussi qui sont bons !
+%mor:	co|ah co|pis pro:sub|il pro:y|y v:aux|avoir&PRES&3s prep|de&les
+	n|piment&m-PL adv|aussi pro:int|qui v:aux|être&PRES&3p adj|bon&m-PL
+	!
+*MOT:	mais est-ce qu'on met des piments dans les soupes ?
+%mor:	adv|mais v:int|est–ce pro:rel|que$pro:sub|on v|mettre-PRES&3s
+	prep|de&les n|piment&m-PL prep|dans det:art|les&pl n|soupe&f-PL ?
+*CHI:	uhuh .
+%mor:	co|uhuh .
+*MOT:	pas vraiment hem ?
+%mor:	neg|pas adv|vraiment co|hem ?
+*MOT:	qu'est-ce qui est jaune aussi qu'on peut mettre dans une soupe ?
+%mor:	pro:int|que$v:int|est–ce pro:int|qui v:aux|être&PRES&3s adj|jaune
+	adv|aussi pro:rel|que$pro:sub|on v:mdl|pouvoir&PRES&3s v|mettre-INF
+	prep|dans det:art|une&f&sg n|soupe&f ?
+*CHI:	est-ce que tu, &eh &eh, tu veux prendre du café ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m cm|cm cm|cm part|taire-PP&m
+	v:mdl|vouloir&PRES&12s v|prendre-INF prep|de&le n|café&m ?
+%com:	there was overlap between those 2 sentences .
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	oh merci .
+%mor:	co|oh co|merci .
+*MOT:	oh on pourrait faire une soupe aux pois !
+%mor:	co|oh pro:sub|on v:mdl|pouvoir&COND&3s v:mdl|faire-INF
+	det:art|une&f&sg n|soupe&f prep|à&les n|pois&m !
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	et et xxx .
+%mor:	conj|et conj|et .
+*CHI:	il est pas prêt .
+%mor:	pro:sub|il v:aux|être&PRES&3s neg|pas n|prêt&m .
+*CHI:	voilà on goûte à la soupe .
+%mor:	adv:place|voilà pro:sub|on v|goûter-PRES&SUB&13s prep|à
+	det:art|la&f&sg n|soupe&f .
+*CHI:	c'est très bon ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|très co|bon ?
+*MOT:	&=sips il manque un petit quelque chose .
+%mor:	pro:sub|il n|manque&m det:art|un&m&sg adj|petit&m det:gen|quelque
+	n|chose=thing .
+*CHI:	quoi ?
+%mor:	pro:int|quoi ?
+*MOT:	je le sais pas il faudrait y goûter encore .
+%mor:	pro:sub|je det:art|le&m&sg v:mdl|savoir&PRES&12s neg|pas pro:sub|il
+	v:mdl|falloir&COND&3s pro:y|y n|goûter&m adv|encore .
+*MOT:	il manque du bouillon .
+%mor:	pro:sub|il n|manque&m prep|de&le n|bouillon&m .
+*CHI:	okay du bouillon .
+%mor:	co|okay=okay prep|de&le n|bouillon&m .
+*MOT:	tu as mis beaucoup d' eau mais on n' a pas, <on a> [x 2] oublié les
+	cubes de .
+%mor:	part|taire-PP&m v:aux|avoir&PRES&2s part|mettre-PP&m adv|beaucoup
+	adv|de n|eau&f adv|mais pro:sub|on neg|ne v:aux|avoir&PRES&3s
+	neg|pas cm|cm pro:sub|on v:aux|avoir&PRES&3s part|oublier-PP&m
+	det:art|les&pl n|cube&m-PL prep|de .
+*MOT:	de bouillon .
+%mor:	prep|de n|bouillon&m .
+*CHI:	mais j'en ai pas de bouillon .
+%mor:	adv|mais pro:sub|je$pro:y|en v:aux|avoir&PRES&1s neg|pas prep|de
+	n|bouillon&m .
+*MOT:	mais les petits cubes ?
+%mor:	adv|mais det:art|les&pl adj|petit&m-PL n|cube&m-PL ?
+*CHI:	non j'en ai pas .
+%mor:	co|non=no pro:sub|je$pro:y|en v:aux|avoir&PRES&1s neg|pas .
+*MOT:	ah va falloir le faire commander ?
+%mor:	co|ah v:mdl|aller&PRES&3s v:mdl|falloir&INF det:art|le&m&sg
+	v:mdl|faire-INF v|commander-INF ?
+*CHI:	oui j'ai le téléphone .
+%mor:	co|oui=yes pro:sub|je$v:aux|avoir&PRES&1s det:art|le&m&sg
+	n|téléphone&m=telephone .
+*MOT:	d' accord, tu appelles à l'épicerie pour faire livrer ?
+%mor:	adv|de n|accord&m cm|cm part|taire-PP&m v|appeler-PRES&SUB&2s
+	prep|à det:art|le$n|épicerie&f conj|pour v:mdl|faire-INF
+	v|livrer-INF ?
+*MOT:	ou on va aller le chercher .
+%mor:	conj|ou pro:sub|on v:mdl|aller&PRES&3s v:mdl|aller&INF
+	det:art|le&m&sg v|chercher-INF .
+*MOT:	est-ce qu'on peut aller le chercher ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:mdl|pouvoir&PRES&3s
+	v:mdl|aller&INF det:art|le&m&sg v|chercher-INF ?
+*CHI:	&wouah !
+*MOT:	ah peut-être que Grand_Maman elle en a !
+%mor:	co|ah adv|peut–être prep|que n:prop|Grand_Maman pro:sub|elle
+	pro:y|en v:aux|avoir&PRES&3s !
+*CHI:	xxx s'il_vous_plaît .
+%mor:	co|s'il_vous_plaît .
+%com:	there was overlap .
+*CHI:	ah voilà !
+%mor:	co|ah co|voilà !
+*CHI:	ils nous amènent le du bouillon dans une minute !
+%mor:	pro:sub|ils pro:obj|nous v|amener-PRES&3p det:art|le&m&sg
+	prep|de&le n|bouillon&m prep|dans det:art|une&f&sg
+	v|minuter-PRES&SUB&13s !
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	il vient xxx .
+%mor:	pro:sub|il v|venir-PRES&3s .
+*MOT:	on aurait pu demander à Grand_Maman !
+%mor:	pro:sub|on v:aux|avoir&COND&3s part|pouvoir&PP&m&sg v|demander-INF
+	prep|à n:prop|Grand_Maman !
+*CHI:	&uh xxx .
+*MOT:	on y a pas pensé !
+%mor:	pro:sub|on pro:y|y v:aux|avoir&PRES&3s neg|pas part|penser-PP&m !
+*CHI:	non on n' est pas obligé !
+%mor:	co|non=no pro:sub|on neg|ne v:aux|être&PRES&3s neg|pas n|obligé&m !
+*MOT:	xxx obligés d'accord .
+%mor:	n|obligé&m-PL adv|d'accord .
+*MOT:	ding@o dong@o !
+%mor:	on|ding on|dong !
+*CHI:	ah voilà notre bouillon !
+%mor:	co|ah adv:place|voilà det:poss|notre&sg n|bouillon&m !
+*CHI:	attention il y en a vraiment beaucoup .
+%mor:	co|attention pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s
+	adv|vraiment adv|beaucoup .
+*CHI:	&sh voilà !
+%mor:	adv:place|voilà !
+*MOT:	uhhum mais là si on a mis autant de bouillon il va falloir qu'on
+	rajoute des carottes !
+%mor:	co|uhhum adv|mais adv:place|là n|si&m pro:sub|on
+	v:aux|avoir&PRES&3s part|mettre-PP&m prep|autant prep|de
+	n|bouillon&m pro:sub|il v:mdl|aller&PRES&3s v:mdl|falloir&INF
+	pro:rel|que$pro:sub|on v|rajouter-PRES&SUB&13s prep|de&les
+	n|carotte&f-PL !
+*CHI:	okay .
+%mor:	co|okay=okay .
+*MOT:	mais là on va avoir juste trois quatre carottes .
+%mor:	adv|mais adv:place|là pro:sub|on v:mdl|aller&PRES&3s
+	v:aux|avoir&INF adj|juste n|trois&m n|quatre&m n|carotte&f-PL .
+*CHI:	&sht &sht .
+*MOT:	tu râpes, fais attention à tes doigts .
+%mor:	part|taire-PP&m n|râpe&f-PL cm|cm v:mdl|faire-PRES&12s co|attention
+	prep|à det:poss|tes&pl n|doigt&m-PL .
+*MOT:	hem monsieur !
+%mor:	co|hem n|monsieur&m !
+*MOT:	moi je veux pas de doigts dans ma, dans ma soupe &tchuc &tchuc .
+%mor:	pro|moi&sg pro:sub|je v:mdl|vouloir&PRES&12s neg|pas prep|de
+	n|doigt&m-PL prep|dans det:poss|ma&sg cm|cm prep|dans det:poss|ma&sg
+	n|soupe&f .
+*CHI:	&eh si on mettait un_peu de lait ?
+%mor:	adv|si pro:sub|on v|mettre-IMPF&3s adv|un_peu prep|de n|lait&m=milk
+	?
+*CHI:	un_peu de lait ?
+%mor:	adv|un_peu prep|de n|lait&m=milk ?
+*CHI:	c'est très bon .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|très co|bon .
+*MOT:	hm uhhuh oui, ou de la crème ?
+%mor:	co|hm co|uhhuh co|oui=yes cm|cm conj|ou prep|de det:art|la&f&sg
+	n|crème&f ?
+*CHI:	oui xxx crème .
+%mor:	co|oui=yes v|crémer-IMP&2s=cream .
+*CHI:	&sh voilà de la crème !
+%mor:	co|voilà prep|de det:art|la&f&sg n|crème&f !
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	c'est ça la crème .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça det:art|la&f&sg n|crème&f
+	.
+*MOT:	ah est-ce qu'on fait une sauce aux fruits+de+mers ou on, ou on peut
+	?
+%mor:	co|ah v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m
+	det:art|une&f&sg n|sauce&f prep|à&les
+	n|+n|fruits+prep|de+n|mer&f-PL=seafood conj|ou pro:sub|on cm|cm
+	conj|ou pro:sub|on v:mdl|pouvoir&PRES&3s ?
+*CHI:	une sauce aux fruits+de+mer !
+%mor:	det:art|une&f&sg n|sauce&f prep|à&les
+	n|+n|fruits+prep|de+n|mer&f=seafood !
+*MOT:	oui ?
+%mor:	co|oui=yes ?
+*MOT:	ouais okay, avec de la crème délicieux .
+%mor:	co|ouais=yes co|okay=okay cm|cm prep|avec prep|de det:art|la&f&sg
+	n|crème&f adj|délicieux&m .
+*CHI:	&=slurps ah c'est très bon !
+%mor:	co|ah pro:dem|ce$v:exist|être&PRES&3s adv|très co|bon !
+*MOT:	on a oublié quelque chose !
+%mor:	pro:sub|on v:aux|avoir&PRES&3s part|oublier-PP&m det:gen|quelque
+	n|chose=thing !
+%com:	there was overlap .
+*MOT:	on a mis des légumes, on a mis du bouillon, on a mis de la crème,
+	xxx une sauce aux +...
+%mor:	pro:sub|on v:aux|avoir&PRES&3s adj|mi&m-PL=half prep|de&les
+	n|légume-PL cm|cm pro:sub|on v:aux|avoir&PRES&3s adj|mi&m-PL=half
+	prep|de&le n|bouillon&m cm|cm pro:sub|on v:aux|avoir&PRES&3s
+	adj|mi&m-PL=half prep|de co|la n|crème&f cm|cm det:art|une&f&sg
+	n|sauce&f n|ail&m&pl +...
+*CHI:	++ fruits+de+mer !
+%mor:	n|+n|fruits+prep|de+n|mer&f=seafood !
+*MOT:	qu'est-ce qu'on n' a pas mis ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|on neg|ne
+	v:aux|avoir&PRES&3s neg|pas part|mettre-PP&m ?
+*CHI:	des fruits+de+mer !
+%mor:	prep|de&les n|+n|fruits+prep|de+n|mer&f=seafood !
+*MOT:	est-ce qu'il va falloir qu'on retourne à l'épicerie ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il v:mdl|aller&PRES&3s
+	v:mdl|falloir&INF pro:rel|que$pro:sub|on re#v|tourner-PRES&SUB&13s
+	prep|à det:art|le$n|épicerie&f ?
+*CHI:	ah j'en ai pas !
+%mor:	co|ah pro:sub|je$pro:y|en v:aux|avoir&PRES&1s neg|pas !
+*MOT:	viens on va aller à la poissonnerie !
+%mor:	v|venir-IMP&2s pro:sub|on v:mdl|aller&PRES&3s v:mdl|aller&INF
+	prep|à det:art|la&f&sg n|poissonnerie&f !
+*CHI:	on on va, non j'en ai moi !
+%mor:	pro:sub|on pro:sub|on v:mdl|aller&IMP&2s cm|cm co|non=no
+	pro:sub|je$pro:y|en v:aux|avoir&PRES&1s pro|moi&sg !
+*CHI:	à mon épicerie il y a beaucoup de choses .
+%mor:	prep|à det:poss|mon&m&sg n|épicerie&f pro:sub|il pro:y|y
+	v:aux|avoir&PRES&3s adv|beaucoup prep|de n|chose-PL=thing .
+*MOT:	tu en as dans ton épicerie ?
+%mor:	part|taire-PP&m pro:y|en v:aux|avoir&PRES&2s prep|dans
+	det:poss|ton&m&sg n|épicerie&f ?
+*CHI:	zéro [x 4] .
+%mor:	n|zéro&m .
+%com:	there was overlap for the last two sentences .
+*MOT:	on va encore demander au livreur ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s adv|encore v|demander-INF prep|à&le
+	n|livreur&m ?
+*MOT:	je te dis que on se gâte hem !
+%mor:	pro:sub|je pro:obj|te v|dire-PRES&PASS&12s prep|que pro:sub|on
+	pro:refl|se v|gâter-PRES&SUB&13s co|hem !
+*CHI:	euh quatre [x 3] &s .
+%mor:	co|euh n|quatre&m .
+*MOT:	un .
+%mor:	det:art|un&m&sg .
+*CHI:	un un euh .
+%mor:	det:art|un&m&sg pro|un&m&sg co|euh .
+*MOT:	sept .
+%mor:	n|sept&m .
+*CHI:	où est le sept ?
+%mor:	pro:int|où v:aux|être&PRES&3s det:art|le&m&sg num|sept ?
+*MOT:	les deux boules, celui qui ressemble à un bonhomme+de+neige .
+%mor:	det:art|les&pl num|deux n|boule&f-PL cm|cm pro:dem|celui&m&sg
+	pro:int|qui v|ressembler-PRES&SUB&13s prep|à det:art|un&m&sg
+	n|+n|bonhomme+prep|de+n|neige&m=snowman .
+*CHI:	sept, deux .
+%mor:	n|sept&m cm|cm n|deux&m .
+*MOT:	mais là tu téléphones tu es pas entrain de téléphoner .
+%mor:	adv|mais adv:place|là part|taire-PP&m n|téléphone&m-PL=telephone
+	part|taire-PP&m v:aux|être&PRES&2s neg|pas n|entrain&m=liveliness
+	prep|de v|téléphoner-INF .
+*MOT:	tu es entrain de téléphoner &choni chez nous !
+%mor:	part|taire-PP&m v:exist|être&PRES&2s n|entrain&m=liveliness prep|de
+	v|téléphoner-INF prep|chez pro:obj|nous !
+*CHI:	non ça fait ça dans le jeu .
+%mor:	co|non=no pro:dem|ça part|faire-PP&m pro:dem|ça prep|dans
+	det:art|le&m&sg n|jeu&m .
+*MOT:	ah okay, dans le jeu notre numéro de téléphone c'est celui de
+	l'épicerie .
+%mor:	co|ah co|okay=okay cm|cm prep|dans det:art|le&m&sg n|jeu&m
+	det:poss|notre&sg n|numéro&m prep|de n|téléphone&m=telephone
+	pro:dem|ce$v:aux|être&PRES&3s pro:dem|celui&m&sg prep|de
+	det:art|le$n|épicerie&f .
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	ah okay .
+%mor:	co|ah co|okay=okay .
+*CHI:	non ce numéro là c'était lui de l'épicerie !
+%mor:	co|non=no pro:dem|ce n|numéro&m adv:place|là
+	pro:dem|ce$v:exist|être&IMPF&3s part|luire&PP&m prep|de
+	det:art|le$n|épicerie&f !
+*MOT:	ah okay .
+%mor:	co|ah co|okay=okay .
+*CHI:	et voilà !
+%mor:	conj|et adv:place|voilà !
+*CHI:	on voudrait l'épicerie s'il_te_plaît .
+%mor:	pro:sub|on v:mdl|vouloir&COND&3s det:art|le$n|épicerie&f
+	co|s'il_te_plaît .
+*CHI:	on voudrait, les fruits+de+mer s'il_vous_plaît .
+%mor:	pro:sub|on v:mdl|vouloir&COND&3s cm|cm det:art|les&pl
+	n|+n|fruits+prep|de+n|mer&f=seafood co|s'il_vous_plaît .
+*MOT:	hm voulez vous des pétoncles ?
+%mor:	co|hm v:mdl|vouloir&PRES&2p pro:obj|vous prep|de&les
+	n|pétoncle&m-PL ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	voulez vous du homard ?
+%mor:	v:mdl|vouloir&PRES&2p pro:obj|vous prep|de&le n|homard&m ?
+*CHI:	oui tout .
+%mor:	co|oui=yes adv|tout .
+*MOT:	du crabe ?
+%mor:	prep|de&le n|crabe&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	du poisson ?
+%mor:	prep|de&le n|poisson&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	avec la tête ?
+%mor:	prep|avec det:art|la&f&sg n|tête&f ?
+*CHI:	euh non .
+%mor:	co|euh co|non=no .
+*MOT:	avec euh +...
+%mor:	prep|avec co|euh +...
+*CHI:	non non avec .
+%mor:	co|non=no co|non=no prep|avec .
+*MOT:	la queue ?
+%mor:	det:art|la&f&sg n|queue&f ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	déjà tout préparé juste un filet ?
+%mor:	adv|déjà adv|tout part|préparer-PP&m adv|juste det:art|un&m&sg
+	n|filet&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	ah okay .
+%mor:	co|ah co|okay=okay .
+*MOT:	est-ce que vous voulez aussi des crevettes ?
+%mor:	v:int|est–ce adv|que pro:obj|vous v:mdl|vouloir&PRES&2p adv|aussi
+	prep|de&les n|crevette&f-PL ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	est-ce que vous les voulez déjà cuites ?
+%mor:	v:int|est–ce adv|que pro:obj|vous det:art|les&pl
+	v:mdl|vouloir&PRES&2p adv|déjà n|cuite&f-PL ?
+*CHI:	euh euh attendez !
+%mor:	co|euh co|euh v|attendre-IMP&2p !
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	décortiquées ou pas ?
+%mor:	part|décortiquer-PP&f&pl conj|ou neg|pas ?
+*CHI:	décortiquées .
+%mor:	part|décortiquer-PP&f&pl .
+*CHI:	est-ce que est-ce que vous pouvez y aller maintenant
+	s'il_vous_plaît ?
+%mor:	v:int|est–ce adv|que v:int|est–ce adv|que pro:obj|vous
+	v:mdl|pouvoir&PRES&2p pro:y|y v:mdl|aller&INF adv|maintenant
+	co|s'il_vous_plaît ?
+*MOT:	oui mais il faut que je sache ce que tu veux !
+%mor:	co|oui=yes n|mai&m-PL pro:sub|il v:mdl|falloir&PRES&3s pro:rel|que
+	pro:sub|je v:mdl|savoir&PRES&SUB&13s pro:dem|ce adv|que
+	part|taire-PP&m v:mdl|vouloir&PRES&12s !
+*MOT:	est-ce que tu as besoin d' un oignon aussi ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:aux|avoir&PRES&2s n|besoin&m
+	adv|de det:art|un&m&sg n|oignon&m adv|aussi ?
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	oui je voulais dire .
+%mor:	co|oui=yes pro:sub|je v:mdl|vouloir&IMPF&12s n|dire&m .
+*MOT:	c'est tout ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|tout ?
+*CHI:	oui &j, je dois tout_de_suite .
+%mor:	co|oui=yes cm|cm pro:sub|je v:mdl|devoir&PRES&12s adv|tout_de_suite
+	.
+*MOT:	à tout_de_suite !
+%mor:	prep|à adv|tout_de_suite !
+*CHI:	&b bye .
+%mor:	adv|bye .
+*MOT:	est-ce que tu sais ce que ça veut dire des croquettes décortiquées
+	?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|savoir&PRES&12s
+	pro:dem|ce adv|que pro:dem|ça v:mdl|vouloir&PRES&3s v|dire-INF
+	prep|de&les n|croquette&f-PL part|décortiquer-PP&f&pl ?
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+*MOT:	tu sais la petite queue qui &cr qui est croustillante, quand on
+	l'enlève .
+%mor:	part|taire-PP&m v:mdl|savoir&PRES&12s det:art|la&f&sg adj|petit&f
+	n|queue&f pro:int|qui pro:int|qui v:aux|être&PRES&3s
+	adj|croustillant&f=crusty cm|cm conj|quand pro:sub|on
+	pro:obj|le$v|enlever-PRES&SUB&13s .
+*MOT:	www .
+*CHI:	mais xxx .
+%mor:	adv|mais .
+*MOT:	ah c'est &=laughs ding@o dong@o le livreur est arrivé !
+%mor:	co|ah pro:dem|ce$v:exist|être&PRES&3s on|ding on|dong
+	det:art|le&m&sg n|livreur&m v:aux|être&PRES&3s part|arriver-PP&m !
+*CHI:	xxx oh on a on a un bloc !
+%mor:	co|oh pro:sub|on v:aux|avoir&PRES&3s pro:sub|on v:aux|avoir&PRES&3s
+	det:art|un&m&sg n|bloc&m !
+*CHI:	voilà qu'est-ce qu'on met ?
+%mor:	co|voilà pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|on
+	v|mettre-PRES&3s ?
+*MOT:	hm il faudrait faire revenir les pétoncles .
+%mor:	co|hm pro:sub|il v:mdl|falloir&COND&3s v:mdl|faire-INF
+	re#v|venir-INF det:art|les&pl n|pétoncle&m-PL .
+*MOT:	jusqu'à ce-qu'ils deviennent opaques .
+%mor:	prep|jusque$prep|à pro:rel|ce_que$pro:sub|ils v|devenir-PRES&3p
+	adj|opaque-PL .
+*MOT:	là ils ont un_petit_peu transparents .
+%mor:	adv:place|là pro:sub|ils v:aux|avoir&PRES&3p adv|un_petit_peu
+	adj|transparent&m-PL .
+*MOT:	quand il vont devenir, quand on voit plus au travers .
+%mor:	adv|quand pro:sub|il v:mdl|aller&PRES&3p v|devenir-INF cm|cm
+	adv|quand pro:sub|on v|voir&PRES&3s qn|plus prep|à&le n|travers&m .
+*CHI:	non non j'avais demandé de tout préparé déjà !
+%mor:	co|non=no co|non=no pro:sub|je$v:aux|avoir&IMPF&12s
+	part|demander-PP&m prep|de adv|tout part|préparer-PP&m adv|déjà !
+*MOT:	oui mais à l'épicerie ils les font pas cuire !
+%mor:	co|oui=yes n|mai&m-PL prep|à det:art|le$n|épicerie&f pro:sub|ils
+	pro:obj|les v:mdl|faire-PRES&3p neg|pas v|cuire-INF !
+*CHI:	à cette épicerie oui .
+%mor:	prep|à det:dem|cette&f&sg n|épicerie&f co|oui=yes .
+*MOT:	ah okay bin d'abord on peut tout mettre ça dans notre soupe .
+%mor:	co|ah co|okay=okay co|bin adv|d'abord pro:sub|on
+	v:mdl|pouvoir&PRES&3s adv|tout v|mettre-INF pro:dem|ça prep|dans
+	det:poss|notre&sg n|soupe&f .
+*MOT:	c'est même plus une soupe c'est de la sauce aux fruits+de+mer
+	j'avais oublié .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|même prep|plus det:art|une&f&sg
+	n|soupe&f pro:dem|ce$v:aux|être&PRES&3s prep|de det:art|la&f&sg
+	n|sauce&f prep|à&les n|+n|fruits+prep|de+n|mer&f=seafood
+	pro:sub|je$v:poss|avoir&IMPF&12s part|oublier-PP&m .
+*MOT:	ah on a oublié de faire cuire !
+%mor:	co|ah pro:sub|on v:aux|avoir&PRES&3s part|oublier-PP&m prep|de
+	v:mdl|faire-INF v|cuire-INF !
+*CHI:	non le plat c'est pour le faire cuire .
+%mor:	co|non=no det:art|le&m&sg n|plat&m pro:dem|ce$v:aux|être&PRES&3s
+	conj|pour det:art|le&m&sg v:mdl|faire-INF v|cuire-INF .
+*MOT:	oui mais avec la sauce aux fruits+de+mer on va manger quoi ?
+%mor:	co|oui=yes n|mai&m-PL prep|avec det:art|la&f&sg n|sauce&f
+	prep|à&les n|+n|fruits+prep|de+n|mer&f=seafood pro:sub|on
+	v:mdl|aller&PRES&3s v|manger-INF pro:int|quoi ?
+*CHI:	quoi xxx .
+%mor:	pro:int|quoi .
+*MOT:	des nouilles ?
+%mor:	prep|de&les n|nouille&f-PL ?
+*CHI:	oui des nouilles .
+%mor:	co|oui=yes prep|de&les n|nouille&f-PL .
+*MOT:	on a oublié de faire cuire nos nouilles !
+%mor:	pro:sub|on v:aux|avoir&PRES&3s part|oublier-PP&m prep|de
+	v:mdl|faire-INF v|cuire-INF det:poss|nos&pl n|nouille&f-PL !
+*CHI:	ah &m regarde j'en ai déjà des nouilles !
+%mor:	co|ah v|regarder-IMP&2s pro:sub|je$pro:y|en v:aux|avoir&PRES&1s
+	adv|déjà prep|de&les n|nouille&f-PL !
+*MOT:	ah fiouf@t une chance que tu y as pensé !
+%mor:	co|ah test|fiouf det:art|une&f&sg n|chance&f prep|que pro:sub|tu
+	pro:y|y v:aux|avoir&PRES&2s part|penser-PP&m !
+*MOT:	www .
+*CHI:	www .
+*MOT:	non non toi après !
+%mor:	co|non=no co|non=no pro|toi&sg adv|après !
+*MOT:	nous on a pas fini notre souper !
+%mor:	pro:obj|nous pro:sub|on v:aux|avoir&PRES&3s neg|pas part|finir-PP&m
+	det:poss|notre&sg n|souper&m !
+*MOT:	oh on a oublié le pain !
+%mor:	co|oh pro:sub|on v:aux|avoir&PRES&3s part|oublier-PP&m
+	det:art|le&m&sg n|pain&m !
+*CHI:	faut aller à la boulangerie !
+%mor:	v:mdl|falloir&PRES&3s v:mdl|aller&INF prep|à det:art|la&f&sg
+	n|boulangerie&f !
+*CHI:	ah non xxx il y en a toujours .
+%mor:	co|ah co|non=no pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s
+	adv|toujours .
+*MOT:	oui mais le meilleur pain c'est à la boulangerie .
+%mor:	n|oui&m adv|mais det:art|le&m&sg n|meilleur&m n|pain&m
+	pro:dem|ce$v:exist|être&PRES&3s prep|à co|la n|boulangerie&f .
+*CHI:	okay j'appelle la boulangerie .
+%mor:	co|okay=okay pro:sub|je$v|appeler-IMP&2s det:art|la&f&sg
+	n|boulangerie&f .
+*MOT:	non non on va se déplacer un_peu je te dis que tu es bien paresseux
+	tout_d'un_coup toujours vouloir faire livrer .
+%mor:	co|non=no co|non=no pro:sub|on v:mdl|aller&PRES&3s pro:refl|se
+	dé#v|placer-INF adv|un_peu pro:sub|je pro:obj|te
+	v|dire-PRES&PASS&12s adv|que part|taire-PP&m v:aux|être&PRES&2s
+	n|bien&m n|paresseux&m adj|tout_d'un_coup&m=suddenly adv|toujours
+	n|vouloir&m v:mdl|faire-INF v|livrer-INF .
+*CHI:	non c'est à cause que c'est dans le jeu on peut faire ce qu'on veut
+	!
+%mor:	co|non=no pro:dem|ce$v:aux|être&PRES&3s prep|à n|cause&f prep|que
+	pro:dem|ce$v:aux|être&PRES&3s prep|dans det:art|le&m&sg n|jeu&m
+	pro:sub|on v:mdl|pouvoir&PRES&3s v:mdl|faire-INF pro:dem|ce
+	pro:rel|que$pro:sub|on v:mdl|vouloir&PRES&3s !
+*MOT:	ah tu as raison dans le jeu on peut faire ce qu'on veut .
+%mor:	co|ah part|taire-PP&m v:aux|avoir&PRES&2s n|raison&f prep|dans
+	det:art|le&m&sg n|jeu&m pro:sub|on v:mdl|pouvoir&PRES&3s
+	v:mdl|faire-INF pro:dem|ce pro:rel|que$pro:sub|on
+	v:mdl|vouloir&PRES&3s .
+*MOT:	mais ça ça veut dire qu'on pourrait aller chercher du pain en
+	France aussi !
+%mor:	adv|mais pro:dem|ça pro:dem|ça v:mdl|vouloir&PRES&3s v|dire-INF
+	pro:rel|que$pro:sub|on v:mdl|pouvoir&COND&3s v:mdl|aller&INF
+	v|chercher-INF prep|de&le n|pain&m prep|en n:prop|France adv|aussi !
+*CHI:	c'est trop loin !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|trop adv:place|loin !
+*MOT:	bin dans le jeu on peut bien faire ce qu'on veut !
+%mor:	co|bin prep|dans det:art|le&m&sg n|jeu&m pro:sub|on
+	v:mdl|pouvoir&PRES&3s adv|bien v:mdl|faire-INF pro:dem|ce
+	pro:rel|que$pro:sub|on v:mdl|vouloir&PRES&3s !
+*MOT:	on peut dire un deux trois on est rendu en France !
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s v|dire-INF det:art|un&m&sg
+	n|deux&m n|trois&m pro:sub|on v:aux|être&PRES&3s n|rendu&m prep|en
+	n:prop|France !
+*MOT:	ouais toi qui disais que ton frère te faisais pas souvent des
+	câlins .
+%mor:	co|ouais=yes pro|toi&sg pro:int|qui v|dire-IMPF&12s prep|que
+	det:poss|ton&m&sg n|frère&m pro:obj|te v:mdl|faire-IMPF&12s neg|pas
+	adv|souvent prep|de&les n|câlin&m-PL=coaxing .
+*CHI:	www .
+*MOT:	tu veux lui prêter celui-là ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s part|luire&PP&m v|prêter-INF
+	pro:dem|celui–là ?
+*CHI:	www !
+*MOT:	chaud !
+%mor:	adj|chaud&m !
+@Eg
+*MOT:	www .
+*CHI:	appelles la boulangerie s'il_te_plaît !
+%mor:	v|appeler-PRES&SUB&2s det:art|la&f&sg n|boulangerie&f
+	co|s'il_te_plaît !
+*CHI:	okay j'ai tout renversé la farine !
+%mor:	co|okay=okay pro:sub|je$v:aux|avoir&PRES&1s adv|tout
+	part|renverser-PP&m det:art|la&f&sg n|farine&f !
+*MOT:	pas un dégât de farine !
+%mor:	neg|pas det:art|un&m&sg n|dégât&m prep|de n|farine&f !
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	tu sais comment c'est du trouble à ramasser des dégâts de farine !
+%mor:	part|taire-PP&m v:mdl|savoir&PRES&12s adv|comment
+	pro:dem|ce$v:aux|être&PRES&3s prep|de&le n|trouble&m prep|à
+	v|ramasser-INF prep|de&les n|dégât&m-PL prep|de n|farine&f !
+*CHI:	Maman xxx veut .
+%mor:	n:prop|Maman v:mdl|vouloir&PRES&3s .
+*MOT:	un deux trois claque@o et tout était rangé déjà !
+%mor:	det:art|un&m&sg n|deux&m n|trois&m on|claque conj|et adv|tout
+	v:aux|être&IMPF&3s part|ranger-PP&m adv|déjà !
+*MOT:	www .
+*CHI:	Maman Maman !
+%mor:	n:prop|Maman n:prop|Maman !
+*CHI:	on pouvait mettre un deux trois claque@o et tout était rangé déjà !
+%mor:	pro:sub|on v:mdl|pouvoir&IMPF&3s v|mettre-INF det:art|un&m&sg
+	n|deux&m n|trois&m on|claque conj|et adv|tout v:aux|être&IMPF&3s
+	part|ranger-PP&m adv|déjà !
+*MOT:	ah bin d'abord .
+%mor:	co|ah co|bin adv|d'abord .
+*MOT:	vas_y !
+%mor:	co|vas_y !
+*MOT:	fais des dégâts de farine !
+%mor:	v:mdl|faire-PRES&12s prep|de&les n|dégât&m-PL prep|de n|farine&f !
+*CHI:	voilà tout rangé !
+%mor:	co|voilà n|tout&m adj|rangé&m !
+*MOT:	yeah !
+%mor:	co|yeah !
+*MOT:	je te dis c'est le fun@s:eng xxx .
+%mor:	pro:sub|je pro:obj|te v|dire-PRES&PASS&12s
+	pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg L2|fun .
+*CHI:	tu veux du lait ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s prep|de&le n|lait&m=milk ?
+*MOT:	hm xxx .
+%mor:	co|hm .
+*CHI:	&slurp .
+*MOT:	seulement c'est du du lait euh .
+%mor:	adv|seulement pro:dem|ce$v:aux|être&PRES&3s prep|de&le prep|de&le
+	n|lait&m=milk co|euh .
+*CHI:	c'est ça .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça .
+*MOT:	hm .
+%mor:	co|hm .
+*CHI:	c'est ça .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça .
+*MOT:	bin moi j'aimerais mieux du jus .
+%mor:	co|bin pro|moi&sg pro:sub|je$v|aimer-COND&12s n|mieux&m prep|de&le
+	n|jus&m .
+*CHI:	okay j'en ai .
+%mor:	co|okay=okay pro:sub|je$pro:y|en v:aux|avoir&PRES&1s .
+*CHI:	tu veux de la limonade ?
+%mor:	pro:sub|tu v:mdl|vouloir&PRES&12s prep|de det:art|la&f&sg
+	n|limonade&f ?
+*MOT:	&um &mj oui de la belle limonade rose .
+%mor:	co|oui=yes prep|de det:art|la&f&sg adj|beau&f&sg=pretty
+	n|limonade&f adj|rose .
+*CHI:	okay .
+%mor:	co|okay=okay .
+*MOT:	ah il faut ranger !
+%mor:	co|ah pro:sub|il v:mdl|falloir&PRES&3s v|ranger-INF !
+*CHI:	xxx .
+*MOT:	un deux trois go@s:eng !
+%mor:	det:art|un&m&sg n|deux&m n|trois&m L2|go !
+*MOT:	<c'est moi qui va aller le plus vite> [x 2] c'est moi .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro|moi&sg pro:rel|qui
+	v:mdl|aller&PRES&3s v:mdl|aller&INF det:art|le&m&sg
+	part|plaire-PP&m&pl adv|vite pro:dem|ce$v:aux|être&PRES&3s
+	pro|moi&sg .
+*MOT:	tu vas vite !
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s adv|vite !
+*MOT:	pas ceux qui sont à nous hem ?
+%mor:	neg|pas pro:dem|celui&pl pro:int|qui v:aux|être&PRES&3p prep|à
+	pro:obj|nous co|hem ?
+*MOT:	ah okay tiguidou@t !
+%mor:	co|ah co|okay=okay test|tiguidou !
+@End

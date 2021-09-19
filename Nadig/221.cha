@@ -1,0 +1,641 @@
+@UTF8
+@PID:	11312/a-00005286-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|2;02.03|male|TYP||Child||221|
+@ID:	fra|Nadig|MOT||female|||Mother|undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*CHI:	xxx .
+*MOT:	avec quoi ?
+%mor:	prep|avec pro:rel|quoi ?
+*CHI:	xxx .
+*MOT:	un téléphone ?
+%mor:	det:art|un&m&sg n|téléphone&m=telephone ?
+*CHI:	xxx .
+*MOT:	est-ce que tu veux appeler quelqu'un ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	v|appeler-INF det:gen|quelque$det:art|un&m&sg ?
+*CHI:	xxx .
+*MOT:	non okay .
+%mor:	co|non=no co|okay=okay .
+*CHI:	xxx .
+*MOT:	le camion benne .
+%mor:	det:art|le&m&sg n|camion&m n|benne&f .
+*CHI:	xxx .
+*CHI:	&=engine hm ça .
+%mor:	co|hm pro:dem|ça .
+*MOT:	qu'est-ce que c'est ça ?
+%mor:	pro:int|que$v:int|est–ce adv|que pro:dem|ce$v:aux|être&PRES&3s
+	pro:dem|ça ?
+*CHI:	ah &lepoc .
+%mor:	co|ah .
+*MOT:	attends il y en a d' autres on va remplir ton camion .
+%mor:	v|attendre-IMP&2s pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s
+	adv|de pro|autres&pl pro:sub|on v:mdl|aller&PRES&3s v|remplir-INF
+	det:poss|ton&m&sg n|camion&m .
+*MOT:	regarde j'en ai trouvé d' autres .
+%mor:	v|regarder-IMP&2s pro:sub|je$pro:y|en v:aux|avoir&PRES&1s
+	part|trouver-PP&m adv|de pro|autres&pl .
+*CHI:	une minute !
+%mor:	det:art|une&f&sg v|minuter-PRES&SUB&13s !
+*MOT:	une minute ?
+%mor:	det:art|une&f&sg v|minuter-PRES&SUB&13s ?
+*CHI:	xxx .
+*MOT:	okay on fait un par un ?
+%mor:	co|okay=okay pro:sub|on part|faire-PP&m det:art|un&m&sg prep|par
+	det:art|un&m&sg ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	xxx &t .
+*MOT:	est-ce que tu veux que je t'aide ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	prep|que pro:sub|je pro:obj|te$v|aider-PRES&SUB&13s ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non .
+%mor:	co|non=no .
+*CHI:	William .
+%mor:	n:prop|William .
+*MOT:	okay c'est William .
+%mor:	co|okay=okay pro:dem|ce$v:aux|être&PRES&3s n:prop|William .
+*CHI:	xxx .
+*MOT:	tu les met un à côté de l'autre ?
+%mor:	part|taire-PP&m pro:obj|les v|mettre-PRES&3s pro|un&m&sg prep|à
+	n|côté&m prep|de det:art|le$pro|autre&sg ?
+*CHI:	oui xxx oui .
+%mor:	co|oui=yes co|oui=yes .
+*CHI:	ah &kektoute .
+%mor:	co|ah .
+*MOT:	il y en a encore un autre hem ?
+%mor:	pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s adv|encore
+	det:art|un&m&sg pro|autre&sg co|hem ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	c'est le dernier celui-là ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg n|dernier&m
+	pro:dem|celui–là ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	xxx &toute .
+*MOT:	on va regarder dans la boîte si c'est le dernier .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|regarder-INF prep|dans
+	det:art|la&f&sg n|boîte&f adv|si pro:dem|ce$v:aux|être&PRES&3s
+	det:art|le&m&sg n|dernier&m .
+*MOT:	je pense que oui .
+%mor:	pro:sub|je v|penser-PRES&SUB&13s prep|que n|oui&m .
+*CHI:	xxx .
+*CHI:	que oui .
+%mor:	prep|que n|oui&m .
+*MOT:	je pense que oui .
+%mor:	pro:sub|je v|penser-PRES&SUB&13s prep|que n|oui&m .
+*MOT:	il y en a combien là ?
+%mor:	pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s adv|combien
+	adv:place|là ?
+*MOT:	est-ce qu'il y en a beaucoup ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il pro:y|y pro:y|en
+	v:aux|avoir&PRES&3s adv|beaucoup ?
+*CHI:	&bokanot !
+*MOT:	hm mais il y en a plus !
+%mor:	co|hm adv|mais pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s
+	qn|plus !
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	on peut prendre autre chose .
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s v|prendre-INF pro|autre&sg
+	n|chose=thing .
+*CHI:	xxx ça .
+%mor:	pro:dem|ça .
+*MOT:	on peut transporter ça mais oui .
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s v|transporter-INF pro:dem|ça
+	n|mai&m-PL n|oui&m .
+*CHI:	xxx euh ça .
+%mor:	co|euh pro:dem|ça .
+*CHI:	&bokatout .
+*MOT:	encore un autre !
+%mor:	adv|encore det:art|un&m&sg pro|autre&sg !
+*CHI:	&bokatout !
+*MOT:	hm .
+%mor:	co|hm .
+*CHI:	ah y en a !
+%mor:	co|ah pro:y|y pro:y|en v:aux|avoir&PRES&3s !
+*MOT:	mais oui il en reste un !
+%mor:	adv|mais n|oui&m pro:sub|il prep|en n|reste&m pro|un&m&sg !
+*MOT:	est-ce que tu veux le mettre aussi ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	pro:obj|le v|mettre-INF adv|aussi ?
+*CHI:	xxx .
+*MOT:	après ?
+%mor:	adv|après ?
+*CHI:	oui après .
+%mor:	co|oui=yes adv|après .
+*MOT:	héh tu en as beaucoup de choses à transporter !
+%mor:	co|héh part|taire-PP&m pro:y|en v:aux|avoir&PRES&2s adv|beaucoup
+	prep|de n|chose-PL=thing prep|à v|transporter-INF !
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	bon qu'est-ce qu'on pourrait transporter maintenant ?
+%mor:	co|bon pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|on
+	v:mdl|pouvoir&COND&3s v|transporter-INF adv|maintenant ?
+*CHI:	ça !
+%mor:	pro:dem|ça !
+*MOT:	ça un autre bloc ?
+%mor:	pro:dem|ça det:art|un&m&sg pro|autre&sg n|bloc&m ?
+*CHI:	oui un bloc .
+%mor:	co|oui=yes det:art|un&m&sg n|bloc&m .
+*MOT:	okay bonne idée .
+%mor:	co|okay=okay adj|bon&f n|idée&f .
+*CHI:	xxx ah !
+%mor:	co|ah !
+*MOT:	ahhah !
+%mor:	co|ahhah !
+*CHI:	xxx .
+*MOT:	oui il en reste deux hem ?
+%mor:	co|oui=yes pro:sub|il prep|en n|reste&m n|deux&m co|hem ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	on va y aller un par un ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:y|y v:mdl|aller&INF
+	det:art|un&m&sg prep|par det:art|un&m&sg ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+%com:	child is transporting blocs with the truck .
+*CHI:	&t .
+*MOT:	bon il reste tu d' autres blocs à transporter ?
+%mor:	co|bon pro:sub|il n|reste&m part|taire-PP&m adv|de pro|autres&pl
+	n|bloc&m-PL prep|à v|transporter-INF ?
+*CHI:	euh oui .
+%mor:	co|euh co|oui=yes .
+*MOT:	oui ?
+%mor:	co|oui=yes ?
+*MOT:	où ça ?
+%mor:	pro:rel|où pro:dem|ça ?
+*MOT:	où sont les autres blocs ?
+%mor:	pro:int|où v:aux|être&PRES&3p det:art|les&pl pro|autres&pl
+	n|bloc&m-PL ?
+*CHI:	fini .
+%mor:	part|finir-PP&m .
+*MOT:	c'est fini !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|finir-PP&m !
+*CHI:	&feveu tout !
+%mor:	adv|tout !
+*MOT:	tu les as tout transporté !
+%mor:	part|taire-PP&m det:art|les&pl v:aux|avoir&PRES&2s adv|tout
+	part|transporter-PP&m !
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	mais il reste d' autres jeux regarde il y a d' autres jouets dans
+	la boîte !
+%mor:	adv|mais pro:sub|il v|rester-PRES&SUB&13s adv|de pro|autres&pl
+	n|jeu&m-PL v|regarder-IMP&2s pro:sub|il pro:y|y v:aux|avoir&PRES&3s
+	adv|de pro|autres&pl n|jouet&m-PL prep|dans det:art|la&f&sg
+	n|boîte&f !
+*CHI:	ça [x 8] .
+%mor:	pro:dem|ça .
+*MOT:	est-ce que ça te tente de les compter ?
+%mor:	v:int|est–ce adv|que pro:dem|ça pro:obj|te n|tente&f prep|de
+	det:art|les&pl v|compter-INF ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	oui ?
+%mor:	co|oui=yes ?
+*CHI:	un deux quatre quatre .
+%mor:	det:art|un&m&sg n|deux&m n|quatre&m n|quatre&m .
+*MOT:	mais non après deux c'est ?
+%mor:	adv|mais co|non=no prep|après n|deux&m
+	pro:dem|ce$v:aux|être&PRES&3s ?
+*CHI:	quatre !
+%mor:	n|quatre&m !
+*MOT:	non .
+%mor:	co|non=no .
+*MOT:	un, deux +...
+%mor:	det:art|un&m&sg cm|cm n|deux&m +...
+*CHI:	++ quatre .
+%mor:	n|quatre&m .
+*MOT:	un deux &tr +...
+%mor:	det:art|un&m&sg n|deux&m +...
+*CHI:	++ trois .
+%mor:	n|trois&m .
+*MOT:	trois c'est ça .
+%mor:	n|trois&m pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça .
+*CHI:	xxx .
+*MOT:	il y en a combien ici ?
+%mor:	pro:sub|il pro:y|y pro:y|en v:aux|avoir&PRES&3s adv|combien
+	adv:place|ici ?
+*CHI:	ah xxx &poté .
+%mor:	co|ah .
+*MOT:	tu veux les apporter ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s pro:obj|les v|apporter-INF ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*CHI:	xxx .
+*MOT:	on les remet dans la boîte ?
+%mor:	pro:sub|on pro:obj|les re#v|mettre-PRES&3s prep|dans
+	det:art|la&f&sg n|boîte&f ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	xxx .
+*MOT:	on pourrait jouer avec la dinette aussi est-ce que tu veux qu'on
+	prenne le thé ensembles ?
+%mor:	pro:sub|on v:mdllex|pouvoir&COND&3s v|jouer-INF prep|avec
+	det:art|la&f&sg n|dinette&f adv|aussi v:int|est–ce adv|que
+	part|taire-PP&m v:mdl|vouloir&IMP&2s pro:rel|que$pro:sub|on
+	v|prendre-PRES&SUB&13s det:art|le&m&sg n|thé&m n|ensemble&m-PL ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	xxx ça ça .
+%mor:	pro:dem|ça pro:dem|ça .
+*MOT:	ou on peut faire des pyramides aussi avec ça hem ?
+%mor:	conj|ou pro:sub|on v:mdl|pouvoir&PRES&3s v:mdl|faire-INF
+	prep|de&les n|pyramide&f-PL adv|aussi prep|avec pro:dem|ça co|hem ?
+*MOT:	on peut les mettre un par-dessus l'autre .
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s pro:obj|les v|mettre-INF
+	det:art|un&m&sg adv:place|par–dessus det:art|le$pro|autre&sg .
+*CHI:	non !
+%mor:	co|non=no !
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	xxx &pa .
+*MOT:	non c'est pas fait pour ça ?
+%mor:	co|non=no pro:dem|ce$v:exist|être&PRES&3s neg|pas part|faire-PP&m
+	prep|pour pro:dem|ça ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	c'est fait pour transporter ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|faire-PP&m prep|pour
+	v|transporter-INF ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	on les amènent jusqu'à l'autre bout ici .
+%mor:	pro:sub|on pro:obj|les v|amener-PRES&3p prep|jusque$prep|à
+	det:art|le$pro|autre&sg n|bout&m adv:place|ici .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	xxx .
+%com:	child is loading the truck with a block .
+*MOT:	tu penches la benne hem c'est important ?
+%mor:	part|taire-PP&m v|pencher-PRES&SUB&2s det:art|la&f&sg n|benne&f
+	co|hem pro:dem|ce$v:exist|être&PRES&3s adj|important&m=important ?
+*CHI:	oui xxx tout ça [x 2] .
+%mor:	co|oui=yes n|tout&m pro:dem|ça .
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	tu fais bien ça comme une vraie benne hem !
+%mor:	part|taire-PP&m v:mdl|faire-PRES&12s n|bien&m pro:dem|ça prep|comme
+	det:art|une&f&sg adj|vrai&f n|benne&f co|hem !
+*MOT:	hm je pense que ça rentre pas dans ce sens là .
+%mor:	co|hm pro:sub|je v|penser-PRES&SUB&13s adv|que pro:dem|ça
+	v|rentrer-PRES&SUB&13s neg|pas prep|dans pro:dem|ce n|sens&m
+	adv:place|là .
+*MOT:	on pourrait en mettre deux par exemple !
+%mor:	pro:sub|on v:mdl|pouvoir&COND&3s prep|en v|mettre-INF n|deux&m
+	prep|par n|exemple&m !
+*CHI:	oh côté [x 3] .
+%mor:	co|oh n|côté&m .
+*MOT:	oui est-ce que est-ce que ça rentre de l'autre côté ?
+%mor:	co|oui=yes v:int|est–ce adv|que v:int|est–ce adv|que pro:dem|ça
+	v|rentrer-PRES&SUB&13s prep|de det:art|le$pro|autre&sg n|côté&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	comme ça ?
+%mor:	adv|comme pro:dem|ça ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	mettre de l'autre côté .
+%mor:	v|mettre-INF prep|de det:art|le$pro|autre&sg n|côté&m .
+*MOT:	est-ce qu'on pourrait en mettre deux ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:mdl|pouvoir&COND&3s prep|en
+	v|mettre-INF n|deux&m ?
+*CHI:	non xxx .
+%mor:	co|non=no .
+*MOT:	non juste un à la fois ?
+%mor:	co|non=no adv|juste det:art|un&m&sg prep|à det:art|la&f&sg n|fois&f
+	?
+*CHI:	oui xxx .
+%mor:	co|oui=yes .
+*CHI:	xxx une autre xxx tout !
+%mor:	det:art|une&f&sg pro|autre&sg adv|tout !
+*MOT:	on va tout les transporter !
+%mor:	pro:sub|on v:mdl|aller&PRES&3s adv|tout det:art|les&pl
+	v|transporter-INF !
+*CHI:	toute .
+%mor:	adv|toute .
+*MOT:	un à la fois .
+%mor:	det:art|un&m&sg prep|à det:art|la&f&sg n|fois&f .
+*CHI:	xxx &ot &ot .
+*MOT:	oui il en reste un !
+%mor:	co|oui=yes pro:sub|il prep|en n|reste&m pro|un&m&sg !
+*CHI:	xxx ça !
+%mor:	pro:dem|ça !
+*MOT:	ça c'est quoi ça ?
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s pro:rel|quoi pro:dem|ça ?
+*CHI:	xxx .
+*CHI:	ça c'est dedans !
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s adv:place|dedans !
+*CHI:	on met ça &=whispers .
+%mor:	pro:sub|on v|mettre-PRES&3s pro:dem|ça .
+*MOT:	ça c'est dedans ?
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s adv:place|dedans ?
+*MOT:	c'est dans la benne qu'on les met ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|dans det:art|la&f&sg n|benne&f
+	pro:rel|que$pro:sub|on pro:obj|les v|mettre-PRES&3s ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	bon voilà il reste un chargement .
+%mor:	co|bon co|voilà pro:sub|il n|reste&m det:art|un&m&sg n|chargement&m
+	.
+*MOT:	un chargement de blocs .
+%mor:	det:art|un&m&sg n|chargement&m prep|de n|bloc&m-PL .
+*CHI:	xxx &boc .
+*MOT:	un chargement de blocs .
+%mor:	det:art|un&m&sg n|chargement&m prep|de n|bloc&m-PL .
+*CHI:	ça .
+%mor:	pro:dem|ça .
+*MOT:	des beaux blocs oranges .
+%mor:	prep|de&les adj|beau&m&pl=pretty n|bloc&m-PL adj|orange-PL .
+*MOT:	alors ça je pense qu'on pourrait en mettre deux en même temps .
+%mor:	adv|alors pro:dem|ça pro:sub|je v|penser-IMP&2s
+	pro:rel|que$pro:sub|on v:mdl|pouvoir&COND&3s prep|en v|mettre-INF
+	n|deux&m prep|en adj|même&m=same n|temps&m .
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	qu'est-ce que tu en penses ?
+%mor:	pro:int|que$v:int|est–ce adv|que part|taire-PP&m prep|en
+	v|penser-PRES&SUB&2s ?
+*CHI:	non mais non .
+%mor:	co|non=no adv|mais co|non=no .
+*CHI:	un !
+%mor:	det:art|un&m&sg !
+*MOT:	un à la fois ?
+%mor:	det:art|un&m&sg prep|à det:art|la&f&sg n|fois&f ?
+*CHI:	oui xxx .
+%mor:	co|oui=yes .
+*MOT:	mais ça va plus vite quand on en met deux .
+%mor:	adv|mais pro:dem|ça v:mdl|aller&PRES&3s qn|plus adv|vite adv|quand
+	pro:sub|on pro:y|en v|mettre-PRES&3s n|deux&m .
+*CHI:	<tout> [x 6] .
+%mor:	adv|tout .
+*MOT:	mais oui regarde tu peux en mettre deux un à côté de l'autre .
+%mor:	adv|mais n|oui&m v|regarder-IMP&2s part|taire-PP&m n|peu&m-PL
+	prep|en v|mettre-INF n|deux&m det:art|un&m&sg prep|à n|côté&m
+	prep|de det:art|le$pro|autre&sg .
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	assez .
+%mor:	adv|assez .
+*MOT:	moi je peux tu essayer ?
+%mor:	pro|moi&sg pro:sub|je n|peu&m-PL part|taire-PP&m v|essayer-INF ?
+*CHI:	non &a assez &a assez .
+%mor:	co|non=no adv|assez adv|assez .
+*MOT:	okay un à la fois .
+%mor:	co|okay=okay pro|un&m&sg prep|à det:art|la&f&sg n|fois&f .
+*CHI:	&na fois .
+%mor:	n|fois&f .
+*CHI:	&t .
+*CHI:	passe l'autre côté .
+%mor:	v|passer-PRES&SUB&13s det:art|le$pro|autre&sg n|côté&m .
+*CHI:	xxx .
+*MOT:	puis quand ça recule ça fait quel bruit un camion ?
+%mor:	adv|puis adv|quand pro:dem|ça v|reculer-PRES&SUB&13s pro:dem|ça
+	part|faire-PP&m det:gen|quel&m&sg n|bruit&m det:art|un&m&sg
+	n|camion&m ?
+*CHI:	beepbeep@o .
+%mor:	on|beepbeep .
+*MOT:	bien oui hem .
+%mor:	adv|bien n|oui&m co|hem .
+*MOT:	ça nous prendrait une grue pour les transporter .
+%mor:	pro:dem|ça pro:obj|nous v|prendre-COND&3s det:art|une&f&sg n|grue&f
+	prep|pour det:art|les&pl v|transporter-INF .
+*CHI:	non xxx pas .
+%mor:	co|non=no neg|pas .
+*MOT:	on en n' a pas de grue .
+%mor:	pro:sub|on pro:y|en neg|ne v:aux|avoir&PRES&3s neg|pas prep|de
+	n|grue&f .
+*MOT:	bin non on n' a pas de grue !
+%mor:	co|bin co|non=no pro:sub|on neg|ne v:aux|avoir&PRES&3s neg|pas
+	prep|de n|grue&f !
+*CHI:	ah .
+%mor:	co|ah .
+*MOT:	on pourrait en appeler une qu'est-ce que tu penses ?
+%mor:	pro:sub|on v:mdl|pouvoir&COND&3s prep|en v|appeler-INF
+	det:art|une&f&sg pro:rel|que$v:int|est–ce adv|que part|taire-PP&m
+	v|penser-PRES&SUB&2s ?
+*MOT:	hem ?
+%mor:	co|hem ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	on pourrait quelqu'un pour qui vienne nous porter une grue ?
+%mor:	pro:sub|on v:mdl|pouvoir&COND&3s det:gen|quelque$det:art|un&m&sg
+	conj|pour pro:int|qui v|venir-PRES&SUB&1s pro:obj|nous v|porter-INF
+	det:art|une&f&sg n|grue&f ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	qui qu'on pourrait appeler ?
+%mor:	pro:int|qui pro:rel|que$pro:sub|on v:mdl|pouvoir&COND&3s
+	v|appeler-INF ?
+*CHI:	monsieur .
+%mor:	n|monsieur&m .
+*MOT:	un monsieur ?
+%mor:	det:art|un&m&sg n|monsieur&m ?
+*CHI:	oui xxx .
+%mor:	co|oui=yes .
+*MOT:	okay appelle le .
+%mor:	co|okay=okay v|appeler-IMP&2s det:art|le&m&sg .
+*MOT:	demande lui qu'il vienne nous porter une grue .
+%mor:	n|demande&f part|luire&PP&m pro:rel|que$pro:sub|il
+	v|venir-PRES&SUB&1s pro:obj|nous v|porter-INF det:art|une&f&sg
+	n|grue&f .
+*CHI:	non &è &bisé .
+%mor:	co|non=no .
+*MOT:	c'est brisé ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|briser-PP&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	ah oui ?
+%mor:	co|ah co|oui=yes ?
+*MOT:	pourquoi c'est brisé ?
+%mor:	adv:int|pourquoi pro:dem|ce$v:aux|être&PRES&3s part|briser-PP&m ?
+*CHI:	allô monsieur !
+%mor:	co|allô n|monsieur&m !
+*MOT:	allô ?
+%mor:	co|allô ?
+*CHI:	xxx .
+*MOT:	j'aimerais ça avoir une grue s'il_vous_plaît .
+%mor:	pro:sub|je$v|aimer-COND&12s pro:dem|ça v:aux|avoir&INF
+	det:art|une&f&sg n|grue&f co|s'il_vous_plaît .
+*MOT:	à quelle adresse ?
+%mor:	prep|à det:gen|quelle&f&sg n|adresse&f ?
+*MOT:	à quelle adresse William ?
+%mor:	prep|à det:gen|quelle&f&sg n|adresse&f n:prop|William ?
+*CHI:	xxx .
+*MOT:	à la maison .
+%mor:	prep|à det:art|la&f&sg n|maison&f .
+*CHI:	oui .
+%mor:	co|oui=yes .
+@Eg
+*MOT:	oui okay .
+%mor:	co|oui=yes co|okay=okay .
+*MOT:	on vous attends .
+%mor:	pro:sub|on pro:obj|vous v|attendre-IMP&2s .
+*MOT:	il a dit qu'il s'en venait .
+%mor:	pro:sub|il v:aux|avoir&PRES&3s part|dire-PP&m
+	pro:rel|que$pro:sub|il conj|si$pro:y|en v|venir-IMPF&3s .
+*MOT:	hem il a dit qu'il s'en venait nous porter une grue .
+%mor:	co|hem pro:sub|il v:aux|avoir&PRES&3s part|dire-PP&m
+	pro:rel|que$pro:sub|il conj|si$pro:y|en v|venir-IMPF&3s pro:obj|nous
+	v|porter-INF det:art|une&f&sg n|grue&f .
+*MOT:	en attendant on va faire autre chose ?
+%mor:	prep|en part|attendre-PPRE pro:sub|on v:mdl|aller&PRES&3s
+	v:mdl|faire-INF pro|autre&sg n|chose=thing ?
+*CHI:	oui xxx .
+%mor:	co|oui=yes .
+*MOT:	en attendant on va prendre le thé qu'est-ce que tu en penses ?
+%mor:	prep|en part|attendre-PPRE pro:sub|on v:mdl|aller&PRES&3s
+	v|prendre-INF det:art|le&m&sg n|thé&m pro:int|que$v:int|est–ce
+	adv|que part|taire-PP&m prep|en v|penser-PRES&SUB&2s ?
+*CHI:	&=moans non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	xxx .
+*MOT:	oui le monsieur il a dit qu'il allait venir nous porter une grue .
+%mor:	co|oui=yes det:art|le&m&sg n|monsieur&m pro:sub|il
+	v:aux|avoir&PRES&3s part|dire-PP&m pro:rel|que$pro:sub|il
+	v:mdl|aller&IMPF&3s v|venir-INF pro:obj|nous v|porter-INF
+	det:art|une&f&sg n|grue&f .
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	pour qu'on puisse transporter nos blocs .
+%mor:	prep|pour pro:rel|que$pro:sub|on v:mdl|pouvoir&PRES&SUB&13s
+	v|transporter-INF det:poss|nos&pl n|bloc&m-PL .
+*CHI:	oui xxx .
+%mor:	co|oui=yes .
+*MOT:	qu'est-ce qu'on va faire ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|on v:mdl|aller&PRES&3s
+	v:mdl|faire-INF ?
+*CHI:	xxx .
+*MOT:	on en a pas de besoin hem finalement ?
+%mor:	pro:sub|on pro:y|en v:aux|avoir&PRES&3s neg|pas prep|de n|besoin&m
+	co|hem adv|finalement ?
+*MOT:	il en reste un bloc à transporter .
+%mor:	pro:sub|il prep|en n|reste&m det:art|un&m&sg n|bloc&m prep|à
+	v|transporter-INF .
+*CHI:	xxx .
+*MOT:	on va aller le chercher dans la benne bien oui .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|aller&INF det:art|le&m&sg
+	v|chercher-INF prep|dans det:art|la&f&sg n|benne&f adj|bien n|oui&m
+	.
+*CHI:	oui xxx .
+%mor:	co|oui=yes .
+*CHI:	recommence .
+%mor:	re#v|commencer-IMP&2s .
+*MOT:	on recommence ?
+%mor:	pro:sub|on re#v|commencer-PRES&SUB&13s ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	mais non on fait autre chose !
+%mor:	adv|mais co|non=no pro:sub|on part|faire-PP&m pro|autre&sg
+	n|chose=thing !
+*MOT:	moi aussi je veux jouer William !
+%mor:	pro|moi&sg adv|aussi pro:sub|je v:mdl|vouloir&PRES&12s v|jouer-INF
+	n:prop|William !
+*CHI:	xxx .
+*MOT:	hem ?
+%mor:	co|hem ?
+*CHI:	recommence .
+%mor:	re#v|commencer-IMP&2s .
+*MOT:	tu veux pas jouer avec moi à prendre le thé ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s neg|pas v|jouer-INF
+	prep|avec pro|moi&sg prep|à v|prendre-INF det:art|le&m&sg n|thé&m ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	regarde il y a un beau service à thé ici tu pourrais me verser, ah
+	ben tu pourrais me verser du café !
+%mor:	v|regarder-IMP&2s pro:sub|il pro:y|y v:aux|avoir&PRES&3s
+	det:art|un&m&sg adj|beau&m&sg=pretty n|service&m prep|à n|thé&m
+	adv:place|ici part|taire-PP&m v:mdl|pouvoir&COND&12s pro:obj|me
+	v|verser-INF cm|cm co|ah adv|ben part|taire-PP&m
+	v:mdl|pouvoir&COND&12s pro:obj|me v|verser-INF prep|de&le n|café&m !
+*MOT:	moi j'en prendrais bien un autre café !
+%mor:	pro|moi&sg pro:sub|je$pro:y|en v|prendre-COND&12s n|bien&m
+	det:art|un&m&sg pro|autre&sg n|café&m !
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	xxx &ot .
+*MOT:	regarde il y a une belle petite théillère là on va faire comme si
+	il y avait du café dedans puis tu vas m'en verser ?
+%mor:	v|regarder-IMP&2s pro:sub|il pro:y|y v:aux|avoir&PRES&3s
+	det:art|une&f&sg adj|beau&f&sg=pretty adj|petit&f n|théillère&m
+	adv:place|là pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF
+	prep|comme n|si&m pro:sub|il pro:y|y v:aux|avoir&IMPF&3s prep|de&le
+	n|café&m adv:place|dedans adv|puis part|taire-PP&m
+	v:mdllex|aller&PRES&2s pro:obj|me$pro:y|en v|verser-INF ?
+*MOT:	puis un pour papa aussi .
+%mor:	adv|puis det:art|un&m&sg prep|pour n|papa&m adv|aussi .
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	oui ?
+%mor:	co|oui=yes ?
+*CHI:	xxx William .
+%mor:	n:prop|William .
+*MOT:	un pour William .
+%mor:	det:art|un&m&sg prep|pour n:prop|William .
+*MOT:	William tu bois ça toi du café ?
+%mor:	n:prop|William part|taire-PP&m n|bois&m pro:dem|ça pro|toi&sg
+	prep|de&le n|café&m ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	oui okay !
+%mor:	co|oui=yes co|okay=okay !
+*MOT:	un pour toi puis un pour moi .
+%mor:	det:art|un&m&sg conj|pour pro|toi&sg adv|puis det:art|un&m&sg
+	conj|pour pro|moi&sg .
+*CHI:	&=sips .
+*MOT:	&=sips est-ce qu'on fait tchintchin@t ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on part|faire-PP&m test|tchintchin
+	?
+*CHI:	xxx .
+*MOT:	merci tchintchin@t mm !
+%mor:	co|merci test|tchintchin co|mm !
+*CHI:	bokanout@t .
+%mor:	test|bokanout .
+*MOT:	encore !
+%mor:	adv|encore !
+*CHI:	xxx .
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	qu'est-ce qu'il y a dedans ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|il pro:y|y
+	v:aux|avoir&PRES&3s adv:place|dedans ?
+*CHI:	xxx eau .
+%mor:	n|eau&f .
+*MOT:	c'est de l'eau ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|de det:art|le$n|eau&f ?
+*CHI:	xxx café .
+%mor:	n|café&m .
+*MOT:	c'est du café ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|de&le n|café&m ?
+*CHI:	xxx .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	un café pour moi un café pour toi .
+%mor:	det:art|un&m&sg n|café&m prep|pour pro|moi&sg det:art|un&m&sg
+	n|café&m prep|pour pro|toi&sg .
+@End

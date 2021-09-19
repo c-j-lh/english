@@ -1,0 +1,789 @@
+@UTF8
+@PID:	11312/a-00005289-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|5;07.20|male|ASD||Child||224|
+@ID:	fra|Nadig|MOT||female|||Mother|higher_than_undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*CHI:	je vais arriver .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s v|arriver-INF .
+*MOT:	&=laughs .
+*CHI:	oh non j'ai une .
+%mor:	co|oh co|non=no pro:sub|je$v:aux|avoir&PRES&1s pro|une&f&sg .
+*CHI:	j'ai une meilleure idée .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s det:art|une&f&sg adj|meilleure&f
+	n|idée&f .
+*MOT:	ohlàlà .
+%mor:	co|ohlàlà .
+*CHI:	&=grunts .
+*MOT:	c'est fragile on dirait .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adj|fragile pro:sub|on v|dire-COND&3s
+	.
+*CHI:	&=grunts .
+*CHI:	oh &=laughs .
+%mor:	co|oh .
+*CHI:	il y a pas, d' autres blocs .
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s neg|pas cm|cm adv|de
+	pro|autres&pl n|bloc&m-PL .
+*CHI:	wow &=laughs .
+%mor:	co|wow .
+*MOT:	tu veux faire la plus grande tour du monde ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s v:mdl|faire-INF co|la
+	adv|plus adj|grand&f n|tour prep|de&le n|monde&m ?
+*CHI:	ouais je &s .
+%mor:	co|ouais=yes pro:sub|je .
+*MOT:	oh .
+%mor:	co|oh .
+*CHI:	&=hisses .
+*MOT:	uhoh je pense que ça va tomber !
+%mor:	co|uhoh pro:sub|je v|penser-PRES&SUB&13s adv|que pro:dem|ça
+	v:mdl|aller&PRES&3s v|tomber-INF !
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	pas cette fois .
+%mor:	neg|pas det:dem|cette&f&sg n|fois&f .
+*MOT:	ah je pense que tu devrais mettre quelque chose de moins lourd si
+	tu veux que ça tienne là .
+%mor:	co|ah pro:sub|je v|penser-IMP&2s adv|que part|taire-PP&m
+	v:mdl|devoir&COND&12s v|mettre-INF det:gen|quelque n|chose=thing
+	prep|de adv|moins adj|lourd&m adv|si part|taire-PP&m
+	v:mdl|vouloir&PRES&12s adv|que pro:dem|ça adj|tien&f adv:place|là .
+*MOT:	qu'est-ce qui ?
+%mor:	pro:int|que$v:int|est–ce pro:int|qui ?
+%com:	child drops toy and it interrupts mother .
+*MOT:	qu'est-ce qui serait moins lourd ?
+%mor:	pro:int|que$v:int|est–ce pro:int|qui v:aux|être&COND&3s n|moins&m
+	adv|lourd ?
+*CHI:	une assiette .
+%mor:	det:art|une&f&sg n|assiette&f .
+*MOT:	peut-être hem ?
+%mor:	adv|peut–être co|hem ?
+*CHI:	hm .
+%mor:	co|hm .
+*MOT:	wow .
+%mor:	co|wow .
+*CHI:	ça c'est parfait .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s part|parfaire-PP&m .
+*MOT:	c'est quoi cette tour ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:int|quoi det:dem|cette&f&sg
+	n|tour ?
+*CHI:	&m .
+*CHI:	je sais pas là .
+%mor:	pro:sub|je v:mdl|savoir&PRES&12s neg|pas adv:place|là .
+*MOT:	est-ce que tu lui donnes un nom ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m part|luire&PP&m
+	v|donner-PRES&SUB&2s det:art|un&m&sg n|nom&m ?
+*CHI:	ah !
+%mor:	co|ah !
+*CHI:	oh il est presque tombé .
+%mor:	co|oh pro:sub|il v:aux|être&PRES&3s adv|presque part|tomber-PP&m .
+*MOT:	ohlàlà .
+%mor:	co|ohlàlà .
+*MOT:	presque tombée .
+%mor:	adv|presque part|tomber-PP&f .
+*CHI:	attends je vais la mettre droite .
+%mor:	v|attendre-IMP&2s pro:sub|je v:mdl|aller&PRES&1s pro:obj|la
+	v|mettre-INF n|droite&f .
+*MOT:	est-ce qu'elle a un nom cette tour ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|elle v:aux|avoir&PRES&3s
+	det:art|un&m&sg n|nom&m det:dem|cette&f&sg n|tour ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	c'est la tour Jean ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|la&f&sg n|tour n:prop|Jean ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	uhuh .
+%mor:	co|uhuh .
+*MOT:	plus haut encore ?
+%mor:	prep|plus n|haut&m adv|encore ?
+*CHI:	xxx &=laughs .
+*CHI:	&=hisses .
+*MOT:	yikes .
+%mor:	co|yikes .
+*MOT:	uhoh .
+%mor:	co|uhoh .
+*CHI:	&=hisses .
+*MOT:	uhoh ça s'est écroulé .
+%mor:	co|uhoh pro:dem|ça conj|si$v:aux|être&PRES&3s part|écrouler-PP&m .
+*CHI:	uh ?
+%mor:	co|uh ?
+*MOT:	hm ?
+%mor:	co|hm ?
+*MOT:	est-ce que tu remets les morceaux dans le bac ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m re#v|mettre-IMP&2s
+	det:art|les&pl n|morceau&m-PL prep|dans det:art|le&m&sg n|bac&m ?
+*MOT:	est-ce que tu veux qu'on joue à la poupée Jean ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&IMP&2s
+	pro:rel|que$pro:sub|on n|joue&f prep|à det:art|la&f&sg n|poupée&f
+	n:prop|Jean ?
+*CHI:	non !
+%mor:	co|non=no !
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	&=grunts .
+*MOT:	est-ce que tu veux qu'on joue avec le camion ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	pro:rel|que$pro:sub|on n|joue&f prep|avec det:art|le&m&sg n|camion&m
+	?
+%com:	fisrt video endend, now second video .
+*MOT:	on pourrait donner à manger aux deux, aux deux bébés parce_que ils
+	ont très faim .
+%mor:	pro:sub|on v:mdl|pouvoir&COND&3s v|donner-INF prep|à v|manger-INF
+	prep|à&les n|deux&m cm|cm n|ail&m&pl num|deux n|bébé&m-PL
+	conj|parce_que pro:sub|ils v:aux|avoir&PRES&3p adv|très n|faim&f .
+*CHI:	uh .
+%mor:	co|uh .
+*MOT:	okay ?
+%mor:	co|okay=okay ?
+*MOT:	regarde on a des cuillères .
+%mor:	v|regarder-IMP&2s pro:sub|on v:aux|avoir&PRES&3s prep|de&les
+	n|cuillère&f-PL=spoon .
+*CHI:	uhuh .
+%mor:	co|uhuh .
+*MOT:	est-ce qu'on a des assiettes ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|on v:aux|avoir&PRES&3s prep|de&les
+	n|assiette&f-PL ?
+*CHI:	&=grunts .
+*MOT:	peux tu m'apporter une assiette s'il_te_plaît ?
+%mor:	n|peu&m-PL part|taire-PP&m pro:obj|me$v|apporter-INF
+	det:art|une&f&sg n|assiette&f co|s'il_te_plaît ?
+*CHI:	&=grunts .
+*MOT:	okay .
+%mor:	co|okay=okay .
+%com:	child throws the mother a dish .
+*MOT:	okay on va préparer, qu'est-ce qu'on pourrait préparer ?
+%mor:	co|okay=okay pro:sub|on v:mdl|aller&PRES&3s v|préparer-INF cm|cm
+	pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|on
+	v:mdl|pouvoir&COND&3s v|préparer-INF ?
+*MOT:	as tu une tasse s'il_te_plaît ?
+%mor:	v:aux|avoir&PRES&2s part|taire-PP&m det:art|une&f&sg n|tasse&f
+	co|s'il_te_plaît ?
+*CHI:	uh .
+%mor:	co|uh .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	&k on va mélanger .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|mélanger-INF .
+*CHI:	&=laughs .
+*MOT:	ouais ouais wow .
+%mor:	co|ouais=yes co|ouais=yes co|wow .
+*MOT:	on va mélanger un .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|mélanger-INF pro|un&m&sg .
+*CHI:	&=grunts .
+*MOT:	est-ce que tu veux m'aider à préparer quelque chose ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	pro:obj|me$v|aider-INF prep|à v|préparer-INF det:gen|quelque
+	n|chose=thing ?
+*CHI:	&=grunts .
+*MOT:	regarde on va &prépa, regarde je suis en_train de faire la cuisine
+	.
+%mor:	v|regarder-IMP&2s pro:sub|on v:mdl|aller&IMP&2s cm|cm
+	v|regarder-IMP&2s pro:sub|je v:aux|être&PRES&1s adv|en_train prep|de
+	v:mdl|faire-INF det:art|la&f&sg n|cuisine&f .
+*MOT:	est-ce que tu sais c'est quoi ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|savoir&PRES&12s
+	pro:dem|ce$v:aux|être&PRES&3s pro:int|quoi ?
+*MOT:	veux tu sentir ?
+%mor:	v:mdl|vouloir&IMP&2s part|taire-PP&m v|sentir-INF ?
+%com:	child shakes his head meaning no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	je fais de la soupe au chocolat .
+%mor:	pro:sub|je v:mdl|faire-PRES&12s prep|de det:art|la&f&sg n|soupe&f
+	prep|à&le n|chocolat&m .
+*MOT:	voilà !
+%mor:	adv:place|voilà !
+*CHI:	xxx qu'est-ce que tu as pour faire ?
+%mor:	pro:int|que$v:int|est–ce adv|que part|taire-PP&m
+	v:aux|avoir&PRES&2s prep|pour v:mdllex|faire-INF ?
+*MOT:	regarde je fais de la soupe au chocolat .
+%mor:	v|regarder-IMP&2s pro:sub|je v:mdl|faire-PRES&12s prep|de
+	det:art|la&f&sg n|soupe&f prep|à&le n|chocolat&m .
+*MOT:	est-ce que tu veux goûter ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:mdl|vouloir&PRES&12s
+	v|goûter-INF ?
+%com:	child shakes his head meaning no .
+*MOT:	est-ce que tu penses qu'elles vont aimer ça &l ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v|penser-PRES&SUB&2s
+	pro:rel|que$pro:sub|elles v:mdl|aller&PRES&3p v|aimer-INF pro:dem|ça
+	?
+*MOT:	les deux filles ici ?
+%mor:	det:art|les&pl num|deux n|fille&f-PL adv:place|ici ?
+%com:	mother is stirring her soup .
+*MOT:	tiens c'est toi qui doit, faire manger, le bébé .
+%mor:	v|tenir-IMP&2s pro:dem|ce$v:aux|être&PRES&3s pro|toi&sg pro:int|qui
+	v:mdl|devoir&PRES&3s cm|cm v:mdl|faire-INF v|manger-INF cm|cm
+	det:art|le&m&sg n|bébé&m .
+*CHI:	&=laughs .
+%com:	child rejects the doll given by mother .
+*MOT:	bin là Jean .
+%mor:	co|bin adv:place|là n:prop|Jean .
+*MOT:	tu lui as fait mal .
+%mor:	part|taire-PP&m part|luire&PP&m v:aux|avoir&PRES&2s part|faire-PP&m
+	adv|mal .
+%com:	child throws the doll .
+*CHI:	&=moans .
+*MOT:	c'est comme ça que tu fais manger le bébé ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|comme pro:dem|ça adv|que
+	part|taire-PP&m v:mdl|faire-IMP&2s v|manger-INF det:art|le&m&sg
+	n|bébé&m ?
+*CHI:	non j'aime pas ce jeu .
+%mor:	co|non=no pro:sub|je$v|aimer-IMP&2s neg|pas pro:dem|ce n|jeu&m .
+*MOT:	tu aimes pas ce jeu .
+%mor:	part|taire-PP&m v|aimer-PRES&SUB&2s neg|pas pro:dem|ce n|jeu&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	&=groans .
+*MOT:	qu'est-ce qu'on pourrait faire ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|on
+	v:mdl|pouvoir&COND&3s v:mdllex|faire-INF ?
+*MOT:	quel autre jeu on pourrait jouer ?
+%mor:	det:gen|quel&m&sg pro|autre&sg n|jeu&m pro:sub|on
+	v:mdl|pouvoir&COND&3s v|jouer-INF ?
+*CHI:	oh on va faire une immense tour !
+%mor:	co|oh pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF
+	det:art|une&f&sg adj|immense n|tour !
+*MOT:	on va faire une immense tour ouais .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF det:art|une&f&sg
+	adj|immense n|tour co|ouais=yes .
+*CHI:	&=hisses .
+*MOT:	penses tu qu'on peut faire la tour sur le camion ?
+%mor:	v|penser-PRES&SUB&2s part|taire-PP&m pro:rel|que$pro:sub|on
+	v:mdl|pouvoir&PRES&3s v:mdl|faire-INF det:art|la&f&sg n|tour
+	prep|sur det:art|le&m&sg n|camion&m ?
+*CHI:	wow .
+%mor:	co|wow .
+*MOT:	wow c'est une bonne idée que j'ai eue tu penses ?
+%mor:	co|wow pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|bon&f
+	n|idée&f prep|que pro:sub|je$v:aux|avoir&PRES&1s
+	v:poss|avoir&PP&f&sg pro:sub|tu v|penser-PRES&SUB&2s ?
+*CHI:	ouais c'est une bonne idée comme ça elle va pas s'écouler .
+%mor:	co|ouais=yes pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg
+	adj|bon&f n|idée&f adv|comme pro:dem|ça pro:sub|elle
+	v:mdl|aller&PRES&3s neg|pas pro:refl|se$v|écouler-INF .
+*MOT:	elle va pas s'écouler, s'écrouler tu veux dire ?
+%mor:	pro:sub|elle v:mdl|aller&PRES&3s neg|pas pro:refl|se$v|écouler-INF
+	cm|cm pro:refl|se$v|écrouler-INF part|taire-PP&m
+	v:mdl|vouloir&PRES&12s v|dire-INF ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	mais si il xxx rester juste un morceau .
+%mor:	adv|mais n|si&m pro:sub|il v|rester-INF adv|juste det:art|un&m&sg
+	n|morceau&m .
+*MOT:	ah oui ?
+%mor:	co|ah co|oui=yes ?
+*CHI:	donne moi xxx .
+%mor:	v|donner-IMP&2s pro|moi&sg .
+*MOT:	est-ce que tu penses que je peux mettre ça ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v|penser-PRES&SUB&2s prep|que
+	pro:sub|je v:mdl|pouvoir&PRES&12s v|mettre-INF pro:dem|ça ?
+*CHI:	non pas tout_de_suite .
+%mor:	co|non=no neg|pas adv|tout_de_suite .
+*CHI:	xxx ça tombe .
+%mor:	pro:dem|ça n|tombe&f .
+*CHI:	il va bientôt tomber .
+%mor:	pro:sub|il v:mdl|aller&PRES&3s adv|bientôt v|tomber-INF .
+*CHI:	il va bientôt tomber hem ?
+%mor:	pro:sub|il v:mdl|aller&PRES&3s adv|bientôt v|tomber-INF co|hem ?
+*MOT:	tu crois ?
+%mor:	part|taire-PP&m v|croire&PRES&12s ?
+*CHI:	ouais pour uh, pour qu'elle se tienne en équilibre je vais la
+	replacer comme ça .
+%mor:	co|ouais=yes prep|pour co|uh cm|cm conj|pour
+	pro:rel|que$pro:sub|elle pro:refl|se v|tenir-PRES&SUB&1s prep|en
+	n|équilibre&m pro:sub|je v:mdl|aller&PRES&1s pro:obj|la
+	re#v|placer-INF adv|comme pro:dem|ça .
+*MOT:	tu vas la replacer ?
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s pro:obj|la re#v|placer-INF ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	mais je vais mettre un autre morceau comme ça pour qu'il reste en
+	équilibre .
+%mor:	adv|mais pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF
+	det:art|un&m&sg pro|autre&sg n|morceau&m adv|comme pro:dem|ça
+	prep|pour pro:rel|que$pro:sub|il n|reste&m prep|en n|équilibre&m .
+*MOT:	ah !
+%mor:	co|ah !
+*CHI:	en équilibre en équilibre xxx .
+%mor:	prep|en n|équilibre&m prep|en n|équilibre&m .
+*CHI:	ah !
+%mor:	co|ah !
+*MOT:	c'est pas facile .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas adj|facile .
+*MOT:	ayayay .
+%mor:	co|ayayay .
+*CHI:	xxx .
+*CHI:	&=hisses .
+*CHI:	c'était pas une très bonne idée ça .
+%mor:	pro:dem|ce$v:aux|être&IMPF&3s neg|pas pro|une&f&sg adv|très
+	adj|bon&f n|idée&f pro:dem|ça .
+*MOT:	c'était pas une très bonne idée xxx .
+%mor:	pro:dem|ce$v:aux|être&IMPF&3s neg|pas pro|une&f&sg adv|très
+	adj|bon&f n|idée&f .
+*CHI:	il fallait le mettre &=grunts .
+%mor:	pro:sub|il v:mdl|falloir&IMPF&3s pro:obj|le v|mettre-INF .
+*MOT:	c'est mieux sur le sol .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|mieux&m prep|sur det:art|le&m&sg
+	n|sol&m=dirt .
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	c'est mieux sur le sol .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|mieux&m prep|sur det:art|le&m&sg
+	n|sol&m=dirt .
+*CHI:	oh non !
+%mor:	co|oh co|non=no !
+*CHI:	oh !
+%mor:	co|oh !
+*CHI:	au-dessus du bac .
+%mor:	adv:place|au–dessus prep|de&le n|bac&m .
+*MOT:	au-dessus du bac .
+%mor:	adv:place|au–dessus prep|de&le n|bac&m .
+*MOT:	c'est sûr que ça pourrait être +...
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|sûr adv|que pro:dem|ça
+	v:mdl|pouvoir&COND&3s v:aux|être&INF +...
+*MOT:	toi tu ça te tentes pas +/?
+%mor:	pro|toi&sg part|taire-PP&m pro:dem|ça pro:obj|te
+	v|tenter-PRES&SUB&2s neg|pas +/?
+*CHI:	on va commencer par une xxx .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|commencer-INF prep|par
+	det:art|une&f&sg .
+*MOT:	ça te tentes ?
+%mor:	pro:dem|ça pro:obj|te n|tente&f-PL ?
+*MOT:	regarde .
+%mor:	v|regarder-IMP&2s .
+*MOT:	le bébé .
+%mor:	det:art|le&m&sg n|bébé&m .
+*MOT:	ça c'est sa bouche on peut lui donner à boire tu veux pas lui
+	donner à boire ?
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s det:poss|sa&f&sg
+	n|bouche&f pro:sub|on v:mdl|pouvoir&PRES&3s part|luire&PP&m
+	v|donner-INF prep|à v|boire&INF part|taire-PP&m
+	v:mdl|vouloir&PRES&12s neg|pas part|luire&PP&m v|donner-INF prep|à
+	v|boire&INF ?
+*CHI:	on [x 2] .
+%mor:	pro:sub|on .
+%com:	there was overlap between the speakers .
+*CHI:	&=grunts .
+*CHI:	Maman .
+%mor:	n:prop|Maman .
+*CHI:	regarde .
+%mor:	v|regarder-IMP&2s .
+*CHI:	on va commencer par une assiette .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|commencer-INF prep|par
+	det:art|une&f&sg n|assiette&f .
+*MOT:	ah okay .
+%mor:	co|ah co|okay=okay .
+*CHI:	xxx .
+*MOT:	le bébé il va regarder ce que tu fais .
+%mor:	det:art|le&m&sg n|bébé&m pro:sub|il v:mdl|aller&PRES&3s
+	v|regarder-INF pro:dem|ce adv|que part|taire-PP&m
+	v:mdl|faire-PRES&12s .
+*CHI:	j'aime pas ce jeu !
+%mor:	pro:sub|je$v|aimer-IMP&2s neg|pas pro:dem|ce n|jeu&m !
+*MOT:	tu aimes pas les bébés toi ?
+%mor:	part|taire-PP&m v|aimer-PRES&SUB&2s neg|pas det:art|les&pl
+	n|bébé&m-PL pro|toi&sg ?
+*CHI:	je l'avais déjà &vdit !
+%mor:	pro:sub|je pro:sub|il$v:aux|avoir&IMPF&12s adv|déjà !
+*CHI:	dit .
+%mor:	part|dire-PP&m .
+*MOT:	pourquoi tu aimes pas ça ?
+%mor:	adv:int|pourquoi part|taire-PP&m v|aimer-PRES&SUB&2s neg|pas
+	pro:dem|ça ?
+*MOT:	tu aimes pas les poupées ?
+%mor:	part|taire-PP&m v|aimer-PRES&SUB&2s neg|pas det:art|les&pl
+	n|poupée&f-PL ?
+*CHI:	parce_que &=moans .
+%mor:	conj|parce_que .
+*MOT:	tu aimes pas du tout les poupées ?
+%mor:	part|taire-PP&m v|aimer-PRES&SUB&2s neg|pas prep|de&le adv|tout
+	det:art|les&pl n|poupée&f-PL ?
+*MOT:	tu joues jamais à la poupée à l'école ?
+%mor:	part|taire-PP&m n|joue&f-PL adv|jamais prep|à det:art|la&f&sg
+	n|poupée&f prep|à det:art|le$n|école&f ?
+*CHI:	&=moans non !
+%mor:	co|non=no !
+*MOT:	pourquoi ?
+%mor:	adv:int|pourquoi ?
+*CHI:	parce_que !
+%mor:	conj|parce_que !
+*CHI:	ah elle va tomber !
+%mor:	co|ah pro:sub|elle v:mdl|aller&PRES&3s v|tomber-INF !
+%com:	child is focused on his tower .
+*CHI:	va pas tomber .
+%mor:	v:mdl|aller&PRES&3s neg|pas v|tomber-INF .
+*CHI:	wow !
+%mor:	co|wow !
+*CHI:	&=hisses .
+%com:	tower falls .
+*MOT:	uhoh .
+%mor:	co|uhoh .
+*MOT:	ça s'est écroulé .
+%mor:	pro:dem|ça conj|si$v:aux|être&PRES&3s part|écrouler-PP&m .
+*CHI:	&=hisses .
+*CHI:	maintenant on va recommencer .
+%mor:	adv|maintenant pro:sub|on v:mdl|aller&PRES&3s re#v|commencer-INF .
+*CHI:	&=hisses .
+*CHI:	&=sings .
+*MOT:	peut-être qu'on peut faire autre chose qu'une tour ?
+%mor:	adv|peut–être pro:rel|que$pro:sub|on v:mdl|pouvoir&PRES&3s
+	v:mdl|faire-INF pro|autre&sg n|chose=thing
+	pro:rel|que$det:art|une&f&sg n|tour ?
+*CHI:	non j'ai pas envie .
+%mor:	co|non=no pro:sub|je$v:aux|avoir&PRES&1s neg|pas n|envie&f .
+*MOT:	une maison ?
+%mor:	det:art|une&f&sg n|maison&f ?
+*CHI:	j'ai pas envie .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s neg|pas n|envie&f .
+*CHI:	c'était trop dur à faire .
+%mor:	pro:dem|ce$v:aux|être&IMPF&3s adv|trop adj|dur&m prep|à
+	v:mdllex|faire-INF .
+*MOT:	&i !
+%com:	mother thinks the tower is about to fall .
+*MOT:	veux tu que je t'aide ?
+%mor:	v:mdl|vouloir&IMP&2s part|taire-PP&m prep|que pro:sub|je
+	pro:obj|te$v|aider-PRES&SUB&13s ?
+*MOT:	uhoh .
+%mor:	co|uhoh .
+*CHI:	ça s'est juste écoulé un_petit_peu .
+%mor:	pro:dem|ça conj|si$v:aux|être&PRES&3s adv|juste part|écouler-PP&m
+	adv|un_petit_peu .
+*CHI:	c'est pas grave .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas n|grave&m .
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%com:	a block falls from the tower .
+*MOT:	uhoh .
+%mor:	co|uhoh .
+*CHI:	héh !
+%mor:	co|héh !
+*CHI:	mais c'est toi qui la xxx .
+%mor:	adv|mais pro:dem|ce$v:aux|être&PRES&3s pro|toi&sg pro:int|qui co|la
+	.
+*MOT:	non non non non !
+%mor:	co|non=no co|non=no co|non=no co|non=no !
+*CHI:	tu le bouger !
+%mor:	part|taire-PP&m det:art|le&m&sg v|bouger-INF !
+*MOT:	non j'ai pas fait exprès .
+%mor:	co|non=no pro:sub|je$v:aux|avoir&PRES&1s neg|pas part|faire-PP&m
+	adj|exprès&m .
+*CHI:	&=groans .
+*MOT:	j'ai pas fait exprès .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s neg|pas part|faire-PP&m adj|exprès&m
+	.
+*CHI:	on doit tout recommencer .
+%mor:	pro:sub|on v:mdl|devoir&PRES&3s adv|tout re#v|commencer-INF .
+*CHI:	&=grunts .
+*MOT:	tu veux pas qu'on essaye de faire une maison ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s neg|pas
+	pro:rel|que$pro:sub|on v|essayer-PRES&SUB&13s prep|de
+	v:mdl|faire-INF det:art|une&f&sg n|maison&f ?
+*MOT:	regarde tu pourrais faire une maison peut-être à la place ?
+%mor:	v|regarder-IMP&2s part|taire-PP&m v:mdllex|pouvoir&COND&12s
+	v:mdl|faire-INF det:art|une&f&sg n|maison&f adv|peut–être prep|à
+	det:art|la&f&sg n|place&f ?
+*CHI:	&=sings .
+*MOT:	une maison .
+%mor:	det:art|une&f&sg n|maison&f .
+*MOT:	comme ça .
+%mor:	adv|comme pro:dem|ça .
+*MOT:	puis après ?
+%mor:	adv|puis adv|après ?
+*CHI:	oh non je uh je sais je sais !
+%mor:	co|oh co|non=no pro:sub|je co|uh pro:sub|je v:mdl|savoir&PRES&12s
+	pro:sub|je v:mdl|savoir&PRES&12s !
+*MOT:	tu sais ?
+%mor:	part|taire-PP&m v:mdl|savoir&PRES&12s ?
+*CHI:	ehm je sais qu'est-ce que je vais faire .
+%mor:	co|ehm pro:sub|je v:mdl|savoir&PRES&12s pro:rel|que$v:int|est–ce
+	adv|que pro:sub|je v:mdl|aller&PRES&1s v:mdllex|faire-INF .
+*MOT:	qu'est-ce que tu vas faire ?
+%mor:	pro:int|que$v:int|est–ce adv|que part|taire-PP&m
+	v:mdl|aller&PRES&2s v:mdllex|faire-INF ?
+*CHI:	&=grunts .
+*CHI:	il faudrait un autre morceau carré .
+%mor:	pro:sub|il v:mdl|falloir&COND&3s det:art|un&m&sg pro|autre&sg
+	n|morceau&m adj|carré&m .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	&m .
+*CHI:	uh on peut m'aider pour pas que ça roule ?
+%mor:	co|uh pro:sub|on v:mdl|pouvoir&PRES&3s pro:obj|me$v|aider-INF
+	conj|pour neg|pas adv|que pro:dem|ça v|rouler-PRES&SUB&13s ?
+*MOT:	tu veux pas que ça roule ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s neg|pas adv|que pro:dem|ça
+	v|rouler-PRES&SUB&13s ?
+*CHI:	non .
+%mor:	co|non=no .
+*CHI:	je veux pas .
+%mor:	pro:sub|je v:mdl|vouloir&PRES&12s neg|pas .
+*MOT:	bin peut-être mettre quelque chose derrière ?
+%mor:	co|bin adv|peut–être v|mettre-INF det:gen|quelque n|chose=thing
+	n|derrière&m ?
+*CHI:	ah non !
+%mor:	co|ah co|non=no !
+*MOT:	pour tenir .
+%mor:	prep|pour v|tenir-INF .
+*CHI:	uh uh uh non non non j'ai xxx parce_que sinon ça va bloquer .
+%mor:	co|uh co|uh co|uh co|non=no co|non=no co|non=no
+	pro:sub|je$v:aux|avoir&PRES&1s conj|parce_que conj|sinon pro:dem|ça
+	v:mdl|aller&PRES&3s v|bloquer-INF .
+*MOT:	tu as une nouvelle idée ?
+%mor:	part|taire-PP&m v:aux|avoir&PRES&2s det:art|une&f&sg n|nouvelle&f
+	n|idée&f ?
+*MOT:	ouais c'est quoi ?
+%mor:	co|ouais=yes pro:dem|ce$v:aux|être&PRES&3s pro:int|quoi ?
+*CHI:	je vais mettre debout .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s v|mettre-INF adv|debout .
+*MOT:	debout ?
+%mor:	adv|debout ?
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	ça va tenir mieux je crois .
+%mor:	pro:dem|ça v:mdl|aller&PRES&3s v|tenir-INF n|mieux&m pro:sub|je
+	v|croire&PRES&12s .
+*MOT:	sinon ça va rouler .
+%mor:	prep|sinon pro:dem|ça v:mdl|aller&PRES&3s v|rouler-INF .
+*CHI:	ouais sinon ça va rouler .
+%mor:	co|ouais=yes prep|sinon pro:dem|ça v:mdl|aller&PRES&3s v|rouler-INF
+	.
+*MOT:	mais c'est quoi que tu fais exactement ?
+%mor:	adv|mais pro:dem|ce$v:exist|être&PRES&3s pro:rel|quoi adv|que
+	part|taire-PP&m v:mdl|faire-PRES&12s adv|exactement ?
+*MOT:	c'est une maison ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg n|maison&f ?
+*CHI:	tu vas voir .
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s v|voir&INF .
+*CHI:	tu vas voir Maman .
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s v|voir&INF n:prop|Maman .
+*CHI:	oh zut !
+%mor:	co|oh co|zut !
+*CHI:	&=grunts je &v &=grunts je veux faire une maison mais pas pareille
+	comme une vraie maison .
+%mor:	pro:sub|je pro:sub|je v:mdl|vouloir&PRES&12s v:mdl|faire-INF
+	det:art|une&f&sg n|maison&f adv|mais neg|pas n|pareille&f prep|comme
+	det:art|une&f&sg adj|vrai&f n|maison&f .
+*CHI:	mais on a pas de triangle .
+%mor:	adv|mais pro:sub|on v:aux|avoir&PRES&3s neg|pas prep|de
+	n|triangle&m .
+*MOT:	on a pas de triangle c'est vrai hem ?
+%mor:	pro:sub|on v:aux|avoir&PRES&3s neg|pas prep|de n|triangle&m
+	pro:dem|ce$v:exist|être&PRES&3s adj|vrai&m co|hem ?
+*CHI:	&=grunts .
+*MOT:	mais peut-être que &s le toit on pourrait le faire avec ça .
+%mor:	adv|mais adv|peut–être adv|que det:art|le&m&sg n|toit&m pro:sub|on
+	v:mdl|pouvoir&COND&3s det:art|le&m&sg v:mdl|faire-INF prep|avec
+	pro:dem|ça .
+%com:	mom proposes that they use the teacup as a roof top whem making a
+	house .
+*CHI:	&=grunts .
+*MOT:	à_l'envers comme ça .
+%mor:	adv|à_l'envers adv|comme pro:dem|ça .
+*MOT:	ça ferait comme un toit .
+%mor:	pro:dem|ça v:mdl|faire-COND&3s prep|comme det:art|un&m&sg n|toit&m
+	.
+*CHI:	hm .
+%mor:	co|hm .
+*CHI:	ça m'intéresse pas .
+%mor:	pro:dem|ça pro:obj|me$v|intéresser-IMP&2s neg|pas .
+*MOT:	ça t'intéresse pas +!?
+%mor:	pro:dem|ça pro:obj|te$v|intéresser-IMP&2s neg|pas +!?
+*MOT:	&=laughs okay .
+%mor:	co|okay=okay .
+*CHI:	mais comment on va faire ça ?
+%mor:	adv|mais n|comment&m pro:sub|on v:mdl|aller&PRES&3s v:mdl|faire-INF
+	pro:dem|ça ?
+*MOT:	hm comment on pourrait faire une maison ?
+%mor:	co|hm n|comment&m pro:sub|on v:mdllex|pouvoir&COND&3s
+	v:mdl|faire-INF det:art|une&f&sg n|maison&f ?
+*CHI:	&=sighs si on a trois blocs xxx .
+%mor:	adv|si pro:sub|on v:aux|avoir&PRES&3s num|trois n|bloc&m-PL .
+*MOT:	mais toutes toutes les maisons sont pas uh avec un triangle .
+%mor:	adv|mais pro|toutes&f&pl pro|toutes&f&pl det:art|les&pl
+	n|maison&f-PL v:aux|être&PRES&3p neg|pas co|uh prep|avec
+	det:art|un&m&sg n|triangle&m .
+*MOT:	hem ?
+%mor:	co|hem ?
+*MOT:	il y a des maisons qui sont justes comme des grands rectangles ou
+	des carrés .
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s prep|de&les n|maison&f-PL
+	pro:int|qui v:aux|être&PRES&3p adj|juste-PL prep|comme prep|de&les
+	adj|grand&m-PL n|rectangle&m-PL conj|ou prep|de&les adj|carré&m-PL .
+*CHI:	xxx .
+*MOT:	qu'est-ce que tu en penses ?
+%mor:	pro:int|que$v:int|est–ce adv|que part|taire-PP&m prep|en
+	v|penser-PRES&SUB&2s ?
+*CHI:	j'ai une nouvelle idée .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s det:art|une&f&sg n|nouvelle&f
+	n|idée&f .
+*MOT:	une nouvelle idée ?
+%mor:	det:art|une&f&sg n|nouvelle&f n|idée&f ?
+*CHI:	&=grunts .
+*CHI:	c'est ça que je voulais faire .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:dem|ça adv|que pro:sub|je
+	v:mdl|vouloir&IMPF&12s v:mdllex|faire-INF .
+*CHI:	tu peux m'aider, à le placer droit droit .
+%mor:	part|taire-PP&m n|peu&m-PL pro:obj|me$v|aider-INF cm|cm prep|à
+	det:art|le&m&sg n|placer&m adj|droit&m adj|droit&m .
+*MOT:	mais c'est beau déjà .
+%mor:	adv|mais pro:dem|ce$v:exist|être&PRES&3s adj|beau&m&sg=pretty
+	adv|déjà .
+*CHI:	mais non c'est pas droit .
+%mor:	adv|mais co|non=no pro:dem|ce$v:exist|être&PRES&3s neg|pas
+	adj|droit&m .
+*MOT:	tu veux qu'on le mette plus droit .
+%mor:	part|taire-PP&m v:mdllex|vouloir&PRES&12s pro:rel|que$pro:sub|on
+	pro:obj|le v|mettre-PRES&SUB&13s prep|plus adj|droit&m .
+*CHI:	mais c'est droit c'est droit c'est droit .
+%mor:	adv|mais pro:dem|ce$v:exist|être&PRES&3s adj|droit&m
+	pro:dem|ce$v:exist|être&PRES&3s adj|droit&m
+	pro:dem|ce$v:exist|être&PRES&3s adj|droit&m .
+*MOT:	comme ça ?
+%mor:	adv|comme pro:dem|ça ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	mais au milieu .
+%mor:	adv|mais prep|à&le n|milieu&m .
+*CHI:	ah c'est au milieu déjà .
+%mor:	co|ah pro:dem|ce$v:aux|être&PRES&3s prep|à&le n|milieu&m adv|déjà .
+*MOT:	hm .
+%mor:	co|hm .
+*MOT:	est-ce que tu penses que le bébé pourrait habiter dans cette maison
+	?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v|penser-PRES&SUB&2s prep|que
+	det:art|le&m&sg n|bébé&m v:mdllex|pouvoir&COND&3s v|habiter-INF
+	prep|dans det:dem|cette&f&sg n|maison&f ?
+*CHI:	non même pas .
+%mor:	co|non=no adv|même neg|pas .
+*MOT:	pourquoi ?
+%mor:	adv:int|pourquoi ?
+*CHI:	il est vraiment trop gros .
+%mor:	pro:sub|il v:aux|être&PRES&3s adv|vraiment adv|trop adj|gros&m .
+*MOT:	il est trop gros .
+%mor:	pro:sub|il v:aux|être&PRES&3s adv|trop adj|gros&m .
+*CHI:	&=grunts .
+%com:	child is throwing some toys .
+*MOT:	&on c'est une belle maison hem ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|beau&f&sg=pretty
+	n|maison&f co|hem ?
+*CHI:	xxx .
+*MOT:	est-ce que tu penses que le camion pourrait stationner ici devant ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v|penser-PRES&SUB&2s prep|que
+	det:art|le&m&sg n|camion&m v:mdllex|pouvoir&COND&3s v|stationner-INF
+	adv:place|ici n|devant&m ?
+*CHI:	ah !
+%mor:	co|ah !
+%com:	the mother almost knocked off the house with the truck .
+*CHI:	oh &=laughs !
+%mor:	co|oh !
+*CHI:	peut-être si on la fait plus grande .
+%mor:	adv|peut–être n|si&m pro:sub|on co|la part|faire-PP&m adv|plus
+	adj|grand&f .
+*MOT:	tu veux la faire plus grande ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s pro:obj|la
+	v:mdllex|faire-INF adv|plus adj|grand&f ?
+%com:	child is displacing some blocks to make the house bigger .
+*MOT:	&i .
+*CHI:	&i .
+*MOT:	ohlàlà .
+%mor:	co|ohlàlà .
+*MOT:	c'est fragile .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adj|fragile .
+*CHI:	&=moans .
+*MOT:	uhoh attention attention .
+%mor:	co|uhoh co|attention co|attention .
+*CHI:	non !
+%mor:	co|non=no !
+*CHI:	pourquoi tu as fais ça ?
+%mor:	adv:int|pourquoi part|taire-PP&m v:aux|avoir&PRES&2s
+	v:mdl|faire-PRES&12s pro:dem|ça ?
+*MOT:	mais &i !
+%mor:	adv|mais !
+*CHI:	tu vois qu'est-ce que tu as fait !
+%mor:	part|taire-PP&m v|voir&IMP&PRES&12s pro:rel|que$v:int|est–ce
+	adv|que part|taire-PP&m v:aux|avoir&PRES&2s part|faire-PP&m !
+*MOT:	j'ai pas fait exprès .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s neg|pas part|faire-PP&m adj|exprès&m
+	.
+*CHI:	&=moans tout raté !
+%mor:	n|tout&m n|raté&m !
+*CHI:	maintenant il est fichut@t !
+%mor:	adv|maintenant pro:sub|il v:aux|être&PRES&3s test|fichut !
+@Eg
+*MOT:	fichu .
+%mor:	n|fichu&m .
+*CHI:	&=groans .
+*MOT:	j'ai pas fait exprès Jean j'ai pas fait exprès .
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s neg|pas part|faire-PP&m n|exprès&m
+	n:prop|Jean pro:sub|je$v:aux|avoir&PRES&1s neg|pas
+	v:mdl|faire-PRES&3s adj|exprès&m .
+*CHI:	oui tu as fait exprès .
+%mor:	co|oui=yes part|taire-PP&m v:aux|avoir&PRES&2s part|faire-PP&m
+	adj|exprès&m .
+*MOT:	non j'ai pas fait exprès .
+%mor:	co|non=no pro:sub|je$v:aux|avoir&PRES&1s neg|pas part|faire-PP&m
+	adj|exprès&m .
+*CHI:	oui !
+%mor:	co|oui=yes !
+*MOT:	on va ramasser les jouets Jean .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|ramasser-INF det:art|les&pl
+	n|jouet&m-PL n:prop|Jean .
+*MOT:	c'est l'heure de ramasser viens .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le$n|heure&f prep|de
+	v|ramasser-INF v|venir-IMP&2s .
+*CHI:	attends je veux juste faire ma tour .
+%mor:	v|attendre-IMP&2s pro:sub|je v:mdl|vouloir&PRES&12s adv|juste
+	v:mdllex|faire-INF det:poss|ma&sg n|tour .
+*MOT:	est-ce que vous avez une chanson à l'école quand vous ramassez les
+	jouets ?
+%mor:	v:int|est–ce adv|que pro:sub|vous v:aux|avoir&PRES&2p
+	det:art|une&f&sg n|chanson&f prep|à det:art|le$n|école&f adv|quand
+	pro:sub|vous v|ramasser-IMP&2p det:art|les&pl n|jouet&m-PL ?
+*MOT:	parce_que Pierre il en avait une .
+%mor:	conj|parce_que n:prop|Pierre pro:sub|il pro:y|en
+	v:aux|avoir&IMPF&3s pro|une&f&sg .
+*CHI:	&=grunts .
+*MOT:	c'est quoi la chanson ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:int|quoi det:art|la&f&sg
+	n|chanson&f ?
+*MOT:	est-ce que ça s'appelle c'est le temps de ramasser ?
+%mor:	v:int|est–ce adv|que pro:dem|ça pro:refl|se$v|appeler-IMP&2s
+	pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg n|temps&m prep|de
+	v|ramasser-INF ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	ouais veux tu la chanter ?
+%mor:	co|ouais=yes v:mdl|vouloir&PRES&12s part|taire-PP&m co|la
+	v|chanter-INF ?
+*CHI:	non je l'ai apprise à la garderie .
+%mor:	co|non=no pro:sub|je pro:obj|le$v:poss|avoir&PRES&1s
+	part|apprendre-PP&f prep|à det:art|la&f&sg n|garderie&f .
+*MOT:	c'est à la garderie ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à det:art|la&f&sg n|garderie&f ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	<il y a> [x 2] des jouets qui sont en_dessous du divan là veux tu
+	aller les chercher s'il_te_plaît ?
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s prep|de&les n|jouet&m-PL
+	pro:int|qui v:aux|être&PRES&3p adv:place|en_dessous prep|de&le
+	n|divan&m adv:place|là v:mdl|vouloir&PRES&12s part|taire-PP&m
+	v:mdl|aller&INF det:art|les&pl v|chercher-INF co|s'il_te_plaît ?
+*CHI:	xxx juste une assiette .
+%mor:	adv|juste det:art|une&f&sg n|assiette&f .
+*MOT:	ouais puis il y a une tasse aussi .
+%mor:	co|ouais=yes adv|puis pro:sub|il pro:y|y v:aux|avoir&PRES&3s
+	det:art|une&f&sg n|tasse&f adv|aussi .
+*CHI:	&=moans .
+*CHI:	il y a aussi un bloc !
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s adv|aussi det:art|un&m&sg
+	n|bloc&m !
+@End

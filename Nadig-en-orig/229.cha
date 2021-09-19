@@ -1,0 +1,835 @@
+@UTF8
+@PID:	11312/a-00005293-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|2;05.21|female|TYP||Child||229|
+@ID:	fra|Nadig|MOT||female|||Mother|less_than_undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	on va sortir les tasses .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|sortir&INF det:art|les&pl
+	n|tasse&f-PL .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	oh elles sont jolies hem ?
+%mor:	co|oh pro:sub|elles v:aux|être&PRES&3p adj|joli&f-PL co|hem ?
+*MOT:	elles sont jolies .
+%mor:	pro:sub|elles v:aux|être&PRES&3p adj|joli&f-PL .
+*MOT:	une autre tasse .
+%mor:	det:art|une&f&sg pro|autre&sg n|tasse&f .
+*CHI:	xxx &=mumbles .
+*MOT:	ça c'est, oui pour boire du thé .
+%mor:	pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s cm|cm n|oui&m prep|pour
+	v|boire&INF prep|de&le n|thé&m .
+*MOT:	une théière .
+%mor:	det:art|une&f&sg n|théier&f .
+*CHI:	&e&lait !
+*MOT:	c'est le lait ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|le&m&sg n|lait&m=milk ?
+*MOT:	d'accord .
+%mor:	adv|d'accord .
+*MOT:	est-ce que tu as besoin +...
+%mor:	v:int|est–ce adv|que part|taire-PP&m v:aux|avoir&PRES&2s n|besoin&m
+	+...
+*CHI:	tiens [x 2] !
+%mor:	v|tenir-IMP&2s !
+*MOT:	c'est la mienne .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|la&f&sg adj|mien&f .
+*MOT:	est-ce que tu mets une sous-tasse ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m v|mettre-IMP&2s
+	det:art|une&f&sg sous–#n|tasse&f ?
+*CHI:	xxx .
+*MOT:	pardon ?
+%mor:	co|pardon ?
+*CHI:	tatatala@si .
+%mor:	sing|tatatala .
+%com:	mother talks to the experimenter .
+*CHI:	&ta .
+*MOT:	qu'est-ce que tu dis Spencer ?
+%mor:	pro:int|que$v:int|est–ce adv|que part|taire-PP&m
+	v|dire-PRES&PASS&12s n:prop|Spencer ?
+*CHI:	xxx &tadawa .
+*MOT:	ah doucement .
+%mor:	co|ah adv|doucement .
+*MOT:	<je> [x 2] ne comprends pas quand tu parles comme ça .
+%mor:	pro:sub|je neg|ne v|comprendre-PRES&IMP&12s neg|pas adv|quand
+	part|taire-PP&m v|parler-PRES&SUB&2s adv|comme pro:dem|ça .
+*MOT:	tu sais très bien comment +/.
+%mor:	part|taire-PP&m v:mdl|savoir&PRES&12s adv|très adj|bien n|comment&m
+	+/.
+*CHI:	c'est à moi ça !
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à pro|moi&sg pro:dem|ça !
+*MOT:	c'est à toi ça ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à pro|toi&sg pro:dem|ça ?
+*MOT:	c'est à toi okay .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à pro|toi&sg co|okay=okay .
+*MOT:	alors tu nous a fait un thé à quoi .
+%mor:	adv|alors part|taire-PP&m pro:obj|nous v:aux|avoir&PRES&3s
+	part|faire-PP&m det:art|un&m&sg n|thé&m prep|à pro:rel|quoi .
+*MOT:	hm ?
+%mor:	co|hm ?
+*MOT:	on va goûter à ça hem chacun, ah je penses que (re)ga(rde) il y a
+	une cuillère xxx deux .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|goûter-INF prep|à pro:dem|ça
+	co|hem pro|chacun&m&sg cm|cm co|ah pro:sub|je v|penser-PRES&SUB&2s
+	prep|que v|regarder-IMP&2s pro:sub|il pro:y|y v:aux|avoir&PRES&3s
+	det:art|une&f&sg n|cuillère&f=spoon n|deux&m .
+*MOT:	alors il y a autre chose qui t'intéresse ?
+%mor:	adv|alors pro:sub|il pro:y|y v:aux|avoir&PRES&3s pro|autre&sg
+	n|chose=thing pro:int|qui pro:obj|te$v|intéresser-IMP&2s ?
+*CHI:	&=whispers .
+*MOT:	hm ça c'est quoi ?
+%mor:	co|hm pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s pro:int|quoi ?
+*CHI:	&=vocalizes on avait ça à la garderie .
+%mor:	pro:sub|on v:aux|avoir&IMPF&3s pro:dem|ça prep|à det:art|la&f&sg
+	n|garderie&f .
+*MOT:	vous aviez, vous avez ça à la garderie ?
+%mor:	pro:obj|vous v:aux|avoir&IMPF&2p cm|cm pro:obj|vous
+	v:aux|avoir&PRES&2p pro:dem|ça prep|à det:art|la&f&sg n|garderie&f ?
+*CHI:	&=whispers .
+*MOT:	et tu fais quoi <avec> [x 2] ça ?
+%mor:	conj|et part|taire-PP&m v:mdl|faire-PRES&12s pro:int|quoi prep|avec
+	pro:dem|ça ?
+*MOT:	est-ce que tu peignes tes poupées ?
+%mor:	v:int|est–ce adv|que part|taire-PP&m n|peigne&m-PL det:poss|tes&pl
+	n|poupée&f-PL ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	tu peignes, tu te peignes toi ?
+%mor:	part|taire-PP&m n|peigne&m-PL cm|cm part|taire-PP&m pro:obj|te
+	v|peigner-PRES&SUB&2s pro|toi&sg ?
+*MOT:	on va te peigner ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:obj|te v|peigner-INF ?
+*MOT:	ce matin est-ce qu'on t'a peignée ?
+%mor:	pro:dem|ce n|matin&m v:int|est–ce pro:rel|que$pro:sub|on
+	pro:obj|te$v:poss|avoir&PRES&3s part|peigner-PP&f ?
+*MOT:	je me rappelle plus hem .
+%mor:	pro:sub|je pro:obj|me v|rappeler-PRES&SUB&13s prep|plus co|hem .
+*MOT:	xxx donner un petit coup de peigne .
+%mor:	v|donner-INF det:art|un&m&sg adj|petit&m n|coup&m=blow prep|de
+	n|peigne&m .
+*MOT:	moi je vais te peigner aussi .
+%mor:	pro|moi&sg pro:sub|je v:mdl|aller&PRES&1s pro:obj|te v|peigner-INF
+	adv|aussi .
+*MOT:	ça peigne bien, hem ?
+%mor:	pro:dem|ça n|peigne&m n|bien&m cm|cm co|hem ?
+*MOT:	une chance qu'il y a des xxx comme ça .
+%mor:	det:art|une&f&sg n|chance&f pro:rel|que$pro:sub|il pro:y|y
+	v:aux|avoir&PRES&3s prep|de&les adv|comme pro:dem|ça .
+*MOT:	xxx aime se faire peigner .
+%mor:	v|aimer-IMP&2s pro:refl|se v:mdl|faire-INF v|peigner-INF .
+*CHI:	xxx bébé .
+%mor:	n|bébé&m .
+*MOT:	oui tu peux lui donner du lait .
+%mor:	co|oui=yes part|taire-PP&m n|peu&m-PL part|luire&PP&m v|donner-INF
+	prep|de&le n|lait&m=milk .
+*CHI:	attends moi !
+%mor:	v|attendre-IMP&2s pro|moi&sg !
+*CHI:	moi je vais appeler au téléphone là .
+%mor:	pro|moi&sg pro:sub|je v:mdl|aller&PRES&1s v|appeler-INF prep|à&le
+	n|téléphone&m=telephone adv:place|là .
+*MOT:	&=laughs tu appelles qui ?
+%mor:	part|taire-PP&m v|appeler-PRES&SUB&2s pro:int|qui ?
+*CHI:	moi j'appelle un [/] un [/] cheval .
+%mor:	pro|moi&sg pro:sub|je$v|appeler-IMP&2s n|cheval&m&sg .
+*MOT:	tu appelles un cheval ?
+%mor:	part|taire-PP&m v|appeler-PRES&SUB&2s det:art|un&m&sg n|cheval&m&sg
+	?
+*MOT:	pour lui dire +...
+%mor:	prep|pour part|luire&PP&m n|dire&m +...
+*MOT:	de venir nous rejoindre ?
+%mor:	prep|de v|venir-INF pro:obj|nous re#v|joindre-INF ?
+*CHI:	xxx .
+*MOT:	monsieur le cheval venez nous rejoindre !
+%mor:	n|monsieur&m det:art|le&m&sg n|cheval&m&sg v|venir-PRES&2s
+	pro:obj|nous re#v|joindre-INF !
+*MOT:	finalement on part, on va partir en cheval tantôt ?
+%mor:	adv|finalement pro:sub|on n|part&f cm|cm pro:sub|on
+	v:mdl|aller&PRES&3s v|partir-INF prep|en n|cheval&m&sg adv|tantôt ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	on va aller à la piscine en cheval ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v:mdl|aller&INF prep|à
+	det:art|la&f&sg n|piscine&f prep|en n|cheval&m&sg ?
+*MOT:	à cheval ?
+%mor:	prep|à n|cheval&m&sg ?
+*CHI:	après va aller <dans> [x 3] la piscine .
+%mor:	adv|après v:mdl|aller&PRES&3s v:mdl|aller&INF prep|dans
+	det:art|la&f&sg n|piscine&f .
+*MOT:	il pourra pas rentrer dans la piscine .
+%mor:	pro:sub|il v:mdl|pouvoir&FUT&3s neg|pas v|rentrer-INF prep|dans
+	det:art|la&f&sg n|piscine&f .
+*MOT:	non je penses que le, le sauveteur va dire <non> [x 3] laissez le
+	cheval dehors !
+%mor:	co|non=no pro:sub|je v|penser-PRES&SUB&2s prep|que det:art|le&m&sg
+	cm|cm det:art|le&m&sg n|sauveteur&m v:mdl|aller&PRES&3s v|dire-INF
+	co|non=no v|laisser-IMP&2p det:art|le&m&sg n|cheval&m&sg
+	adv:place|dehors !
+*MOT:	hm ?
+%mor:	co|hm ?
+*MOT:	penses tu ?
+%mor:	v|penser-PRES&SUB&2s part|taire-PP&m ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	nous on va rester &a pas fermer .
+%mor:	pro:obj|nous pro:sub|on v:mdl|aller&PRES&3s v|rester-INF neg|pas
+	v|fermer-INF .
+*MOT:	on va laisser la porte fermée pourquoi ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|laisser-INF det:art|la&f&sg
+	n|porte&f=door adj|fermé&f adv:int|pourquoi ?
+*CHI:	&pa &pa pour pas &a xxx <dans> [x 3] la piscine .
+%mor:	prep|pour neg|pas prep|dans det:art|la&f&sg n|piscine&f .
+*MOT:	oh ma tour .
+%mor:	co|oh det:poss|ma&sg n|tour .
+*MOT:	elle est tombée .
+%mor:	pro:sub|elle v:aux|être&PRES&3s part|tomber-PP&f .
+*MOT:	mais tu l'as, ah okay je comprends pourquoi tu dis que tu appelles
+	le cheval, je le vois ici .
+%mor:	adv|mais part|taire-PP&m pro:obj|le$v:poss|avoir&PRES&2s cm|cm
+	co|ah co|okay=okay pro:sub|je v|comprendre-PRES&IMP&12s n|pourquoi&m
+	part|taire-PP&m v|dire-PRES&PASS&12s adv|que part|taire-PP&m
+	v|appeler-PRES&SUB&2s det:art|le&m&sg n|cheval&m&sg cm|cm pro:sub|je
+	det:art|le&m&sg v|voir&IMP&PRES&12s adv:place|ici .
+*MOT:	ah j'avais pas compris !
+%mor:	co|ah pro:sub|je$v:aux|avoir&IMPF&12s neg|pas part|comprendre-PP&m
+	!
+*MOT:	je pensais que +...
+%mor:	pro:sub|je v|penser-IMPF&12s adv|que +...
+*MOT:	et bien !
+%mor:	conj|et adv|bien !
+*MOT:	alors .
+%mor:	adv|alors .
+*MOT:	qu'est-ce que, qu'est-ce qu'il répond ?
+%mor:	pro:int|que$v:int|est–ce adv|que cm|cm pro:rel|que$v:int|est–ce
+	pro:rel|que$pro:sub|il re#v|pondre-PRES&3s ?
+*MOT:	il parle ?
+%mor:	pro:sub|il v|parler-PRES&SUB&13s ?
+*MOT:	il a dit quelque chose ?
+%mor:	pro:sub|il v:aux|avoir&PRES&3s part|dire-PP&m det:gen|quelque
+	n|chose=thing ?
+*CHI:	allô ?
+%mor:	co|allô ?
+*CHI:	byebye .
+%mor:	adv|byebye .
+*MOT:	allô byebye &=laughs .
+%mor:	co|allô adv|byebye .
+*MOT:	il avait pas tellement envie de jaser le cheval ?
+%mor:	pro:sub|il v:aux|avoir&IMPF&3s neg|pas adv|tellement n|envie&f
+	prep|de v|jaser-INF det:art|le&m&sg n|cheval&m&sg ?
+*CHI:	euh il dit <attends> [x 2] il est là je vais, il [x 2] <il voulait>
+	[x 2] pas jouer .
+%mor:	co|euh pro:sub|il part|dire-PP&m v|attendre-PRES&12s pro:sub|il
+	v:aux|être&PRES&3s adv:place|là pro:sub|je v:mdl|aller&PRES&1s cm|cm
+	pro:sub|il pro:sub|il v:mdl|vouloir&IMPF&3s neg|pas v|jouer-INF .
+*MOT:	il avait pas envie de jouer aujourd'hui ?
+%mor:	pro:sub|il v:aux|avoir&IMPF&3s neg|pas n|envie&f prep|de
+	v|jouer-INF adv|aujourd'hui ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	ah_bon .
+%mor:	co|ah_bon=oh_really .
+*MOT:	ça arrive des fois, hem .
+%mor:	pro:dem|ça v|arriver-PRES&SUB&13s prep|de&les n|fois&f cm|cm co|hem
+	.
+*CHI:	xxx .
+*CHI:	moi je, moi je vais faire à &bot .
+%mor:	pro|moi&sg pro:sub|je cm|cm pro|moi&sg pro:sub|je
+	v:mdl|aller&PRES&1s v:mdl|faire-INF prep|à .
+*MOT:	xxx .
+*MOT:	comment elle s'appelle ton bébé ?
+%mor:	adv|comment pro:sub|elle pro:refl|se$v|appeler-IMP&2s
+	det:poss|ton&m&sg n|bébé&m ?
+*CHI:	hm ?
+%mor:	co|hm ?
+*MOT:	tu lui as donné un nom ?
+%mor:	part|taire-PP&m part|luire&PP&m v:aux|avoir&PRES&2s
+	part|donner-PP&m det:art|un&m&sg n|nom&m ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	oui ?
+%mor:	co|oui=yes ?
+*MOT:	comment il &sa, comment elle &sa, c'est une petite fille ou c'est
+	un garçon ?
+%mor:	adv|comment pro:sub|il cm|cm adv|comment pro:sub|elle cm|cm
+	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|petit&f n|fille&f
+	conj|ou pro:dem|ce$v:exist|être&PRES&3s det:art|un&m&sg n|garçon&m ?
+*CHI:	c'est une petite fille .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg adj|petit&f
+	n|fille&f .
+*MOT:	elle s'appelle comment ?
+%mor:	pro:sub|elle pro:refl|se$v|appeler-PRES&SUB&13s n|comment&m ?
+*CHI:	elle s'appelle &t&é&o .
+%mor:	pro:sub|elle pro:refl|se$v|appeler-PRES&SUB&13s .
+*MOT:	elle s'appelle Antoine !
+%mor:	pro:sub|elle pro:refl|se$v|appeler-IMP&2s n:prop|Antoine !
+*MOT:	et ça est-ce que c'est sa grande soeur ?
+%mor:	conj|et pro:dem|ça v:int|est–ce pro:int|que
+	pro:dem|ce$v:aux|être&PRES&3s det:poss|sa&f&sg adj|grand&f n|soeur&f
+	?
+*CHI:	xxx elle a un pyjama .
+%mor:	pro:sub|elle v:aux|avoir&PRES&3s det:art|un&m&sg n|pyjama&m .
+*MOT:	elle a un pyjama Antoine, hem ?
+%mor:	pro:sub|elle v:aux|avoir&PRES&3s det:art|un&m&sg n|pyjama&m
+	n:prop|Antoine cm|cm co|hem ?
+*MOT:	et ça c'est qui ?
+%mor:	conj|et pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s pro:int|qui ?
+*CHI:	c'est +...
+%mor:	pro:dem|ce$v:aux|être&PRES&3s +...
+*MOT:	hou [x 5] .
+%mor:	co|hou .
+*CHI:	c'est hm +...
+%mor:	pro:dem|ce$v:aux|être&PRES&3s co|hm +...
+*CHI:	c'est xxx .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s .
+*MOT:	c'est deux Antoine ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|deux&m n:prop|Antoine ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	Antoine un, Antoine deux ?
+%mor:	n:prop|Antoine det:art|un&m&sg cm|cm n:prop|Antoine n|deux&m ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	&=mumbles xxx elle aussi vois tu tu &é beaucoup .
+%mor:	pro:sub|elle adv|aussi v|voir&IMP&PRES&12s part|taire-PP&m
+	part|taire-PP&m adv|beaucoup .
+*MOT:	pardon ?
+%mor:	co|pardon ?
+*CHI:	vois tu &l&è xxx .
+%mor:	v|voir&IMP&PRES&12s part|taire-PP&m .
+*MOT:	elle boit beaucoup de lait elle aussi ?
+%mor:	pro:sub|elle v|boire&PRES&3s adv|beaucoup prep|de n|lait&m=milk
+	pro:sub|elle adv|aussi ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	c'est encore un bébé alors .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|encore det:art|un&m&sg n|bébé&m
+	adv|alors .
+*MOT:	hem tu as vu, hem ?
+%mor:	co|hem part|taire-PP&m v:aux|avoir&PRES&2s prep|vu cm|cm co|hem ?
+*MOT:	c'est un bébé avec beaucoup de cheveux, hem ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|un&m&sg n|bébé&m prep|avec
+	adv|beaucoup prep|de n|cheveu&m-PL cm|cm co|hem ?
+*MOT:	ça ressemble à ton amie euh Marla .
+%mor:	pro:dem|ça v|ressembler-PRES&SUB&13s prep|à det:poss|ton&m&sg
+	n|ami&f co|euh n:prop|Marla .
+*MOT:	Marla à la garderie elle a beaucoup de cheveux comme ça hem ?
+%mor:	n:prop|Marla prep|à det:art|la&f&sg n|garderie&f pro:sub|elle
+	v:aux|avoir&PRES&3s adv|beaucoup prep|de n|cheveu&m-PL adv|comme
+	pro:dem|ça co|hem ?
+*MOT:	elle se fait des longues couettes .
+%mor:	pro:sub|elle pro:refl|se part|faire-PP&m prep|de&les n|longue&f-PL
+	n|couette&f-PL .
+*CHI:	&da&da .
+*MOT:	il y a quelqu'un qui lui a fait des couettes <très> [x 2] hautes .
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s
+	det:gen|quelque$det:art|un&m&sg pro:int|qui part|luire&PP&m
+	v:aux|avoir&PRES&3s part|faire-PP&m prep|de&les n|couette&f-PL
+	adv|très adj|haut&f-PL .
+*MOT:	(re)ga(rde), (re)ga(rde) en arrière .
+%mor:	v|regarder-IMP&2s cm|cm v|regarder-IMP&2s prep|en n|arrière&m .
+*MOT:	ha !
+%mor:	co|ha !
+*MOT:	dingding@o ça tient bien dans les airs, hem ?
+%mor:	on|dingding pro:dem|ça v|tenir-PRES&3s adv|bien prep|dans
+	det:art|les&pl n|air&m-PL=air cm|cm co|hem ?
+*MOT:	nous on voudrait faire ça ça serait pas possible, hem ?
+%mor:	pro:obj|nous pro:sub|on v:mdl|vouloir&COND&3s v:mdl|faire-INF
+	pro:dem|ça pro:dem|ça v:aux|être&COND&3s neg|pas n|possible&m cm|cm
+	co|hem ?
+*MOT:	alors, qu'est-ce qu'elles font les filles ?
+%mor:	adv|alors cm|cm pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|elles
+	v:mdl|faire-PRES&3p det:art|les&pl n|fille&f-PL ?
+*MOT:	les deux Antoine qu'est-ce qu'elles font ?
+%mor:	det:art|les&pl num|deux n:prop|Antoine pro:rel|que$v:int|est–ce
+	pro:rel|que$pro:sub|elles v:mdl|faire-PRES&3p ?
+*CHI:	uh elles jouent à quatre pattes .
+%mor:	co|uh pro:sub|elles v|jouer-PRES&3p prep|à num|quatre n|patte&f-PL
+	.
+*MOT:	elles jouent à quatre pattes, ah oui .
+%mor:	pro:sub|elles v|jouer-PRES&3p prep|à num|quatre n|patte&f-PL cm|cm
+	co|ah co|oui=yes .
+*MOT:	elles ne marchent pas encore .
+%mor:	pro:sub|elles neg|ne v|marcher-PRES&3p neg|pas adv|encore .
+*CHI:	uh .
+%mor:	co|uh .
+*MOT:	on va les faire, on va les faire se promener .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:obj|les v:mdllex|faire-INF cm|cm
+	pro:sub|on v:mdl|aller&PRES&3s pro:obj|les v:mdllex|faire-INF
+	pro:refl|se v|promener-INF .
+*MOT:	hem ?
+%mor:	co|hem ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	tu veux +/.
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s +/.
+*CHI:	<elle> [x 2] a quelque chose hem dans, dedans ?
+%mor:	pro:sub|elle v:aux|avoir&PRES&3s det:gen|quelque n|chose=thing
+	co|hem prep|dans cm|cm adv:place|dedans ?
+*CHI:	&=whispers elle a quelque chose .
+%mor:	pro:sub|elle v:aux|avoir&PRES&3s det:gen|quelque n|chose=thing .
+*MOT:	qu'est-ce qu'il y a ?
+%mor:	pro:int|que$v:int|est–ce pro:rel|que$pro:sub|il pro:y|y
+	v:aux|avoir&PRES&3s ?
+%com:	child shakes the doll and can hear a little noise .
+*MOT:	ah !
+%mor:	co|ah !
+*MOT:	il y a une petite bille ?
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s det:art|une&f&sg adj|petit&f
+	n|bille&f ?
+*MOT:	c'est une poupée instrument de musique ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg n|poupée&f
+	n|instrument&m prep|de n|musique&f ?
+*MOT:	on peut, tu peux regarder peut-être qu'est-ce qu'il y a ?
+%mor:	pro:sub|on v:mdl|pouvoir&PRES&3s cm|cm part|taire-PP&m
+	v:mdl|pouvoir&PRES&12s v|regarder-INF adv|peut–être
+	pro:rel|que$v:int|est–ce pro:rel|que$pro:sub|il pro:y|y
+	v:aux|avoir&PRES&3s ?
+*MOT:	peut-être qu'on le voit .
+%mor:	adv|peut–être pro:rel|que$pro:sub|on det:art|le&m&sg v|voir&PRES&3s
+	.
+*CHI:	vois voilà xxx .
+%mor:	v|voir&IMP&PRES&12s adv:place|voilà .
+*MOT:	hm ?
+%mor:	co|hm ?
+*CHI:	(re)ga(rde) mon téléphone à moi .
+%mor:	v|regarder-IMP&2s det:poss|mon&m&sg n|téléphone&m=telephone prep|à
+	pro|moi&sg .
+*MOT:	&=laughs <à toi> [x 2] .
+%mor:	prep|à pro|toi&sg .
+*CHI:	xxx .
+*MOT:	moi là j'ai pas goûté à ton thé mais je vais y goûter .
+%mor:	pro|moi&sg adv:place|là pro:sub|je$v:aux|avoir&PRES&1s neg|pas
+	part|goûter-PP&m prep|à det:poss|ton&m&sg n|thé&m adv|mais
+	pro:sub|je v:mdl|aller&PRES&1s pro:y|y n|goûter&m .
+*MOT:	est-ce qu'il en reste dans la tasse ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|il prep|en n|reste&m prep|dans
+	det:art|la&f&sg n|tasse&f ?
+*CHI:	oui il en reste .
+%mor:	co|oui=yes pro:sub|il prep|en n|reste&m .
+*CHI:	<&ta> [x 3] du lait .
+%mor:	prep|de&le n|lait&m=milk .
+*MOT:	&=sips ah c'est du lait pardon, c'est vrai c'est du lait .
+%mor:	co|ah pro:dem|ce$v:aux|être&PRES&3s prep|de&le n|lait&m=milk
+	co|pardon cm|cm pro:dem|ce$v:exist|être&PRES&3s adj|vrai&m
+	pro:dem|ce$v:aux|être&PRES&3s prep|de&le n|lait&m=milk .
+*MOT:	mm j'ai bien soif .
+%mor:	co|mm pro:sub|je$v:aux|avoir&PRES&1s adj|bien n|soif&f .
+*MOT:	est-ce que je peux mettre un peu de chocolat dans mon lait ?
+%mor:	v:int|est–ce conj|que pro:sub|je v:mdl|pouvoir&PRES&12s
+	v|mettre-INF det:art|un&m&sg n|peu&m prep|de n|chocolat&m prep|dans
+	det:poss|mon&m&sg n|lait&m=milk ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	avec du chocolat c'est bon hem .
+%mor:	prep|avec prep|de&le n|chocolat&m pro:dem|ce$v:exist|être&PRES&3s
+	adj|bon&m co|hem .
+*CHI:	<&la> [x 3] xxx .
+*MOT:	du chocolat fondu ?
+%mor:	prep|de&le n|chocolat&m n|fondu&m ?
+*CHI:	&a manger xxx .
+%mor:	v|manger-INF .
+*MOT:	tu veux pas manger tout de suite le chocolat ?
+%mor:	part|taire-PP&m v:mdl|vouloir&IMP&2s neg|pas v|manger-INF n|tout&m
+	prep|de n|suite&f det:art|le&m&sg n|chocolat&m ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	tu veux +/.
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s +/.
+*CHI:	&=vocalizes chocolat noisette aussi .
+%mor:	n|chocolat&m n|noisette&f adv|aussi .
+*MOT:	chocolat noisette !
+%mor:	n|chocolat&m n|noisette&f !
+*MOT:	fondu ou bien hm un morceau de chocolat ?
+%mor:	n|fondu&m conj|ou adj|bien co|hm det:art|un&m&sg n|morceau&m
+	prep|de n|chocolat&m ?
+*MOT:	c'est vrai qu'avec un lait c'est bon un petit bout de chocolat, hem
+	?
+%mor:	pro:dem|ce$v:exist|être&PRES&3s adj|vrai&m pro:rel|que$prep|avec
+	det:art|un&m&sg n|lait&m=milk pro:dem|ce$v:exist|être&PRES&3s
+	adj|bon&m det:art|un&m&sg adj|petit&m n|bout&m prep|de n|chocolat&m
+	cm|cm co|hem ?
+*CHI:	pas tout le chocolat .
+%mor:	neg|pas adv|tout det:art|le&m&sg n|chocolat&m .
+*MOT:	pas tout_de_suite ?
+%mor:	neg|pas adv|tout_de_suite ?
+*MOT:	okay je vais, alors je te remet ma tasse de thé je pense que qu'il
+	y a un petit cheveu .
+%mor:	co|okay=okay pro:sub|je v:mdl|aller&PRES&1s cm|cm adv|alors
+	pro:sub|je pro:obj|te re#v|mettre-PRES&3s det:poss|ma&sg n|tasse&f
+	prep|de n|thé&m pro:sub|je v|penser-PRES&SUB&13s prep|que
+	pro:rel|que$pro:sub|il pro:y|y v:aux|avoir&PRES&3s det:art|un&m&sg
+	adj|petit&m n|cheveu&m .
+*MOT:	voilà .
+%mor:	adv:place|voilà .
+*MOT:	moi j'ai soif .
+%mor:	pro|moi&sg pro:sub|je$v:aux|avoir&PRES&1s n|soif&f .
+*CHI:	tu as une récompense .
+%mor:	part|taire-PP&m v:aux|avoir&PRES&2s det:art|une&f&sg n|récompense&f
+	.
+*MOT:	tu me donnes une récompense +!?
+%mor:	part|taire-PP&m pro:obj|me v|donner-PRES&SUB&2s det:art|une&f&sg
+	n|récompense&f +!?
+*MOT:	parce_que je suis gentille !
+%mor:	conj|parce_que pro:sub|je v:aux|être&PRES&1s adj|gentille&f !
+*MOT:	merci .
+%mor:	co|merci .
+*MOT:	qu'est-ce que c'est ?
+%mor:	pro:int|que$v:int|est–ce adv|que pro:dem|ce$v:aux|être&PRES&3s ?
+*MOT:	&=smells mm .
+%mor:	co|mm .
+*CHI:	un cheval .
+%mor:	det:art|un&m&sg n|cheval&m&sg .
+*MOT:	un cheval miniature ?
+%mor:	det:art|un&m&sg n|cheval&m&sg n|miniature&f ?
+*CHI:	il va &ma manger <dans> [x 2] ta joie .
+%mor:	pro:sub|il v:mdl|aller&PRES&3s v|manger-INF prep|dans
+	det:poss|ta&f&sg n|joie&f .
+*CHI:	on le met dans le bain .
+%mor:	pro:sub|on pro:obj|le v|mettre-PRES&3s prep|dans det:art|le&m&sg
+	n|bain&m .
+*MOT:	on le met dans le bain ?
+%mor:	pro:sub|on pro:obj|le v|mettre-PRES&3s prep|dans det:art|le&m&sg
+	n|bain&m ?
+*MOT:	oh regarde le bain c'est parfait il est ici le bain .
+%mor:	co|oh v|regarder-IMP&2s det:art|le&m&sg n|bain&m
+	pro:dem|ce$v:exist|être&PRES&3s adj|parfait&m pro:sub|il
+	v:aux|être&PRES&3s adv:place|ici det:art|le&m&sg n|bain&m .
+*MOT:	je vais le mettre ici le cheval .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s pro:obj|le v|mettre-INF
+	adv:place|ici det:art|le&m&sg n|cheval&m&sg .
+*CHI:	<va> [x 2] chercher une autre récompense .
+%mor:	v:mdl|aller&PRES&3s v|chercher-INF det:art|une&f&sg pro|autre&sg
+	n|récompense&f .
+*MOT:	une autre récompense pour moi ?
+%mor:	det:art|une&f&sg pro|autre&sg n|récompense&f prep|pour pro|moi&sg ?
+*MOT:	mon dieu c'est gentil .
+%mor:	det:poss|mon&m&sg n|dieu&m pro:dem|ce$v:exist|être&PRES&3s
+	adj|gentil&m .
+*CHI:	non ça c'est pour moi ça .
+%mor:	co|non=no pro:dem|ça pro:dem|ce$v:aux|être&PRES&3s prep|pour
+	pro|moi&sg pro:dem|ça .
+*MOT:	ah c'est pour toi maintenant .
+%mor:	co|ah pro:dem|ce$v:aux|être&PRES&3s prep|pour pro|toi&sg
+	adv|maintenant .
+*CHI:	<et> [x 3] toi aussi .
+%mor:	conj|et pro|toi&sg adv|aussi .
+*MOT:	oui nous deux .
+%mor:	co|oui=yes pro:obj|nous n|deux&m .
+*CHI:	uh .
+%mor:	co|uh .
+*MOT:	c'est bien caché hem ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adv|bien part|cacher-PP&m co|hem ?
+*MOT:	&=hisses &i .
+*CHI:	&da ?
+*CHI:	&da [x 3] .
+*MOT:	<c'est quoi> [x 3] .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:rel|quoi .
+*CHI:	vache !
+%mor:	n|vache&f !
+*MOT:	une vache !
+%mor:	det:art|une&f&sg n|vache&f !
+*MOT:	oh !
+%mor:	co|oh !
+*MOT:	est-ce qu'elle va dans le bain avec le cheval ?
+%mor:	v:int|est–ce pro:rel|que$pro:sub|elle v:mdl|aller&PRES&3s prep|dans
+	det:art|le&m&sg n|bain&m prep|avec det:art|le&m&sg n|cheval&m&sg ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	aller la vache .
+%mor:	v:mdl|aller&INF det:art|la&f&sg n|vache&f .
+*MOT:	qui va lui donner <le> [x 2] bain ?
+%mor:	pro:int|qui v:mdl|aller&PRES&3s part|luire&PP&m v|donner-INF
+	det:art|le&m&sg n|bain&m ?
+*MOT:	c'est toi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro|toi&sg ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	tu vas laver la vache et le cheval après ?
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s v|laver-INF det:art|la&f&sg
+	n|vache&f conj|et det:art|le&m&sg n|cheval&m&sg adv|après ?
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	c'est quoi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:rel|quoi ?
+*CHI:	<un> [x 2] avion .
+%mor:	det:art|un&m&sg n|avion&m .
+*MOT:	un avion +!?
+%mor:	det:art|un&m&sg n|avion&m +!?
+*MOT:	héh je te dis hem ?
+%mor:	co|héh pro:sub|je pro:obj|te v|dire-PRES&PASS&12s co|hem ?
+*MOT:	l'avion aussi va au bain ?
+%mor:	det:art|le$n|avion&m adv|aussi v:mdl|aller&PRES&3s prep|à&le
+	n|bain&m ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	ah_bon .
+%mor:	co|ah_bon=oh_really .
+*MOT:	au bain .
+%mor:	prep|à&le n|bain&m .
+*MOT:	quoi d' autre ?
+%mor:	pro:int|quoi adv|de pro|autre&sg ?
+*CHI:	uh un hélicoptère .
+%mor:	co|uh det:art|un&m&sg n|hélicoptère&m .
+*MOT:	un hélicoptère .
+%mor:	det:art|un&m&sg n|hélicoptère&m .
+*MOT:	ça fait beaucoup de monde dans le bain, hem ?
+%mor:	pro:dem|ça part|faire-PP&m adv|beaucoup prep|de n|monde&m prep|dans
+	det:art|le&m&sg n|bain&m cm|cm co|hem ?
+*CHI:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	ça fait beaucoup de choses .
+%mor:	pro:dem|ça part|faire-PP&m adv|beaucoup prep|de n|chose-PL=thing .
+*MOT:	on, est-ce qu'on lave ?
+%mor:	pro:sub|on cm|cm v:int|est–ce pro:rel|que$pro:sub|on n|lave&f ?
+*MOT:	tu les laves ?
+%mor:	part|taire-PP&m det:art|les&pl n|lave&f-PL ?
+*CHI:	oui on les lave .
+%mor:	co|oui=yes pro:sub|on det:art|les&pl n|lave&f .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	avec du savon .
+%mor:	prep|avec prep|de&le n|savon&m .
+*MOT:	il faut enlever les filles hem ?
+%mor:	pro:sub|il v:mdl|falloir&PRES&3s v|enlever-INF det:art|les&pl
+	n|fille&f-PL co|hem ?
+*MOT:	peut-être que les filles veulent regarder par contre, hem ?
+%mor:	adv|peut–être prep|que det:art|les&pl n|fille&f-PL
+	v:mdl|vouloir&PRES&3p v|regarder-INF prep|par n|contre&m cm|cm
+	co|hem ?
+*MOT:	voir comment on lave ça un cheval et une vache .
+%mor:	v|voir&INF adv|comment pro:sub|on n|lave&f pro:dem|ça
+	det:art|un&m&sg n|cheval&m&sg conj|et det:art|une&f&sg n|vache&f .
+*MOT:	tu vas leur apprendre .
+%mor:	part|taire-PP&m v:mdl|aller&PRES&2s det:poss|leur&sg
+	v|apprendre-INF .
+*CHI:	ah elle xxx moi !
+%mor:	co|ah pro:sub|elle pro|moi&sg !
+*CHI:	je veux pas le prendre !
+%mor:	pro:sub|je v:mdllex|vouloir&PRES&12s neg|pas pro:obj|le
+	v|prendre-INF !
+*MOT:	tu veux pas que Antoine elle soit là ?
+%mor:	part|taire-PP&m v:mdllex|vouloir&PRES&12s neg|pas prep|que
+	n:prop|Antoine pro:sub|elle conj|soit adv:place|là ?
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	il y a plus xxx savon dans le bain .
+%mor:	pro:sub|il pro:y|y v:aux|avoir&PRES&3s qn|plus n|savon&m prep|dans
+	det:art|le&m&sg n|bain&m .
+*MOT:	non mais elle vont regarder et se mettre, juste, sur le bord .
+%mor:	co|non=no adv|mais pro:sub|elle v:mdl|aller&PRES&3p v|regarder-INF
+	conj|et pro:refl|se v|mettre-INF cm|cm adj|juste cm|cm prep|sur
+	det:art|le&m&sg n|bord&m .
+*MOT:	non ?
+%mor:	co|non=no ?
+*CHI:	&=groans .
+*MOT:	tu leur a mis du bain moussant au cheval et à la vache ?
+%mor:	part|taire-PP&m det:poss|leur&sg v:aux|avoir&PRES&3s
+	part|mettre-PP&m prep|de&le n|bain&m part|mousser&m-PPRE prep|à&le
+	n|cheval&m&sg conj|et prep|à det:art|la&f&sg n|vache&f ?
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	super chouette .
+%mor:	adj|super n|chouette&f .
+*CHI:	&a &a dans la, dans la petite xxx a mis .
+%mor:	prep|dans det:art|la&f&sg cm|cm prep|dans det:art|la&f&sg
+	adj|petit&f v:aux|avoir&PRES&3s part|mettre-PP&m .
+*MOT:	la petite Antoine quoi ?
+%mor:	det:art|la&f&sg adj|petit&f n:prop|Antoine pro:int|quoi ?
+*CHI:	Antoine elle [/] elle [/] elle [/] va dedans .
+%mor:	n:prop|Antoine v:mdl|aller&PRES&3s adv:place|dedans .
+*CHI:	avec la xxx .
+%mor:	prep|avec det:art|la&f&sg .
+*CHI:	moi mettre .
+%mor:	pro|moi&sg v|mettre-INF .
+*MOT:	dedans .
+%mor:	adv:place|dedans .
+*MOT:	puis Antoine <on a pas> [x 2] donné le bain aux amis ici .
+%mor:	adv|puis n:prop|Antoine pro:sub|on v:aux|avoir&PRES&3s neg|pas
+	part|donner-PP&m det:art|le&m&sg n|bain&m prep|à&les n|ami&m-PL
+	adv:place|ici .
+*CHI:	&=mumbles .
+%com:	there was overlap between the speakers .
+*MOT:	c'est pas grave .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas n|grave&m .
+*MOT:	le bain est terminé .
+%mor:	det:art|le&m&sg n|bain&m v:aux|être&PRES&3s part|terminer-PP&m .
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	pas terminé ?
+%mor:	neg|pas part|terminer-PP&m ?
+*MOT:	www .
+%com:	mother talks to the experimenter .
+*MOT:	c'était pas xxx le jeu ça .
+%mor:	pro:dem|ce$v:aux|être&IMPF&3s neg|pas det:art|le&m&sg n|jeu&m
+	pro:dem|ça .
+*MOT:	ah pense que monsieur cheval a reçu un appel hem ?
+%mor:	co|ah v|penser-PRES&SUB&13s prep|que n|monsieur&m n|cheval&m&sg
+	v:aux|avoir&PRES&3s part|concevoir-PP&m det:art|un&m&sg n|appel&m
+	co|hem ?
+*MOT:	ou c'est +/.
+%mor:	conj|ou pro:dem|ce$v:exist|être&PRES&3s +/.
+*CHI:	non .
+%mor:	co|non=no .
+*MOT:	+, c'est toi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro|toi&sg ?
+*MOT:	j'ai entendu sonner est-ce que tu réponds ?
+%mor:	pro:sub|je$v:aux|avoir&PRES&1s part|entendre-PP&m v|sonner-INF
+	v:int|est–ce adv|que part|taire-PP&m re#v|pondre-IMP&2s ?
+*CHI:	xxx c'est maman .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s n|maman&f .
+*CHI:	ah non c'est vache .
+%mor:	co|ah co|non=no pro:dem|ce$v:aux|être&PRES&3s n|vache&f .
+*MOT:	&=laughs .
+*CHI:	allô .
+%mor:	co|allô .
+*MOT:	comment elle va ?
+%mor:	adv|comment pro:sub|elle v:mdl|aller&PRES&3s ?
+*CHI:	bye .
+%mor:	adv|bye .
+*MOT:	allô byebye .
+%mor:	co|allô adv|byebye .
+%com:	there was overlap between the speakers .
+*MOT:	elle parle pas plus que ça ?
+%mor:	pro:sub|elle v|parler-IMP&2s neg|pas part|plaire-PP&m&pl adv|que
+	pro:dem|ça ?
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	les animaux n' ont pas beaucoup de jasette aujourd'hui ça se peut
+	hem .
+%mor:	det:art|les&pl n|animal&m&pl neg|ne v:aux|avoir&PRES&3p neg|pas
+	adv|beaucoup prep|de n|jasette&f=chitchat adv|aujourd'hui pro:dem|ça
+	pro:refl|se v:mdl|pouvoir&PRES&3s co|hem .
+*CHI:	tiens .
+%mor:	v|tenir-IMP&2s .
+%com:	child hands on the phone to her mother .
+*MOT:	c'est pour moi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|pour pro|moi&sg ?
+*CHI:	xxx .
+*MOT:	c'est qui ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:rel|qui ?
+@Eg
+*CHI:	xxx une vache .
+%mor:	det:art|une&f&sg n|vache&f .
+*MOT:	c'est une vache qui m'appelle ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s det:art|une&f&sg n|vache&f
+	pro:int|qui pro:obj|me$v|appeler-IMP&2s ?
+*MOT:	bonjour madame la vache ça va ?
+%mor:	co|bonjour n|madame&f=madam det:art|la&f&sg n|vache&f pro:dem|ça
+	v:mdl|aller&PRES&3s ?
+*MOT:	oui .
+%mor:	co|oui=yes .
+*MOT:	vous avez pris un bon bain ?
+%mor:	pro:obj|vous v:aux|avoir&PRES&2p part|prendre-PP&m det:art|un&m&sg
+	adj|bon&m n|bain&m ?
+*MOT:	oui vous êtes encore dans le bain ou vous avez, vous êtes sortie ?
+%mor:	co|oui=yes pro:obj|vous v:aux|être&PRES&2p adv|encore prep|dans
+	det:art|le&m&sg n|bain&m conj|ou pro:obj|vous v:aux|avoir&PRES&2p
+	cm|cm pro:obj|vous v:aux|être&PRES&2p n|sortie&f ?
+*CHI:	xxx êtes encore <dans> [x 2] le bain .
+%mor:	v:aux|être&PRES&2p adv|encore prep|dans det:art|le&m&sg n|bain&m .
+*MOT:	oui on me dit ici que vous êtes encore dans le bain Madame_La_Vache
+	.
+%mor:	co|oui=yes pro:sub|on pro:obj|me part|dire-PP&m adv:place|ici
+	adv|que pro:obj|vous v:aux|être&PRES&2p adv|encore prep|dans
+	det:art|le&m&sg n|bain&m n:prop|Madame_La_Vache .
+*MOT:	alors c'est bon ?
+%mor:	adv|alors pro:dem|ce$v:exist|être&PRES&3s co|bon ?
+*MOT:	l'eau est chaude ?
+%mor:	det:art|le$n|eau&f v:aux|être&PRES&3s adj|chaud&f ?
+*MOT:	super !
+%mor:	n|super&m !
+*MOT:	bon bien bon bain alors uh à bientôt !
+%mor:	co|bon n|bien&m adj|bon&m n|bain&m adv|alors co|uh prep|à
+	adv|bientôt !
+*MOT:	hem on se voit cet été !
+%mor:	co|hem pro:sub|on pro:refl|se v|voir&PRES&3s det:dem|cet&m&sg
+	n|été&m !
+*MOT:	bye bye Madame_La_Vache !
+%mor:	adv|bye adv|bye n:prop|Madame_La_Vache !
+*MOT:	voilà .
+%mor:	adv:place|voilà .
+*MOT:	on va ranger .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|ranger-INF .
+*MOT:	je vais t'aider .
+%mor:	pro:sub|je v:mdl|aller&PRES&1s pro:obj|te$v|aider-INF .
+*MOT:	on va ranger tout hem ?
+%mor:	pro:sub|on v:mdl|aller&PRES&3s v|ranger-INF n|tout&m co|hem ?
+*MOT:	les cuillères .
+%mor:	det:art|les&pl n|cuillère&f-PL=spoon .
+*MOT:	quoi d' autre ?
+%mor:	pro:int|quoi adv|de pro|autre&sg ?
+*MOT:	les blocs .
+%mor:	det:art|les&pl n|bloc&m-PL .
+*CHI:	brosse xxx .
+%mor:	n|brosse&f .
+*MOT:	&=laughs avant de ranger c'est une bonne idée .
+%mor:	n|avant&m prep|de v|ranger-INF pro:dem|ce$v:aux|être&PRES&3s
+	det:art|une&f&sg adj|bon&f n|idée&f .
+*MOT:	xxx aller, hem ?
+%mor:	v:mdl|aller&INF cm|cm co|hem ?
+*CHI:	moi je veux les garder avec moi .
+%mor:	pro|moi&sg pro:sub|je v:mdl|vouloir&PRES&12s pro:obj|les
+	v|garder-INF prep|avec pro|moi&sg .
+%com:	child holds the dolls close to her .
+*MOT:	moi je penses qu'il faut les ranger hem ?
+%mor:	pro|moi&sg pro:sub|je v|penser-PRES&SUB&2s pro:rel|que$pro:sub|il
+	v:mdl|falloir&PRES&3s pro:obj|les v|ranger-INF co|hem ?
+*MOT:	on a des poupées nous aussi à la maison hem .
+%mor:	pro:sub|on v:aux|avoir&PRES&3s prep|de&les n|poupée&f-PL
+	pro:obj|nous adv|aussi prep|à det:art|la&f&sg n|maison&f co|hem .
+*MOT:	on leur dit byebye .
+%mor:	pro:sub|on det:poss|leur&sg part|dire-PP&m adv|byebye .
+*MOT:	byebye Antoine .
+%mor:	adv|byebye n:prop|Antoine .
+*MOT:	hm je penses que sous +/.
+%mor:	co|hm pro:sub|je v|penser-PRES&SUB&2s prep|que n|sou&m-PL +/.
+*CHI:	oui .
+%mor:	co|oui=yes .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*CHI:	xxx ça xxx .
+%mor:	pro:dem|ça .
+*MOT:	maintenant c'est rendu un grand lit pour tout_le_monde .
+%mor:	adv|maintenant pro:dem|ce$v:aux|être&PRES&3s n|rendu&m
+	det:art|un&m&sg adj|grand&m n|lit&m prep|pour pro|tout_le_monde .
+*MOT:	hem ?
+%mor:	co|hem ?
+*MOT:	et je penses qu'il reste là-bas, euh le camion .
+%mor:	conj|et pro:sub|je v|penser-PRES&SUB&2s pro:rel|que$pro:sub|il
+	n|reste&m adv:place|là–bas cm|cm co|euh det:art|le&m&sg n|camion&m .
+*CHI:	le camion il va pas là .
+%mor:	det:art|le&m&sg n|camion&m pro:sub|il v:mdl|aller&PRES&3s neg|pas
+	adv:place|là .
+*MOT:	il va où ?
+%mor:	pro:sub|il v:mdl|aller&PRES&3s pro:int|où ?
+*CHI:	ehm il va là .
+%mor:	co|ehm pro:sub|il v:mdl|aller&PRES&3s adv:place|là .
+*MOT:	on met le couvercle ?
+%mor:	pro:sub|on v|mettre-PRES&3s det:art|le&m&sg n|couvercle&m ?
+*MOT:	il est en_dessous regarde .
+%mor:	pro:sub|il v:aux|être&PRES&3s adv:place|en_dessous
+	v|regarder-PRES&SUB&13s .
+*MOT:	prend le .
+%mor:	v|prendre-PRES&3s det:art|le&m&sg .
+*MOT:	tu le mets ?
+%mor:	part|taire-PP&m det:art|le&m&sg n|mets&m ?
+*CHI:	0 .
+%com:	child puts back the lid on the box .
+*MOT:	très bien .
+%mor:	adv|très adv|bien .
+@End

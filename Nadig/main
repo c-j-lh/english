@@ -1,0 +1,2 @@
+grep "xxx" Nadig/* | cut -c3 - | sort | uniq -c
+grep "\&\w*" Nadig/* | grep -v "%mor"

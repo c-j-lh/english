@@ -1,0 +1,449 @@
+@UTF8
+@PID:	11312/a-00005280-1
+@Begin
+@Languages:	fra
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	fra|Nadig|CHI|5;02.18|male|ASD||Child||214|
+@ID:	fra|Nadig|MOT||female|||Mother|less_than_undergraduate||
+@L1 of CHI:	fra
+@L1 of MOT:	fra
+@Bg
+@Types:	cross, toyplay, ASD
+*MOT:	soulager le bébé ?
+%mor:	v|soulager-INF det:art|le&m&sg n|bébé&m ?
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	non le tien .
+%mor:	co|non=no det:art|le&m&sg n|tien&m .
+*MOT:	regarde .
+%mor:	v|regarder-IMP&2s .
+*MOT:	Anton aussi il en a un .
+%mor:	n:prop|Anton adv|aussi pro:sub|il pro:y|en v:aux|avoir&PRES&3s
+	det:art|un&m&sg .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	regarde .
+%mor:	v|regarder-IMP&2s .
+*MOT:	comme ça .
+%mor:	adv|comme pro:dem|ça .
+%com:	child imitates what mom does with spoon and dish .
+*MOT:	mm .
+%mor:	co|mm .
+*MOT:	c'est bon .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s co|bon .
+*MOT:	c'est bon .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s co|bon .
+*CHI:	<uhhuh> [x 2] .
+%mor:	co|uhhuh .
+*MOT:	okay .
+%mor:	co|okay=okay .
+*CHI:	&=screech .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*CHI:	xxx .
+%com:	kid knocks tower down
+*MOT:	oh !
+%mor:	co|oh !
+*CHI:	xxx .
+*MOT:	oh non .
+%mor:	co|oh co|non=no .
+*CHI:	xxx .
+*MOT:	un bloc pour toi xxx .
+%mor:	det:art|un&m&sg n|bloc&m prep|pour pro|toi&sg .
+*CHI:	&=hums .
+*MOT:	un chaque .
+%mor:	det:art|un&m&sg det:gen|chaque .
+*MOT:	<attends> [x 2] .
+%mor:	v|attendre-IMP&2s .
+*MOT:	<un de chaque> [x 3] .
+%mor:	det:art|un&m&sg prep|de det:gen|chaque .
+*MOT:	okay on en a un de chaque .
+%mor:	co|okay=okay pro:sub|on pro:y|en v:aux|avoir&PRES&3s
+	det:art|un&m&sg prep|de det:gen|chaque .
+*CHI:	xxx .
+*MOT:	oh !
+%mor:	co|oh !
+*MOT:	<regarde> [x 2] .
+%mor:	v|regarder-IMP&2s .
+*CHI:	&=hums .
+*CHI:	oh !
+%mor:	co|oh !
+*MOT:	&=engine .
+*CHI:	&=roars .
+*MOT:	ahem .
+%mor:	co|ahem .
+*CHI:	&=engine .
+*MOT:	xxx du sable dedans .
+%mor:	prep|de&le n|sable&m adv:place|dedans .
+*CHI:	&=engine .
+*MOT:	&=engine .
+*MOT:	&=engine .
+*CHI:	&=engine .
+*MOT:	non recule ici .
+%mor:	co|non=no v|reculer-IMP&2s adv:place|ici .
+*MOT:	recule ici .
+%mor:	v|reculer-IMP&2s adv:place|ici .
+*MOT:	on va le .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s det:art|le&m&sg .
+*MOT:	on va le mettre ici Anton .
+%mor:	pro:sub|on v:mdl|aller&PRES&3s pro:obj|le v|mettre-INF
+	adv:place|ici n:prop|Anton .
+*CHI:	&=engine .
+*MOT:	on le met ici comme ça .
+%mor:	pro:sub|on pro:obj|le v|mettre-PRES&3s adv:place|ici adv|comme
+	pro:dem|ça .
+*CHI:	xxx .
+*MOT:	&ou .
+*MOT:	oh !
+%mor:	co|oh !
+*CHI:	oh !
+%mor:	co|oh !
+*MOT:	ouais !
+%mor:	co|ouais=yes !
+*CHI:	ah .
+%mor:	co|ah .
+*CHI:	&=hisses .
+*CHI:	wow !
+%mor:	co|wow !
+*MOT:	xxx stické@s:eng là-dessus .
+%mor:	L2|stické adv:place|là–dessus .
+*CHI:	xxx .
+*CHI:	&m !
+*MOT:	okay on a fini .
+%mor:	co|okay=okay pro:sub|on v:aux|avoir&PRES&3s part|finir-PP&m .
+*MOT:	on arrive à la maison .
+%mor:	pro:sub|on v|arriver-PRES&SUB&13s prep|à det:art|la&f&sg n|maison&f
+	.
+*MOT:	okay .
+%mor:	co|okay=okay .
+*MOT:	mais merci .
+%mor:	adv|mais n|merci .
+*MOT:	merci .
+%mor:	co|merci .
+*MOT:	merci .
+%mor:	co|merci .
+*MOT:	le tien .
+%mor:	det:art|le&m&sg n|tien&m .
+*MOT:	ah merci .
+%mor:	co|ah co|merci .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	&=sips .
+*CHI:	&=sips .
+%com:	mother stirs her drink and sips child does the same .
+*MOT:	ah ça fait du bien hem ?
+%mor:	co|ah pro:dem|ça part|faire-PP&m prep|de&le n|bien&m co|hem ?
+*CHI:	ça xxx bien .
+%mor:	pro:dem|ça adv|bien .
+*MOT:	okay le bébé .
+%mor:	co|okay=okay det:art|le&m&sg n|bébé&m .
+*MOT:	le bébé il faut qu'il boive lui aussi .
+%mor:	det:art|le&m&sg n|bébé&m pro:sub|il v:mdl|falloir&PRES&3s
+	pro:rel|que$pro:sub|il v|boire&PRES&SUB&13s part|luire&PP&m
+	adv|aussi .
+*MOT:	&=hums .
+*CHI:	xxx .
+%com:	child takes doll from mom and imitates what mom was doing .
+*MOT:	&=laughs .
+*MOT:	tu lui chantes tu une chanson ?
+%mor:	part|taire-PP&m part|luire&PP&m v|chanter-PRES&SUB&2s
+	part|taire-PP&m det:art|une&f&sg n|chanson&f ?
+*MOT:	tu lui chantes tu une chanson ?
+%mor:	part|taire-PP&m part|luire&PP&m v|chanter-PRES&SUB&2s
+	part|taire-PP&m det:art|une&f&sg n|chanson&f ?
+*CHI:	non je veux !
+%mor:	co|non=no pro:sub|je v:mdl|vouloir&PRES&12s !
+*MOT:	frère Jacques frère@si .
+%mor:	n|frère&m n:prop|Jacques sing|frère .
+*CHI:	xxx je veux xxx .
+%mor:	pro:sub|je v:mdl|vouloir&PRES&12s .
+*MOT:	ça te tente plus ?
+%mor:	pro:dem|ça pro:obj|te v|tenter-PRES&SUB&13s qn|plus ?
+*MOT:	ça te tente plus ?
+%mor:	pro:dem|ça pro:obj|te v|tenter-PRES&SUB&13s qn|plus ?
+*CHI:	xxx téléphone .
+%mor:	n|téléphone&m=telephone .
+*MOT:	le téléphone ?
+%mor:	det:art|le&m&sg n|téléphone&m=telephone ?
+*MOT:	allô .
+%mor:	co|allô .
+*CHI:	ça va xxx ?
+%mor:	pro:dem|ça v:mdl|aller&PRES&3s ?
+*MOT:	ça va bien ?
+%mor:	pro:dem|ça v:mdl|aller&PRES&3s adv|bien ?
+*CHI:	xxx parle .
+%mor:	v|parler-IMP&2s .
+*MOT:	c'est qui qui parle ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:int|qui pro:int|qui
+	v|parler-PRES&SUB&13s ?
+*CHI:	xxx qui parle .
+%mor:	pro:int|qui v|parler-PRES&SUB&13s .
+*MOT:	c'est qui ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:rel|qui ?
+*CHI:	&=moans .
+*MOT:	c'est quoi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro:rel|quoi ?
+*CHI:	c'est toi .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s pro|toi&sg .
+*MOT:	un livre .
+%mor:	det:art|un&m&sg n|livre .
+*CHI:	xxx .
+*MOT:	www .
+%com:	mother talks to the experimenter .
+*MOT:	héh .
+%mor:	co|héh .
+*MOT:	c'est pour moi ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|pour pro|moi&sg ?
+*MOT:	allô .
+%mor:	co|allô .
+*CHI:	ahhah .
+%mor:	co|ahhah .
+*MOT:	oui ?
+%mor:	co|oui=yes ?
+*CHI:	&=engine .
+*MOT:	Anton il va bien .
+%mor:	n:prop|Anton pro:sub|il v:mdl|aller&PRES&3s adv|bien .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	il est en train de jouer avec un camion .
+%mor:	pro:sub|il v:aux|être&PRES&3s prep|en n|train&m prep|de v|jouer-INF
+	prep|avec det:art|un&m&sg n|camion&m .
+*CHI:	&=grunts .
+*MOT:	des blocs .
+%mor:	prep|de&les n|bloc&m-PL .
+*MOT:	des blocs orange .
+%mor:	prep|de&les n|bloc&m-PL adj|orange .
+*MOT:	des blocs bleus .
+%mor:	prep|de&les n|bloc&m-PL adj|bleu&m-PL .
+*CHI:	xxx .
+*MOT:	les blocs bleus .
+%mor:	det:art|les&pl n|bloc&m-PL adj|bleu&m-PL .
+*CHI:	les blocs bleus .
+%mor:	det:art|les&pl n|bloc&m-PL adj|bleu&m-PL .
+*MOT:	des cylindres .
+%mor:	prep|de&les n|cylindre&m-PL .
+*CHI:	des &cy .
+%mor:	prep|de&les .
+*MOT:	jaunes .
+%mor:	adj|jaune-PL .
+*CHI:	&=engine .
+*CHI:	&=engine .
+*CHI:	&=screams .
+%com:	kid throws the blocks .
+*MOT:	oy !
+%mor:	co|oy !
+*CHI:	&=engine .
+*MOT:	non !
+%mor:	co|non=no !
+*CHI:	&=engine .
+*MOT:	oh non !
+%mor:	co|oh co|non=no !
+*CHI:	wawawawa@o .
+%mor:	on|wawawawa .
+*MOT:	faut pas le détruire .
+%mor:	v:mdl|falloir&PRES&3s neg|pas pro:obj|le v|détruire-INF .
+*MOT:	on le détruit pas .
+%mor:	pro:sub|on det:art|le&m&sg part|détruire-PP&m neg|pas .
+*CHI:	wawawa@o .
+%mor:	on|wawawa .
+*CHI:	&=grunts .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	viens les mettre .
+%mor:	v|venir-IMP&2s det:art|les&pl v|mettre-INF .
+*MOT:	ça rentre pas .
+%mor:	pro:dem|ça v|rentrer-PRES&SUB&13s neg|pas .
+*MOT:	tu joues tu avec moi ?
+%mor:	part|taire-PP&m n|joue&f-PL part|taire-PP&m prep|avec pro|moi&sg ?
+*MOT:	Anton ?
+%mor:	n:prop|Anton ?
+*MOT:	viens les mettre les blocs .
+%mor:	v|venir-IMP&2s det:art|les&pl v|mettre-INF det:art|les&pl
+	n|bloc&m-PL .
+*CHI:	&=hums .
+*MOT:	ouais <mets les dessus> [x 2] .
+%mor:	co|ouais=yes n|mets&m det:art|les&pl adv:place|dessus .
+*MOT:	ouais .
+%mor:	co|ouais=yes .
+*MOT:	bravo .
+%mor:	co|bravo .
+*MOT:	vas_y .
+%mor:	co|vas_y .
+*MOT:	tiens .
+%mor:	v|tenir-IMP&2s .
+*MOT:	oh non non non on détruit pas .
+%mor:	co|oh co|non=no co|non=no co|non=no pro:sub|on part|détruire-PP&m
+	neg|pas .
+*MOT:	continue .
+%mor:	v|continuer-IMP&2s .
+*MOT:	continue .
+%mor:	v|continuer-IMP&2s .
+*MOT:	détruis le pas tout_de_suite .
+%mor:	v|détruire-IMP&2s det:art|le&m&sg neg|pas adv|tout_de_suite .
+*MOT:	Anton .
+%mor:	n:prop|Anton .
+%com:	mom claps to get child' s attention, child destroys the tower .
+*MOT:	ah .
+%mor:	co|ah .
+*MOT:	non .
+%mor:	co|non=no .
+*CHI:	wawawawawawawa@o .
+%mor:	on|wawawawawawawa .
+*MOT:	vas_y .
+%mor:	co|vas_y .
+*MOT:	fais une tour okay ?
+%mor:	v:mdl|faire-PRES&12s det:art|une&f&sg n|tour co|okay=okay ?
+*MOT:	ouais wawawa@o .
+%mor:	co|ouais=yes on|wawawa .
+*CHI:	&=grunts .
+%com:	kid destroys the tower .
+*MOT:	non !
+%mor:	co|non=no !
+*CHI:	wawawawawawawawa@o .
+%mor:	on|wawawawawawawawa .
+*MOT:	ça me fait de la peine .
+%mor:	pro:dem|ça pro:obj|me part|faire-PP&m prep|de det:art|la&f&sg
+	n|peine&f .
+*MOT:	uhoh &=laughs .
+%mor:	co|uhoh .
+*MOT:	ah non .
+%mor:	co|ah co|non=no .
+*CHI:	wawawawawawawawa@o .
+%mor:	on|wawawawawawawawa .
+*CHI:	ah !
+%mor:	co|ah !
+*CHI:	wawawa@o .
+%mor:	on|wawawa .
+*MOT:	ah regarde on va essayer là-dedans ça va être plus stable .
+%mor:	co|ah v|regarder-IMP&2s pro:sub|on v:mdl|aller&PRES&3s
+	v|essayer-INF adv:place|là–dedans pro:dem|ça v:mdl|aller&PRES&3s
+	v:aux|être&INF adv|plus adj|stable .
+*MOT:	non ?
+%mor:	co|non=no ?
+*MOT:	tu veux pas essayer ?
+%mor:	part|taire-PP&m v:mdl|vouloir&PRES&12s neg|pas v|essayer-INF ?
+*CHI:	&=engine &=screams .
+*MOT:	ugh !
+%mor:	co|ugh !
+*CHI:	wawawawa@o .
+%mor:	on|wawawawa .
+*MOT:	tu l'as détruit encore .
+%mor:	part|taire-PP&m pro:obj|le$v:poss|avoir&PRES&2s part|détruire-PP&m
+	adv|encore .
+*CHI:	wawa@o &=engine .
+%mor:	on|wawa .
+*CHI:	on met ça .
+%mor:	pro:sub|on v|mettre-PRES&3s pro:dem|ça .
+*MOT:	aucune idée .
+%mor:	pro|aucune&f&sg n|idée&f .
+*CHI:	xxx .
+*MOT:	regarde une auto !
+%mor:	v|regarder-PRES&SUB&13s det:art|une&f&sg n|auto&f !
+*MOT:	xxx .
+*MOT:	regarde mon auto .
+%mor:	v|regarder-IMP&2s det:poss|mon&m&sg n|auto&f .
+*MOT:	oh elle a pas duré .
+%mor:	co|oh pro:sub|elle v:aux|avoir&PRES&3s neg|pas part|durer-PP&m .
+*CHI:	&=engine wawawawawawa@o .
+%mor:	on|wawawawawawa .
+*MOT:	tu me niaises .
+%mor:	part|taire-PP&m pro:obj|me n|niaise&f-PL .
+%com:	mom takes truck away from child .
+*MOT:	wawawa@o .
+%mor:	on|wawawa .
+*MOT:	c'est à mon tour .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à det:poss|mon&m&sg n|tour .
+*MOT:	c'est à mon tour .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à det:poss|mon&m&sg n|tour .
+*MOT:	&=engine .
+*MOT:	non c'est à mon tour &=engine .
+%mor:	co|non=no pro:dem|ce$v:aux|être&PRES&3s prep|à det:poss|mon&m&sg
+	n|tour .
+@Eg
+*CHI:	&=groans .
+*MOT:	ah merci .
+%mor:	co|ah co|merci .
+*MOT:	merci monsieur Anton .
+%mor:	co|merci n|monsieur&m n:prop|Anton .
+*MOT:	okay on va aller le porter &=engine .
+%mor:	co|okay=okay pro:sub|on v:mdl|aller&PRES&3s v:mdl|aller&INF
+	det:art|le&m&sg v|porter-INF .
+*MOT:	okay on en met d' autres .
+%mor:	co|okay=okay pro:sub|on pro:y|en v|mettre-PRES&3s adv|de
+	pro|autres&pl .
+*MOT:	non laisse les là là-dedans .
+%mor:	co|non=no n|laisse&f det:art|les&pl adv:place|là
+	adv:place|là–dedans .
+*MOT:	laisse les sur le .
+%mor:	n|laisse&f det:art|les&pl prep|sur det:art|le&m&sg .
+*MOT:	okay mets en d' autres .
+%mor:	co|okay=okay n|mets&m prep|en adv|de pro|autres&pl .
+*CHI:	&=hums .
+*MOT:	&=engine .
+*CHI:	&=screams .
+*MOT:	<doucement> [x 2] .
+%mor:	adv|doucement .
+*CHI:	&=screams .
+*MOT:	doucement .
+%mor:	adv|doucement .
+*MOT:	doucement .
+%mor:	adv|doucement .
+*MOT:	&=engine .
+*CHI:	&=screams .
+*MOT:	doucement on lance pas .
+%mor:	adv|doucement pro:sub|on n|lance&f neg|pas .
+*MOT:	assis .
+%mor:	v|asseoir&PASS&12s .
+*MOT:	assis .
+%mor:	v|asseoir&PASS&12s .
+*MOT:	c'est pas fini .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s neg|pas part|finir-PP&m .
+*MOT:	assis .
+%mor:	v|asseoir&PASS&12s .
+*MOT:	assis .
+%mor:	v|asseoir&PASS&12s .
+*MOT:	parfait .
+%mor:	part|parfaire-PP&m .
+*MOT:	c'est à ton tour ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à det:poss|ton&m&sg n|tour ?
+*MOT:	c'est à ton tour là ?
+%mor:	pro:dem|ce$v:aux|être&PRES&3s prep|à det:poss|ton&m&sg n|tour
+	adv:place|là ?
+*CHI:	&=screams .
+*MOT:	okay il faut ranger .
+%mor:	co|okay=okay pro:sub|il v:mdl|falloir&PRES&3s v|ranger-INF .
+*MOT:	faut les ranger .
+%mor:	v:mdl|falloir&PRES&3s pro:obj|les v|ranger-INF .
+*MOT:	okay c'est terminé .
+%mor:	co|okay=okay pro:dem|ce$v:aux|être&PRES&3s part|terminer-PP&m .
+*MOT:	c'est fini .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|finir-PP&m .
+%com:	mom signals with her hands that it is over .
+*MOT:	il faut les ranger .
+%mor:	pro:sub|il v:mdl|falloir&PRES&3s pro:obj|les v|ranger-INF .
+*CHI:	0 .
+%com:	child throws the toy in the box really hard .
+*MOT:	doucement .
+%mor:	adv|doucement .
+*MOT:	doucement .
+%mor:	adv|doucement .
+*CHI:	wawawawa@o .
+%mor:	on|wawawawa .
+*MOT:	bravo .
+%mor:	co|bravo .
+*MOT:	bravo Anton .
+%mor:	co|bravo n:prop|Anton .
+*CHI:	wawawa@o .
+%mor:	on|wawawa .
+*CHI:	&=hums .
+*MOT:	ah ah .
+%mor:	co|ah co|ah .
+*MOT:	c'est bon ça .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s adj|bon&m pro:dem|ça .
+*CHI:	uhoh .
+%mor:	co|uhoh .
+*MOT:	c'est fini bravo .
+%mor:	pro:dem|ce$v:aux|être&PRES&3s part|finir-PP&m n|bravo&m .
+*MOT:	bravo on a &ter .
+%mor:	co|bravo pro:sub|on v:aux|avoir&PRES&3s .
+@End
