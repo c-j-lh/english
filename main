@@ -1,0 +1,33 @@
+#/bin/bash
+grep "xxx" Nadig/* | cut -c3 - | sort | uniq -c
+grep "\&\w*" Nadig/* | grep -v "%mor"
+
+# total
+echo "Total"
+echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep ^.CHI $line; done | wc -l
+echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep ^.CHI $line; done | wc -l
+echo
+
+echo "Neologism"
+echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."@g" $line; done | wc -l
+echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."@g" $line; done | wc -l
+echo
+
+echo "xxx"
+echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."xxx" $line; done | wc -l
+echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."xxx" $line; done | wc -l
+echo
+
+for ii in laughs sips gasps
+do
+echo "$ii"
+echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."&=$ii" $line; done | wc -l
+echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."&=$ii" $line; done | wc -l
+echo
+done
+
+
+#git add -A && git commit -m "-" && git push
+#remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+#remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+#fatal: Authentication failed for 'https://github.com/c-j-lh/english.git/'
