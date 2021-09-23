@@ -1,14 +1,18 @@
 #/bin/bash
-grep "xxx" Nadig/* | cut -c3 - | sort | uniq -c
-grep "\&\w*" Nadig/* | grep -v "%mor"
+#grep "xxx" Nadig/* | cut -c3 - | sort | uniq -c
+#grep "\&\w*" Nadig/* | grep -v "%mor"
 
 # total
-echo "Total"
+echo "Total # lines"
+echo "CHIld"
 echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep ^.CHI $line; done | wc -l
 echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep ^.CHI $line; done | wc -l
+echo "MOTher"
+echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep ^.MOT $line; done | wc -l
+echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep ^.MOT $line; done | wc -l
 echo
 
-echo "Neologism"
+echo "Neologisms"
 echo -n "ASD "; egrep "^.ID.*.ASD" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."@g" $line; done | wc -l
 echo -n "TYP "; egrep "^.ID.*.TYP" * | cut -d: -f 1 | while read line; do grep "^.CHI".*."@g" $line; done | wc -l
 echo
